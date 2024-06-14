@@ -1,0 +1,5 @@
+---
+title: Philosophie
+tags:
+  - philosophie
+---
