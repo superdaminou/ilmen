@@ -2,23 +2,24 @@
 title: Bienvenue
 ---
 
+### On ne peut répondre a des questions complexe avec des réponses simples.
 
-Bienvenue chez moi. Cet espace a pour vocation de partager un ensemble d'information, de connaissances et d'opinions afin de tenter de mieux apréhender le monde qui nous entoure et les évenements qui si produisent.
+Ici vous trouverez trois types de contenu
 
-Cet espace se divise en trois type de contenu:
+- La vulgarisation et des [[fiche_lecture|résumés]] sur les sujets et livres qui me passionnent.
+- Des réflexions personnelles en lien avec les sujets abordés. 
+- Des tentatives d'introspections sur mes propre biais et défauts de [[structuration_pensee|pensée]] 
 
-- La vulgarisation et les résumés sur les sujets qui me passionnent et sur lesquelles je tente d'apprendre en permanences.
-- Des réfléxions personnelles en lien avec les sujets abordés. 
-- Des tentatives d'introspections pour mieux critiquer et prendre du recul sur mes propres anaylises et biais qui peuvent y être associés
-
-Mes sujets de prédilections sont:
-- [[tags/philosophie| La philosophie]]
-- [[tags/politique| La politique]]
-- [[tags/histoire| L'histoire]]
-- [[tags/sociologie| La sociologie]]
-
-Je cherche notamment a comprendre et à [[/structuration_pensee|structurer ma pensée]] autour de l'agencement et la connexion de ses différents sujets pour mieux aborder l'actualité. 
+Les grands sujets traités:
+- [[tags/philosophie| De la philosophie]]
+- [[tags/politique| De la politique]]
+- [[tags/histoire| De l'histoire]]
+- [[tags/sociologie| De la sociologie]]
 
 > [!warning] Attention
 > 
-> Je ne suis en aucun cas un expert sur la majorité des sujets qui vont être abordés. La seul légitimité de mes propos sera celle qui me sera accordés. J'invite toute personne trouvant un sujet intéressant a aller creuser le sujet auprès de personne plus légitime (chercheur/chercheuse). 
+> Je ne suis en aucun cas un expert sur la majorité des sujets qui vont être abordés. La seul légitimité de mes propos sera celle qui me sera accordés. J'invite toute personne trouvant un sujet intéressant a aller creuser les sources que je fourni ou se renseigner auprès de personne plus légitime. 
+
+Vous pouvez aussi voir plus précisément [[presentation|qui je suis]] et quel sont [[intention|mes intentions]]
+
+Si je raconte n'importe quoi vous pouvez me le signaler ici: damien@ilmen.fr
