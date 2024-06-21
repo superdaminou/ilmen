@@ -2,9 +2,11 @@
 title: Mes intentions
 ---
 
-Des gens meurs.
-De vieillesse
+Le projet de cet espace est de partager et mettre a disposition la (maigre) connaissance que j'ai.
+Je crois beaucoup dans la démocratie et je pense que c'est une chose qu'il faut défendre et construire. Que ça se travaille.
 
-Et 
+Ca se travaille dans un premier lieu en parlant. En donnant son avis en s'exprimant. Ca se travaille en écoutant les autres. En ayant de l'empathie, en comprenant les positions et les avis pour construire un dialogue qui a du sens. 
 
-De froid, de faim, de soif, de maladie, de guerres, sous les décombre, sous les bombes, sous les balles, dans une explosion, sur une mine, pendu, battu, noyé, jeté d'un pont, exécuté, seul, sous les coups , d'un coup de couteau, a genoux, debout, dans leurs lits, dans un dernière étreinte, dans la haine, dans la peur, de froid, de chaud, de façon spectaculaire, de façon anecdotiques, pour eux, pour les autres, a cause des autres. Et chacun de ces morts est une tragédie dont l'éradication devrait être notre seul objectif.
+Ca se travaille avec de la connaissance, en ayant une compréhension des enjeu et de leurs implication. En respectant la parole de ceux qui connaisse un sujet et en la diffusant sans non plus la sanctuarisé mais en la mettant à son juste niveau pour se l'approprier et la mobiliser dans les débats qui nous passionnent. 
+
+J'essaye donc d'apporter ma petite pierre a ce grand édifice en partageant les choses que je sais et en m'exprimant sur les sujets qui me passionnent.  

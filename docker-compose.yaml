@@ -1,0 +1,5 @@
+services:
+  ilmen:
+    image: ilmen/ilmen_site:latest
+    ports:
+      - 8080:80

@@ -1,16 +1,16 @@
 ---
-title: L'Ideologie
+title: l’idéologie
 tags:
-  - philosophie
-  - politique
+- philosophie
+- politique
 ---
 
 
-Ce terme doit être réhabilité pour mieux comprendre notre environnements et les actions des gens. L'idéologie et ce qui nous permet tous d'aprehender le réel.
-Nous avons tous une certain rapport au monde et aux choses qui s'y passe et nous avons tous, de façon plus moins conscientisé, un certain logiciel interne nous permettant d'intéragir et de comprendre ce monde.
+Ce terme doit être réhabilité pour mieux comprendre notre environnement et les actions des gens. L'idéologie et ce qui nous permet tous d’appréhender le réel.
+Nous avons tous un certain rapport au monde et aux choses qui s'y passe et nous avons tous, de façon plus moins conscientisé, un certain logiciel interne nous permettant d’interagir et de comprendre ce monde.
 
-Notre conception personnel de la [[/nature_humaine|nature humaine]] va nous orientier en politique répressive et de surveillances. Va nous donner une certaines vision de l'économie et ce qui est une "bonne économie".
+Par exemple notre conception personnelle de la [[/nature_humaine|nature humaine]] va nous permettre d'analyser et de plaquer une explication sur les faits divers auxquelles nous sommes confrontés. La façon dont nous allons expliquer ces faits va nous orienter en politique répressive et de surveillances. Va nous donner une certaine vision de l'économie et ce qui est une "bonne économie".
 
-Cet idéologie est formé de différentes façon et, sauf pour les essentialiste peut être, on ne nait pas en ayant déjà notre logiciel interne qui est prêt. Il est formé petit a petit par notre environnement direct. Cela passe par une éducation, un environnement social, une exposition médiatique ou des arguments déployé. 
+Cette idéologie est formée de différentes façons et on ne naît pas en ayant déjà notre logiciel interne qui est prêt et figé. Il est formé petit à petit par notre environnement direct. Cela passe par une éducation, un environnement social, une exposition médiatique et une histoire personnelle. 
 
-Une idéologie peut aussi être appuyé par des faits et des recherches. Cela ne signifie pas que l'idéologie est "la bonne" mais seulement que elle est coherentes et que l'on peut l'appliquer a certaines analyses. Ces faits n'étant pas ailleurs pas fixé dans le temps, comme les thése raciste qui ont tenté de s'appuyer sur la science pour s'auto-justifier mais dont les recherches ont été complétement remises en cause.
+Une idéologie peut aussi être appuyée par des faits et des recherches. Cela ne signifie pas que l'idéologie est "la bonne" mais seulement qu'elle est cohérentes et que l'on peut l'appliquer à certaines analyses. Ces faits n'étant pas ailleurs pas fixés dans le temps, comme les thèses raciste qui ont tenté de s'appuyer sur la science pour s'auto-justifier, mais dont les recherches ont été complètement remises en cause.
