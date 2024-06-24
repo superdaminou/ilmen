@@ -42,3 +42,16 @@ jobs:
         with:
           push: true
           tags: ghcr.io/superdaminou/ilmen:latest
+
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: executing remote ssh
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USER }}
+          password: ${{ secrets.PASSWORD }}
+          script: 
+            docker compose down
+            docker compose up
