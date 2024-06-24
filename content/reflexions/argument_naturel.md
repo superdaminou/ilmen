@@ -1,6 +1,6 @@
 ---
 title: L'argument du naturel
 tags:
-    - philosophie
+  - philosophie
 draft: true
 ---
