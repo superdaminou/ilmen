@@ -1,0 +1,42 @@
+name: Build and Test
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - ci
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    permissions:
+      packages: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - run: npm ci
+      - name: Check types and style
+        run: npm run check
+      - name: Test
+        run: npm test
+      - name: Ensure Quartz builds, check bundle info
+        run: npx quartz build --bundleInfo
+
+      - name: "Login to GitHub Container Registry"
+        uses: docker/login-action@v1
+        with:
+          registry: ghcr.io
+          username: superdaminou
+          password: ${{secrets.GITHUB_TOKEN}}
+
+      - name: Build and push
+        uses: docker/build-push-action@v6
+        with:
+          push: true
+          tags: ghcr.io/superdaminou/ilmen:latest
