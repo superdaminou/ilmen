@@ -18,10 +18,10 @@ Les grands sujets traités :
 
 > [!warning] Attention
 > 
-> Je ne suis en aucun cas un expert sur la majorité des sujets qui vont être abordés. La seule légitimité de mes propos sera celle qui me sera accordée. J'invite toute personne trouvant un sujet intéressant à aller creuser les sources que je fournis ou à se renseigner auprès de personne plus légitime. 
+> Je ne suis en aucun cas un expert sur la majorité des sujets qui vont être abordés. La seule légitimité de mes propos sera celle qui me sera accordée. J'invite toute personne trouvant un sujet intéressant à aller creuser les sources que je fournis ou à se renseigner auprès de personne plus légitime.
 
 Vous pouvez aussi voir plus précisément [[presentation|qui je suis]] et quel sont [[intentions|mes intentions]]
 
 Vous remarquerez que j'ai n'ai ni la grammaire ni l'orthographe les plus carrée, j'en appelle a votre indulgence.
 
-Si je raconte n'importe quoi vous pouvez me le signaler ici: damien@ilmen.fr
+Pour toute réclamation vous pouvez me le signaler ici: damien@ilmen.fr
