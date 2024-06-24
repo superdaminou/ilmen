@@ -1,5 +1,5 @@
 services:
   ilmen:
-    image: ilmen/ilmen_site:latest
+    image: ghcr.io/superdaminou/ilmen:latest
     ports:
-      - 8080:80
+      - 80:80
