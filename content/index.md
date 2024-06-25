@@ -10,12 +10,7 @@ Ici, vous trouverez trois types de contenu.
 - Des réflexions personnelles en lien avec les sujets abordés.
 - Des tentatives d'introspections sur mes propres biais et défauts de [[structuration_pensee|pensée]]
 
-Les grands sujets traités :
-
-- [[tags/philosophie| De la philosophie]]
-- [[tags/politique| De la politique]]
-- [[tags/histoire| De l'histoire]]
-- [[tags/sociologie| De la sociologie]]
+Globalement j'aime bien parlé de [[tags/philosophie| philosophie]], [[tags/politique| de la politique]], [[tags/histoire| d'histoire]] et de [[tags/sociologie| sociologie]] et d'encore bien [[tags/ |d'autres choses]]
 
 > [!warning] Attention
 >

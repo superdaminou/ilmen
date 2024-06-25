@@ -9,4 +9,4 @@ Ca se travaille dans un premier lieu en parlant. En donnant son avis en s'exprim
 
 Ca se travaille avec de la connaissance, en ayant une compréhension des enjeu et de leurs implication. En respectant la parole de ceux qui connaisse un sujet et en la diffusant sans non plus la sanctuarisé mais en la mettant à son juste niveau pour se l'approprier et la mobiliser dans les débats qui nous passionnent.
 
-J'essaye donc d'apporter ma petite pierre a ce grand édifice en partageant les choses que je sais et en m'exprimant sur les sujets qui me passionnent.
+J'essaye donc d'apporter ma petite pierre à ce grand édifice en partageant les choses que je sais, celles que je crois savoir et en m'exprimant sur les sujets qui me passionnent.

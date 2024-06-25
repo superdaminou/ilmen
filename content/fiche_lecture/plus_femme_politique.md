@@ -3,6 +3,7 @@ title: Plus de femme en politique
 tags:
   - politique
   - feminisme
+  - fiche_lecture
 ---
 
 Publié le 24/03/2022 de Lea Chamboncel aux Editions Belfond

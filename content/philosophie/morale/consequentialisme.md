@@ -2,6 +2,7 @@
 title: Le Conséquentialisme
 tags:
   - philosophie
+  - morale
 ---
 
 Le déontologisme est très rapidement mis a l'épreuve lorsque l'on essaye de trouver des cas plus complexe et de se confronter a des exercices de pensée.
