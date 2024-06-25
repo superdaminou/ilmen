@@ -1,3 +1,3 @@
 ---
-title: Fiche de lecture
+title: Condensé de contenu
 ---

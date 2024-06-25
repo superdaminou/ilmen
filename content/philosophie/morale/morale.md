@@ -4,7 +4,7 @@ tags:
   - philosophie
 ---
 
-La morale est un point crucial dans notre rapport au monde et aux événements. Et nos jugements moraux nous semblent souvent évidents.
+La morale est un point crucial dans notre rapport au monde et aux événements. Et nos jugements moraux nous semblent souvent [[../reflexions/evidence|évidents]].
 
 Cependant, il faut peu de temps et de discussion pour se rendre compte que nous avons souvent des jugements différents les uns des autres.
 

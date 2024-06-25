@@ -7,7 +7,7 @@ tags:
 
 La violence, ce n'est pas bien. Bon, okay. Mais encore ?
 
-On parle souvent de violence dans le débat public et elle est souvent invoquée pour mobiliser contre un adversaire identifié comme violent ou pour décrédibiliser une personne, car elle aurait commis ou soutenu des violences. Bref c'est souvent un [[../philosophie/morale|argument moral]] un peu facile à poser et qui empêche d'approfondir le fond du sujet.
+On parle souvent de violence dans le débat public et elle est souvent invoquée pour mobiliser contre un adversaire identifié comme violent ou pour décrédibiliser une personne, car elle aurait commis ou soutenu des violences. Bref c'est souvent un [[../philosophie/morale/morale|argument moral]] un peu facile à poser et qui empêche d'approfondir le fond du sujet.
 
 Ce qui est pratique, c'est qu'au fond, c'est [[/evidence|évident]] que la violence ce n'est pas bien.
 
@@ -28,11 +28,11 @@ Cependant, il apparaît assez vite que nous ne sommes pas tous d'accord sur ce q
 
 La qualification de violence semble donc être subjective aux gens. Si elle est subjective, il me semble crucial d'écouter attentivement dès qu'une personne nous dit subir de la violence. Il faut qu'on comprenne d'où vient le sentiment de violence. Qu'est-ce qui a été nié, pourquoi ?
 
-Et on pourrait même en arriver à justifier la violence. On l'a même déjà fait, on le fait même tout le temps. Peu de personnes condamnent [[../philosophie/morale|moralement]] les résistants français qui ont commis des actes de violences physiques sur l’occupant nazi. On accepte assez volontiers qu'une personne se défende violemment contre un agresseur. Après tout, on accepte toujours collectivement la notion d'emprisonnement, qui est une forme de violence que l'on inflige au prisonnier.
+Et on pourrait même en arriver à justifier la violence. On l'a même déjà fait, on le fait même tout le temps. Peu de personnes condamnent [[../philosophie/morale/morale|moralement]] les résistants français qui ont commis des actes de violences physiques sur l’occupant nazi. On accepte assez volontiers qu'une personne se défende violemment contre un agresseur. Après tout, on accepte toujours collectivement la notion d'emprisonnement et l'isolement, qui est une forme de violence que l'on inflige au prisonnier.
 
 On voit des violences qui étaient réprimées et disqualifiées à un moment de l'histoire être glorifié à un autre moment. Est-il possible que certains actes auto-disqualifiés aujourd'hui car caractérisé de viol soit plus tard considéré comme justifié ? Il y a peu de raison que ça ne soit pas le cas et pour ne pas nous égarer, il est donc nécessaire de s’arrêter sur la violence. De prendre du temps pour analyser. Pour comprendre ses fondements et la traiter correctement.
 
-### Ressources divers:
+### Ressources diverses:
 
 - [Surveiller et punir ](https://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Histoires/Surveiller-et-punir)
 - [Sociologie de la délinquance et de la justice pénale] (https://www.cairn.info/sociologie-de-la-delinquance-et-de-la-justice-pena--9782749207629.htm)

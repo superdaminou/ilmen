@@ -20,7 +20,7 @@ Il existe une figure complètement théorique du "bon pauvre". Celui qui fait de
 
 ## Ne pas tomber dans le misérabilisme
 
-Une vision stéréotypé ne doit pas en remplacer une autre. La pauvreté est un milieu social avec plusieurs dynamiques. Il existe des comportements [[../philosophie/morale|amoraux]] comme partout. Il ne faut pas non plus idéaliser une certaine culture spécifique du pauvre ou y voir une déterminisme lié a un manque de culture ou une autre caractéristique.
+Une vision stéréotypé ne doit pas en remplacer une autre. La pauvreté est un milieu social avec plusieurs dynamiques. Il existe des comportements [[../philosophie/morale/morale|amoraux]] comme partout. Il ne faut pas non plus idéaliser une certaine culture spécifique du pauvre ou y voir une déterminisme lié a un manque de culture ou une autre caractéristique.
 
 C'est une position sociale sur laquelle on pose un certains nombre de stigmates et de comportements. Personne n'a envie d'être vu et caractérisé comme pauvre et cela s'accompagne généralement d'un sentiment de honte.
 
