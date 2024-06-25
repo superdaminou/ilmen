@@ -4,7 +4,7 @@ tags:
   - reflexion
 ---
 
-Il faut qu'on se méfie de l'évidence. Avoir l'évidence comme seul preuve pour un jugement est souvent risquée. Une pratique qui me semble saine c'est de se forcer a penser contre soi même. Pourquoi je penses que c'est évident ? Quels argument pourrait on me sortir ? Suis je capable de trouver des limites ou des conditions qui remettraient en cause mon évidence ? Cela peut nous permettre de nous prémunir de raisonnement erroné et d'éviter de se faire avoir par des discours qui peuvent nous induire en erreur.
+Il faut qu'on se méfie de l'évidence. Avoir l'évidence comme seule preuve pour un jugement est souvent risqué. Une pratique qui me semble saine, c'est de se forcer à penser contre soi-même. Pourquoi je pense que c'est évident ? Quel argument pourrait-on me sortir ? Suis-je capable de trouver des limites ou des conditions qui remettraient en cause mon évidence ? Cela peut nous permettre de nous prémunir de raisonnement erroné et d'éviter de se faire avoir par des discours qui peuvent nous induire en erreur.
 
 ### Ressource
 

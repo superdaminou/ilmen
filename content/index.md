@@ -10,7 +10,7 @@ Ici, vous trouverez trois types de contenu.
 - Des réflexions personnelles en lien avec les sujets abordés.
 - Des tentatives d'introspections sur mes propres biais et défauts de [[structuration_pensee|pensée]]
 
-Globalement j'aime bien parlé de [[tags/philosophie| philosophie]], [[tags/politique| de la politique]], [[tags/histoire| d'histoire]] et de [[tags/sociologie| sociologie]] et d'encore bien [[tags/ |d'autres choses]]
+Globalement j'aime bien parlé de [[tags/philosophie|philosophie]], de [[tags/politique|politique]], [[tags/histoire|d'histoire]], de [[tags/sociologie|sociologie]] et d'encore bien [[tags/ |d'autres choses]]
 
 > [!warning] Attention
 >
@@ -18,6 +18,6 @@ Globalement j'aime bien parlé de [[tags/philosophie| philosophie]], [[tags/poli
 
 Vous pouvez aussi voir plus précisément [[presentation|qui je suis]] et quel sont [[intentions|mes intentions]]
 
-Vous remarquerez que j'ai n'ai ni la grammaire ni l'orthographe les plus carrée, j'en appelle a votre indulgence.
+Vous remarquerez que j'ai n'ai ni la grammaire ni l'orthographe la plus carrée, j'en appelle à votre indulgence.
 
 Pour toute réclamation vous pouvez me le signaler ici: damien@ilmen.fr
