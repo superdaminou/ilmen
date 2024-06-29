@@ -6,11 +6,13 @@ tags:
 
 J'essaye de structurer ma pensée en 3 différents niveaux d'analyse. Je pense que ce sont trois niveaux sont très profondément connecté et qu'il faut passer de l'un a l'autre régulièrement pour bien comprendre leurs interactions.
 
-## Un niveau systémique
+## Un niveau systémique et global
 
-En tentant de comprendre les grandes [[/politique/ideologie|idéologies]] et les grands mouvements politiques, leurs imbrications dans l'histoire et la façon dont cela structure globalement notre monde d'aujourd'hui
+Comprendre les règle qui dépasse notre seul espèce humaine. Un peu de notre fonctionnement biologique. Nous sommes régis par plein de loi de la physique et biologique.
 
 ## Un niveau local
+
+En tentant de comprendre les grandes [[/politique/ideologie|idéologies]] et les grands mouvements politiques, leurs imbrications dans l'histoire et la façon dont cela structure globalement notre monde d'aujourd'hui
 
 A travers, entre autres, la [[tags/sociologie|sociologie]] et la compréhension des dynamiques entre les groupes de personnes et comment cela peut s'inscrire dans un espace restreint.
 

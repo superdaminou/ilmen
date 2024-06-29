@@ -1,8 +1,8 @@
 ---
 title: Les impôts
 tags:
-    - politique
-    - vulgarisation
+  - politique
+  - vulgarisation
 draft: true
 ---
 
@@ -15,30 +15,36 @@ Mais cela pas se décliner au niveau municipale ou être des entités complètem
 
 ## Pour quoi
 
-Ces impôts servent à faire fonctionner l'entité en payant les gens ou leurs fournissant ce qui est nécessaire pour vivre. Le reste est ensuite utilisé de multiples façon: 
+Ces impôts servent à faire fonctionner l'entité en payant les gens ou leurs fournissant ce qui est nécessaire pour vivre. Le reste est ensuite utilisé de multiples façon:
 
 - Construction d’hôpitaux ou d'armes
 - Financement de programmes de sensibilisation
-- Achat de ressources ou de materiel
+- Achat de ressources ou de matériel
 - Reversement direct aux individus ou aux structure (associatives, entreprises, ...)
 
 ## Pourquoi
 
-Cette forme de pôt commun permet d'accumuler un montant suffisant pour financer des projets nécessitant trop d'investissement pour un individu ou petite structure. 
+Cette forme de pot commun permet d'accumuler un montant suffisant pour financer des projets nécessitant trop d'investissement pour un seul individu ou petite structure.
+
 Elle permet aussi de faire fonctionner la structure sociale et faisant participer tout le monde au fonctionnement collectif et peut permettre une redistribution des richesses.
 
 ## Comment
 
-Il existe plusieurs deux façon de prélever l'impôts:
+Il existe deux façon de prélever l'impôts:
 
-- Fixe: tout le monde paye exactement la même choses. comme la TVA.  
-- Progressive, comme l’impôt sur le revenu.
+- Fixe: tout le monde paye exactement la même choses. comme la TVA.
+- Progressive: Dépendant du revenus et capital de la personne.
 
-En France les montant des impôts sur le revenu et progressif. 
-- En dessous de 11000 on ne paye pas d’impôt. 
+En France les montant des impôts sur le revenu et progressif.
+
+- En dessous de 11000 on ne paye pas d’impôt.
 - L'argent perçu au dessus de 11000 et jusqu'à 29000 euros et taxé à 11%
 - de 29000 à 82000 euros le prélèvement est de 30%
-- etc... 
+- etc...
+
+## Par qui
+
+Dans les états démocratique l'impôt et géré par le gouvernement et les assemblés régissant les lois. Une augmentation d'impôts ou une diminution est un choix politique. De même la façon l'argent est réparti entre les différents poste de dépenses (santé, sécurité, éducation) en fonction des rapport des forces politiques et la capacité du gouvernement à faire passer un projet sans approbation de la majorité.
 
 ## Ressources
 

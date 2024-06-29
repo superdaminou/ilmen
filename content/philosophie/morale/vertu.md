@@ -5,7 +5,7 @@ tags:
 draft: true
 ---
 
-La vertue va se concentrer sur les qualités intrasèque de la peronne
+La vertu va se concentrer sur les qualités intrinsèque de la personne
 
 > [warning]
 > Moins compétent sur ce sujet

@@ -1,6 +1,6 @@
 ---
-title: 'Politique: philosophie et propos de bar' 
+title: "Politique: philosophie et propos de bar"
 tags:
-    - politique
+  - politique
 draft: true
 ---

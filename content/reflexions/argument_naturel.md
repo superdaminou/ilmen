@@ -21,11 +21,10 @@ En ce reposant majoritairement sur des arguments pseudo-scientifique et du cherr
 Pourtant, nos constructions physiques ne sont jamais catégorisées comme naturelles. Elles sont humaines oui, mais pas naturelle. Comme si on devait bien le différencier du reste, de ce qui se fait sans nous, sans notre intervention et dans lequel nous n'avons aucun rôle. Pourtant encore une fois, nous faisons partie du règne animal et donc les comportements et construction que nous produisons n'ont pas de raison d'être sorti du naturel. Est-ce qu'un barrage de castors est naturel ? Un seul castor peut construire à lui tout seul un barrage. Les ruches sont construites par un ensemble d'individus. Qu'est-ce qui justifie que nos réalisations soient hors du naturel ?
 Un argument pourrait être la notion d'industrialisation sous-jacente de nos réalisations, ou le nombre de transformation. De façon plus simple "la complexité" de la réalisation. Jusqu'ici, je n'ai pas réussi à trouver de seuil de complexité précis.
 
-
 ## Ressources diverses
 
 - [13 animaux architectes et leurs magnifiques constructions](https://generationvoyage.fr/13-animaux-architectes-magnifiques-constructions/)
 - [L'homosexualité existe-t-elle chez les animaux ?](https://www.mnhn.fr/fr/l-homosexualite-existe-t-elle-chez-les-animaux)
 - [Bienvenue a Gattaca](https://www.allocine.fr/film/fichefilm_gen_cfilm=17079.html)
 - [Le guide du féminisme pour les hommes et par les hommes ] (https://www.librairie-des-femmes.fr/livre/9782290202739-le-guide-du-feminisme-pour-les-hommes-et-par-les-hommes-michael-kaufman-michael-kimmel-pacco/)
-- 
+-
