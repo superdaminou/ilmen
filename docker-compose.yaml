@@ -3,4 +3,4 @@ services:
     image: ghcr.io/superdaminou/ilmen:latest
     pull_policy: always
     ports:
-      - 80:80
+      - 8085:80

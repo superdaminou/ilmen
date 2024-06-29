@@ -6,7 +6,7 @@ tags:
 ---
 
 Denis Colombi  
-Editions payot, 15/01/2020
+Éditions payot, 15/01/2020
 
 ## Une vision du pauvre
 
@@ -33,9 +33,9 @@ L'argent a une image qui est vu comme corrupteur sur les pauvres. On évite donc
 Il existe toujours cette présomption de non retenu. Si on donne de l'argent a un pauvre il va directement le dépenser dans l'alcool ou les achats "superflus".
 Les limites sur la gestion de l'argent sont par ailleurs assez flous. La ou l'accumulation est généralement bien vu (A venir: Le Capitalisme), on considère l'excès comme une mauvais chose. Le passage de l'un a l'autre n'étant pas définis et dépendant souvent de l'acteur social jugé.
 
-## Jugement sur la dépense.
+## Jugement sur la dépense
 
-Il existe un discours qui est produit pour juger si oui ou non une dépense est une bonne dépense. Par exemple avec le jouer de foot Ribery qui s'était payé un steak doré qui était jugé comme déplacé et une mauvaise gestion. Ce même discours n'est pas appliqué sur d'autres acteur ayant le même genre d'action.
+Il existe un discours qui est produit pour juger si oui ou non une dépense est une bonne dépense. Par exemple avec le joueur de foot Ribery qui avait payé un steak doré qui était jugé comme déplacé et une mauvaise gestion. Ce même discours n'est pas appliqué sur d'autres acteur ayant le même genre d'action.
 
 Pour pouvoir dépenser il faut le mériter. Ce principe est toujours flou mais va être posé comme une évidence pour distinguer la bonne dépense de la mauvaise, ou plutôt le bon du mauvais dépensier.
 
@@ -60,7 +60,7 @@ Il y a donc une notion fine de l'argent. Par ailleurs l'argent issue des allocat
 
 La ou on considère que l'argent des riches et bien le leurs et qu'ils ont donc toutes libertés pour son usage, on considère que l'argent des pauvres n'est pas vraiment le leurs et donc que l'on a un droit de contrôle sur son utilisation.
 
-## Une conscience de sa pauvreté.
+## Une conscience de sa pauvreté
 
 Les pauvres se savent pauvres. Ils ont consciences des contraintes auxquelles ils sont soumis et des possibilités ou non d'évolution. Beaucoup pensent qu'il existe peu de chance qu'ils sortent de leurs condition et s'adapte donc en conséquence. Ils se permettent donc un certain niveau de plaisir car de toute façon il ne pourrons pas devenir riches. Ce sont des achats qui permette aussi de supporter la condition, on observe une forte corrélation entre pauvreté et achat de d'alcool, cigarettes et drogues.
 
@@ -97,7 +97,7 @@ La pauvreté est un état de la société qui est accepté et maintenu.
 
 La pauvreté est un état qui est donc maintenu. De façon non consciente à travers un ensemble de stigmate, d'opinion et de stéréotypes sur le sujet.
 
-Mais aussi de façon consciente. La pauvreté est un élément de notre organisation sociale. La pauvreté permet d'assurer une compétition pour les emploi et une forme d'exploitation de cette pauvreté. Il est bien pratique d'avoir des pauvres pour le travail que personne d'autres ne veut faire. On peut avoir un intérêt personnel à rendre une personne plus pauvre. A travers des pratiques exploitant les biais et les mauvaises connaissance des pauvres on peut leurs vendre des produits, des solution, des assurances dans une volonté purement marchande et qui va tirer profits de l'acheteur. Ces pratiques vont enlever des euros supplémentaires a des gens qui sont déjà pauvres et les enfoncer encore plus dans la précarités.
+Mais aussi de façon consciente. La pauvreté est un élément de notre organisation sociale. La pauvreté permet d'assurer une compétition pour les emploi et une forme d'exploitation de cette pauvreté. Il est bien pratique d'avoir des pauvres pour le travail que personne d'autres ne veut faire. On peut avoir un intérêt personnel à rendre une personne plus pauvre. A travers des pratiques exploitant les biais et les mauvaises connaissance des pauvres on peut leurs vendre des produits, des solution, des assurances dans une volonté purement marchande et dont l'acheteur va pouvoir tirer profit. Ces pratiques vont enlever des euros supplémentaires a des gens qui sont déjà pauvres et les enfoncer encore plus dans la précarités.
 
 Les pauvres participent à l'économie globale mais en voit rarement les retours. En achetant, en échangeant en agissant dans l’environnement les pauvres produisent un certains nombre de comportement dont on peut tirer un certains profits.
 

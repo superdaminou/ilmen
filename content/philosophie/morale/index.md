@@ -1,3 +1,3 @@
 ---
-title: La morale
+title: Morale
 ---

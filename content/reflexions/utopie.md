@@ -12,7 +12,7 @@ Par exemple, j'aimerais que le travail ne soit plus une obligation. Une partie d
 
 Je sais que dans mon utopie la police comme on l'entend habituellement n'aurais pas lieu d'être. Car il n'y aurait pas de raison suffisante. Alors cela vient peut d'un certain optimisme sur ce que pourrais être la "nature humaine". Mais ça me donne comme objectif de comprendre le fonctionnement de la délinquance. Ces actes que l'on reprouve collectivement peuvent, ils être analysés, étudiés, expliqués ? Si oui, peut-on agir dessus ? Peut-on réduire le risque d'acte ? Quels seraient les moyens nécessaires pour atteindre cet horizon ?
 
-Je suis sûr que nous avons tous des utopies qui vont se rejoindre. Chacune avec sa particularité, [[../ideologie|car nous avons chacun notre rapport au monde]], mais nous avons assez de ressemblance pour désirer des choses similaires: la paix, l'indépendance, la sécurité, le respect, etc...
+Je suis sûr que nous avons tous des utopies qui vont se rejoindre. Chacune avec sa particularité, [[../philosophie//ideologie|car nous avons chacun notre rapport au monde]], mais nous avons assez de ressemblance pour désirer des choses similaires: la paix, l'indépendance, la sécurité, le respect, etc...
 
 Alors travaillons en ce sens.
 

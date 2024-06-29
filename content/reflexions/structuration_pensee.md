@@ -1,5 +1,5 @@
 ---
-title: Structuration de ma pensée
+title: Comment penser
 tags:
   - reflexion
 ---
@@ -8,7 +8,7 @@ J'essaye de structurer ma pensée en 3 différents niveaux d'analyse. Je pense q
 
 ## Un niveau systémique
 
-En tentant de comprendre les grandes [[ideologie|idéologies]] et les grands mouvements politiques, leurs imbrications dans l'histoire et la façon dont cela structure globalement notre monde d'aujourd'hui
+En tentant de comprendre les grandes [[/politique/ideologie|idéologies]] et les grands mouvements politiques, leurs imbrications dans l'histoire et la façon dont cela structure globalement notre monde d'aujourd'hui
 
 ## Un niveau local
 

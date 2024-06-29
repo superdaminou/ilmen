@@ -20,7 +20,7 @@ De 1870 à 1940 apparaît un essor des mouvements féministe pour s'imposer comm
 
 Car malgré les évolutions de mentalité, la résistance des institutions est forte. Par exemple en 1936, la proposition de loi accordant le droit de vote aux femmes voté à l'unanimité par les députés ne sera jamais examinée par le Senat.
 
-En cette même année, le gouvernement de Leon Blum voit entrer pour la première fois 3 femmes en son sein en tant que Secretaire d'Etat (Cecile Brunschvicg Suzanne Lacore et
+En cette même année, le gouvernement de Leon Blum voit entrer pour la première fois 3 femmes en son sein en tant que Secrétaire d'Etat (Cecile Brunschvicg Suzanne Lacore et
 Irène Joliot Curry)
 
 Nous en arrivons à l'obtention du droit de vote en 1944, cependant ce choix s'illustre plus comme une façon de résister à la menace communiste qu'une volonté réel d'égalité car les femmes sont encore vues comme très influençables notamment par le clergé et leurs maris et voterons plutôt conservateur.
@@ -31,7 +31,7 @@ Nous voyons alors un ressort des lois pour la parité jusqu'à aujourd'hui avec 
 En 2020 nous voyons apparaître le premier dépassement de la parité avec 22 femmes contre 20 homme sous le gouvernement de Castex.
 
 Pour conclure cette première partie, petit état des lieus à un niveau mondial, en s'attardant sur l'exemple les Pays du Nord et leur image de bon élève.
-Le droit de vote a été obtenu assez tot (1906 pour la Finlande et 1913 pour la Norvege) et les luttes féministe ont été très forte dans ces pays.
+Le droit de vote a été obtenu assez tôt (1906 pour la Finlande et 1913 pour la Norvege) et les luttes féministe ont été très forte dans ces pays.
 Le rapport de force imposé par les mouvements a permis d'investir les lieux de pouvoirs et influence les réglementations et les représentations des femmes dans ces pays.
 
 ## Les femmes en politique aujourd'hui
