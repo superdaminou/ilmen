@@ -7,7 +7,7 @@ Ici, vous trouverez deux types de contenus:
 - Vulgarisation et [[fiche_lecture|résumés]]
 - [[/reflexions|Réflexions]] personnelles
 
-Globalement, j'aime parler de [[tags/philosophie|philosophie]], [[tags/politique|politique]], [[tags/sociologie|sociologie]].
+Globalement, j'aime parler de [[tags/philosophie|philosophie]], [[tags/politique|politique]] et de [[tags/sociologie|sociologie]].
 
 > [!warning] Attention
 >

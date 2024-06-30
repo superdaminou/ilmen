@@ -10,7 +10,7 @@ draft: true
 
 Cotisation salariale et patronale, TVA, prélèvements, taxes foncières, redevances. C'est l'ensemble de l'argent qui est récupéré de façon direct ou indirect par une entité centrale.
 
-De nos jours c'est généralement l’état (au sens large) qui à cette charge.
+De nos jours c'est généralement l’Etat (au sens large) qui à cette charge.
 Mais cela pas se décliner au niveau municipale ou être des entités complètement différentes comme l’église.
 
 ## Pour quoi
@@ -26,7 +26,7 @@ Ces impôts servent à faire fonctionner l'entité en payant les gens ou leurs f
 
 Cette forme de pot commun permet d'accumuler un montant suffisant pour financer des projets nécessitant trop d'investissement pour un seul individu ou petite structure.
 
-Elle permet aussi de faire fonctionner la structure sociale et faisant participer tout le monde au fonctionnement collectif et peut permettre une redistribution des richesses.
+Elle permet aussi de faire fonctionner la structure sociale et faisant participer tout le monde au fonctionnement collectif et peut permettre une certaine redistribution des richesses.
 
 ## Comment
 

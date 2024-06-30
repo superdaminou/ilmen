@@ -1,14 +1,15 @@
 ---
-title: Comment penser
+title: Penser, mais comment ?
 tags:
   - reflexion
+draft: true
 ---
 
 J'essaye de structurer ma pensée en 3 différents niveaux d'analyse. Je pense que ce sont trois niveaux sont très profondément connecté et qu'il faut passer de l'un a l'autre régulièrement pour bien comprendre leurs interactions.
 
 ## Un niveau systémique et global
 
-Comprendre les règle qui dépasse notre seul espèce humaine. Un peu de notre fonctionnement biologique. Nous sommes régis par plein de loi de la physique et biologique.
+Comprendre les règle qui dépasse notre seul espèce humaine. Un peu de notre fonctionnement biologique. Nous sommes régis par plein de loi de la physique et biologique et il est important comme elles influent sur notre organisations. Nous n'aurions peut être pas de récolte sans saisons.
 
 ## Un niveau local
 

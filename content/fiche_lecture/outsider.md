@@ -91,7 +91,7 @@ Le fumeur de marijuana est soumis a plusieurs contraintes:
 
 La consommation va être en partie régulé par l'entourage et la tolérance des relations sur le comportement.
 
-En se rendant compte que la pratique peut s'exercer assez facilement, en maitrisant les effet ou en réalisant que les proches ne condamne pas, on peut devenir plus régulier.
+En se rendant compte que la pratique peut s'exercer assez facilement, en maitrisant les effet ou en réalisant que les proches ne condamne pas, le fumeur peut devenir plus régulier.
 
 La régulation fonctionne grâce a trois éléments:
 
@@ -102,127 +102,102 @@ La régulation fonctionne grâce a trois éléments:
 
 ## Culture de musicien
 
-La déviance n'est pas forcément illégale exemple : les musicien.
-Culture = accprd mutuelle sur un ensemble de valeur et de pratique et objet,ensemble organisé de signification
-developpment une conveption de leurs activié
+Toute déviance n'est pas illégale. Les musiciens de danses ont leurs propres culture.
+La culture étant défini comme un accord mutuel sur un ensemble de valeur, de pratique et d'objet qui forme une ensemble organisé de significations.
 
-etude: conception de soit en tant que déviant. Se voit et se différencie des non musiciens appelé "caves". Définis un rapport au monde et une approche différencié de celui ci. Le fait de percevoir qqchose que leq autres ne voient pas
+Les musiciens et se différencient fortement des non-musiciens surnommé "caves". Ils considère percevoir des choses et avoir une approche du monde très différencié de celle des caves. Comme si ils percevaient quelque chose que les autres ne voient pas.
 
-séparation forte entre le groupes des musciues et des non musiciens, sentiment de différences qui se transcrit dans l'attitude.
-On est chelou parcequeon est musiciens ou artiste. Les autres non pas leurs mots et ne devrait pas.
+Ce sentiment de différence s'inscrit dans l'attitude du musicien. Où des pratiques déviantes peuvent être justifié par cette appartenance aux groupes des musiciens. Cette attitude et interne au groupe et seul le jugement des musicien à de la valeur
 
-L'impression que les non musiciens ne comprennetn rien. Obliger de jouer des trucs "nuls" pour eux car c'est leurs public. Relation Dépendance et confllit avec eux.
-Peut pas être indépendant car beoin d'argent
+Il y a une forme de ressentiment envers le non-musicien qui ne comprenne pas la musiques. Qui les forcent a jouer des choses "nulles" car c'est leurs publiques.
 
-isolé du public
+Il y a une forme de dépendance et de conflits permanent des musiciens envers les non musiciens.
+
+Ils ont tendances à être isoler de leurs public, autant physiquement dans les lieux de reproduction musical que socialement en pratiquant une forme forte d'entre soi
 
 ## Carrière de musicien
 
-definition de la réussite en fonction en fonction du type d'emploi:
+La réussite d'une carrière de musicien se défini à travers une forme de hiérarchisation des emplois
 
--jozeur de noces
+- Dans des noce et de petits évènements
+- Irrégulier dans les bar ou club de striptease
+- Régulier dans des choral ou bars de luxes
+- Régulier dans un orchestre de second niveau voir premier niveau
+- Régulier dans des radio et salles de spectacles
 
-- irregulier joueur de bar strop tease
-- regulier joueur choral bar luxe
-- régulier orchestre premier et second niveau
-- regulier radio spectacles
+La recommandation a une place très importante chez les musiciens et dans leurs carrières. Cela permet d'accéder a de nouveau emplois dans le niveau actuel hiérarchique voir d'accéder au niveau hiérarchique supérieur. Il existe un lien fort entre le nombre de relations et l'accès aux emplois.
 
-Recommandation très importante dans le milieu. Consilidation des relation a travers recommandationt et accès a emploi
-Lien fort en carruère et nombre de relation
+Un des éléments identifié comme élément de réussite est la possibilité de joueur ce que le musicien veut.
 
-Relation inter hierarchie (reco) et etra hieratchy (promotion)
+L'environnement va influencer la capacité a construire une carrière. Le prestige et l'indépendance lié à la carrière et son évolution vont rentrer en conflit avec les relation qui assure de la stabilité.
 
-Joeur ce qu'on veut => reussite
-
-Défintiion de soi qui évolue
-
-Conflir prestige indépendance <=> relation stabilité
-
-environnemnt influe sur l'évolution carrière
-Plus on évoluer plus on a un mide de vie différents. Conjoint influ sur l'écart du mode de vie social classique ou les parents
-
-Avancer dans la vie => Se confronter au mode de vie conventionnel
-Mariage amene sur lutte et cpnflit entre vie déviante et vie normal
-
-- insécurtié
+Le conjoint qui n'est pas musicien ou les parents vont fortement influencer sur la capacité à s'éloigner du mode de vie social conventionnel. Le mariage va créer des conflits entre le mode de vie déviant et la demande de stabilité et d'un mode de vie conventionnel.
 
 ## Imposer les normes
 
-1 - vouloir faire une norme entrepreneur de la moral
-2 - Visiblisation de 'enteprirse morale attirer l'attnetion
-3- Avoir un intéret personnel
+Trois condition sont nécessaire pour imposer de nouvelles normes:
 
-non applictation des normes est habituel. ne pas réagir, collectivement ou ne pas les visibiliser
+- Vouloir créer une nouvelle norme ou vouloir appliquer fermement une norme actuel
+- Que cette entreprise morale soit visibiliser et mise en avant
+- Que l'entrepreneur ai un intérêt personnel dans cette entreprise
 
-exemple entreprise qui sait qu'il y a des vols mais ne le mets pas sur la place publiqeu mêmesi ça saoue
-Element de la dynamique entreprsie salarié. Laisser les écart = forme de récompense. Avantage mutuel a ne rien faire. Sinon ça joue au con
+Il est pourtant habituel de ne pas respecter les normes. En ne réagissant pas, en ignorant ou ne mettant pas en avant des comportement déviants.
 
-Conflits sur les normes, une partie veut appliquer une normel, l'autre partie non +> mêne sur arrangemetn et compromise
+La non application de certaines normes est une composantes de certaines dynamiques entres différents groupes. Par exemple une entreprise peut être au courant de petits vols et abus de la part des employés qu'elle ne voudra pas mettre sur la place publique. Bien qu'embêtant l'entreprise et les employés utilise ces comportement comme une forme de récompense pour des salaires qui ne serait pas assez élevé. En interdisant et sanctionnant on créerait d'autres conflits qui n'arrangerait pas l'entreprise.
 
-Multiplication des groupes en conflits sur norme => augmentation besoin d'information et de réseau pour connaissance du conflits et
+Lorsqu'il existe un conflit sur les normes entre différents groupes cela mène un ensemble d'arrangement et de compromis. Plus le nombre de groupe en conflit sur une norme augmente, plus le besoin d'information et de réseau de diffusion pour comprendre les arrangement et gérer les compromis sont importants.
 
-Histoire d'imposition une valeur +> évolution dans le temps, moment de contradiction avec d'autres valeur, peut devenir une loi
-valeur general et ambigue: exemple égalité
-On créé des trucs en plsi des valeurs pour résoudre les conflits
+L'évolution des normes et en lien avec la volonté d'imposer des "valeurs". La notion de valeurs est général et ambigüe comme la notion d'égalité. On a du mal a définir précisément cette notion qui peut rentrer en contradiction avec d'autre valeurs. La valeur d'égalité peut rentrer en contradiction avec la valeur de liberté. On va donc rajouter au dessus de ces valeurs un ensembles supplémentaire de normes souvent législatives pour traiter les contradictions.
 
-contradiction entre plusieurs valeur => protégé et liberté individuelles
+A partir d'une seule valeur on peut créer plein de normes.
 
-de valeurs on peut créer plein de normes
+### Exemple sur la législation de la marijuana
 
-Exemple legislation marijiuana
+L'apparition de la marijuana sur le territoire Etats-Unien a créé un conflit avec les valeurs présentes à ce moment la. Comme pour l'alcool, cette substante est associé a de mauvais comportement et une morale décadents. En plus de la réprobation de l'état d'exaltation il existe une volonté des sauver les gens de leurs propres faiblesses.
 
-Arrivé de la marijuana est rentré en contradiction avec les valeurs. Déjà un soucis a l'alcool, associé a des mauvais comportement. Réprobation de l'état d'exaltation pour soi même. Volonté de sauver les gens de leurs faiblesses.
-Au début peut d'intéret de l'état sur le sujet. Ce sont des considération perso. Pas de gros impact/risque constater
+Au début il existe assez peu d'intérêt national à ce sujet et cela relève plus d'intérêt personnel sur le sujet. La marijuana est vu comme peu problématiques au niveau national et peu de d'impact on été constaté.
 
-Création du Federal Bureau of Narcotics (FBN) en lien avec le Harrison Act
+En lien avec la création du Harrison Act qui gère la taxation des produit opiacé va être créé le Federal Bureau of Narcotics (FBN). Ce FBN va s'investir fortement dans la pénalisation de la marijuana de différentes façon:
 
-FBN a beaucoup insité pour penaliser plus la marijuan. A aider les états a créer des lois
+- En aidant les différents états à créer des loi
+- En travaillant l'opinion publiques
+- En mettant en avant les fait divers et en les diffusants
+- En préparant une loi pour interdire totalement la consommation
 
-- Mise en avant du sujet, médiatique, plein de faits divers , travail opinion publique
-  A préparer des articles et les faires diffuser.
+Le FBN est donc un exemple d'entrepreneur de la moral qui c'est investi d'une mission pour instaurer une norme sur la consommation de marijuana
 
-A préparer une loi pour intérdir totalement
+## Les entrepreneurs de la morale
 
-On a donc un acteur qui c'est lancé dans une entreprise morale de condamnation de la marijauna
+### Ceux qui la créé
 
-## Les entreprensue de la morale
+Cela part souvent d'une personne très intéressé par le sujet. Qui est proche du contenu des lois et de leurs application et qui va constater des manquements sur l'application de la norme. Cette personne va rentrer en croisade personnelles
 
-### ceux qui créé
+Cette personne va se rapprocher de différents professionnels comme les juriste qui vont l'accompagner dans la réalisation de son objectif. Il est observé une forte influence des psychiatres dans l'application et la justification du besoin d'application des normes.
 
-Quelqu'un d'interssé par le sujet. Proche du contenu de la loi. pense qu'il y a un manquement
-Croisade personnelle
+Une entreprise moral peut réussir. Dans ce cas l'entrepreneur va se retrouver sans rien, il va se retrouver sans fin après avoir investi beaucoup de moyen dans son œuvre et pourra être amené à trouver de nouvelles normes a imposer. Etre entrepreneur de la morale peut devenir une profession.
 
-Va solliciter des pros, juriste etc pour obtenir leurs fins
-augmentation influence psychiatres
+### Ceux qui applique
 
-Desfois ça marche, des fois non
+Quand une entreprise moral réussi elle a tendance a s'institutionnaliser et des corps spécifiques vont être créé pour appliquer les nouvelles normes.
 
-Reussir croisade => loi + entrepeneur de la moral avec plus rien
+La police est un corps dédié à l'application des normes. Les policier peuvent avoir un intéret personnel dans l'application des normes mais leurs travaille n'est pas de déterminer les normes et leurs intérêts porte bien plus sur l'application. Il existe donc un certain détachement moral des normes car elle peuvent évoluer rapidement.
 
-Entrepreneur moral devient le boulot et on cherche de nouveau truc a créer. Bcp de moyen mis en place
+Cette position créé un paradoxe. En tant que policier on doit montrer que notre poste est nécessaire et qu'il existe des comportement à réprimer. Mais il doit aussi montrer qu'il est efficace et qu'il réussi dans l'application de la norme.
 
-### ceux qui applique
+On se retrouve donc face à un argumentaire ou l'on demande plus moyen pour être efficace tout en justifiant sa propre efficacité.
 
-avvec gain de l'entreprise mroale => institutionalisation
-création de corps pour appliquer la norme => genre les flics
+Cette position est souvent lié a une vision assez pessimiste de la [[argument_naturel|nature humaine]] qui est renforcé par la mise en contact régulière avec des comportements déviants. Cela créé aussi une sentiment de supériorité et d'un respect du à la profession.
 
-Ceux qui applique s'en foute du contenu. Ils doivent juste appliquer
-Detachement du contenu moral car il peux évoluer . Même si intéret personnel, il ne fait qu'appliquer les lois faite ailleuirs
+En tant que policier ils ont la capacité de choisir et de diriger les efforts dans la répression de certaines déviance. Il existe une certaines hiérarchisation interne des délits qui va influencer la vision sur la normes et leurs importances.
 
-Problème => sa place dépend du fait qu'il y ait un soucis
-Doit donc prouver qu'il y a comportement a réprmer et montrer qu'il arrive est éfficave
-Argument contradictoire ils sont efficave <> pas assez car il en reste et il faut des moyen pour continuer
-Vision pessimiste nature humaine, renforcé par travail
-pense que ça Implique un respect supérieur du policier
+Face à cette répression il existe une professionnalisation de la déviance. Les voleurs vont s'arranger pour ne pas se faire avoir ou limiter les ennuis lié a travers un certains nombre de connaissance et de réseau. En conséquence les gens qui sont arrêté et que l'on voit sont plutôt les voleurs non compétents ou qui ne fréquente pas les réseau professionnels.
 
-Ils peuvent choisri ce qu'ils font respecter, et a qui en laissant passer des trucs des fois ou en choissisant ou centrer les efforts
+Pour conclure, la déviance est donc un résultats :
 
-hierarchisation des délits
-
-Eb face des gens se professionalise pour pas se faire choper ou limter les ennuis, genre voleurs pro
-On arrete que les nuls
-
-Resultat la déviance et le resultat d'initiatives des autres; ceux qui créé, ceux qui justifie et ceux qui appliquent
+- D'initiatives personnels
+- De créateurs de normes
+- De personnes qui justifies la normes
+- De personnes qui appliquent la norme et la font respecter
 
 ## Etudier la déviance
 
