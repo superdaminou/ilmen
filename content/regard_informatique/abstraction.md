@@ -32,7 +32,7 @@ Avec tout ça on arrive à 64 caractères. 64 en représentation binaire nous do
 
 Avec la complexification de nos ordinateur et des besoins de représentations on connait mieux le mot **octet**
 
-Un octet est composé de 8 bit et permet, notamment, d'accueillir les 256 ASCII.
+Un octet est composé de 8 bit et permet, notamment, d'accueillir les 256 charactères de l'ASCII.
 
 ## Quelques octet pour des primitifs
 

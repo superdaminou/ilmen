@@ -16,22 +16,22 @@ Mais comment on fait pour s'y retrouver la dedans ?
 Supposons que j'écrive : "gra, tnty / lk".
 Et que je vous dise que cela signifie : "j'adore le rhum".
 
-Et si vous ne me croyez pas je vous invite à venir consulter le dictionnaire "parole de rhumerie" que j'ai écrit moi-même et qui n'existe qu'en un seul exemplaire chez moi.
+Et si vous ne me croyez pas je vous invite à venir consulter le dictionnaire "parole de rhumerie" que j'ai écrit moi-même et qui n'existe qu'en un seul exemplaire chez moi !
 
 Notre communication "habituelle" fonctionne sur la base de la modulation des sons et de représentations visuelles.
 Ces deux cas sont normé selon un ensemble de règles (phonétique/grammaire/etc...) qui permettent à une communauté partageant ces règle de ce comprendre facilement.
 
-Bien que cela soit très utile pour que vous puissiez me lire, cela ne me permet de définir la façon dont vont communiquer deux ordinateurs entre eux.
+Bien que cela soit très utile pour que vous puissiez me lire, cela ne me permet pas de définir la façon dont vont communiquer deux ordinateurs entre eux.
 
 ### Le problème avec les ordinateurs
 
-En effet ils ne possèdent ni oreilles, ni vue. Ils ne comprennent toujours que les 0 et les 1.
+En effet ils ne possèdent ni oreilles, ni vue. Ils ne comprennent toujours que les [[abstraction|0 et les 1]].
 Alors certes on a créé des structures pour faciliter les représentations, mais si chacun créé son dictionnaire dans son coin et ne le partage pas alors personne ne sera en capacité de comprendre ce qui a voulu être dit.
 
-Il a donc fallu mettre en place un ensemble de normes.
-Comme l'ASCII qui est une norme permettant de représenter l'ensembles des caractères.
+L'usage et la démocratisation de l'informatique arrivant, entre autre, à travers le web, il a fallu trouver de nouvelles façon de nous accorder, d'échanger des messages, des images ou de structurer nos application et nos interfaces.
+Il a donc fallu mettre en place un ensemble de normes de la même façon que l'ASCII qui a permis de normer l'encodage des caractères.
 
-Mais avec la communication direct entre deux ordinateurs de nouvelles questions se sont poser tel que : Comment formule-t-on un message ?
+Avec l'arrive d'internet de nouvelles questions vont se poser tel que : Comment formule-t-on un message ?
 
 Un protocole a été proposé par Tim Berners-Lee en 1990 qui est toujours bien en vigueur aujourd'hui: **HTTP**.
 
@@ -41,7 +41,7 @@ Un protocole a été proposé par Tim Berners-Lee en 1990 qui est toujours bien 
 
 Hyper Text Transfert Protocol est donc une façon de transmettre de la donnée sous une forme textuelle (et, si contenu supplémentaire, l'information nous permettant de la lire) qui est normée et qui assure que l'ensemble des messages transmis peuvent être compris et interprété si on la la connaissance de ces règles.
 
-Il existe bien d'autres protocoles dont avez peut être entendu parler:
+Il existe bien d'autres protocoles dont avez peut être entendu parler tel que :
 
 - FTP
 - TCP

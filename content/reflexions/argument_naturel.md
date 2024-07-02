@@ -6,11 +6,11 @@ tags:
 ---
 
 Dans mes débats préférés, ceux que je pratiques au bar, on peut assez vite arriver sur l'argument du naturel pour parler de réalisation humaine ou d'organisation sociale.
-Que ce soit des comportements individuel/collectif ou des réalisations techniques comme un immeuble ou nanoprocesseur. On aime bien distinguer les comportements humains de la nature pour lui donner quelque chose de spécial que je divises en deux catégories.
+Que ce soit pour qualifier des comportements individuel/collectif ou des réalisations techniques comme un immeuble ou nanoprocesseur. On aime bien distinguer les comportements humains de la nature pour lui donner quelque chose de spécial que je divises en deux catégories.
 
 ## Les comportement [[../philosophie/morale/morale|amoraux]]
 
-Argument facilement réactionnaire et souvent apposé comme une [[evidence|évidence]], le "non naturel" est régulièrement utilisé pour disqualifier un comportement social. On le voit facilement appliqué sur le comportement sexuel des gens ou sur la place des gens dans la société en fonction de divers critères.
+Argument facilement réactionnaire et souvent apposé comme une [[evidence|évidence]], le "non naturel" est régulièrement utilisé pour disqualifier un comportement social. On le voit facilement appliqué sur le comportement sexuel des gens ou pour définir une place dans la société, souvent hiérarchisé, en fonction de divers critères.
 
 L'homosexualité a pu être catégorisée de contre-nature dans le temps (et l'est encore pour certains) de la même façon que l'on peut retrouver cet argument dans les débats autour de la transidentité et les combats LGBT+ actuels. Il existe comme un fantasme de l'homme ou la femme naturelle, qui aurait un certain nombre de traits, caractéristiques et comportement prédéfinis qui déterminerais une place par défaut dans la société dont toute déviance serait au final une anomalie.
 
@@ -27,3 +27,4 @@ Un argument pourrait être la notion d'industrialisation sous-jacente de nos ré
 - [L'homosexualité existe-t-elle chez les animaux ?](https://www.mnhn.fr/fr/l-homosexualite-existe-t-elle-chez-les-animaux)
 - [Bienvenue a Gattaca](https://www.allocine.fr/film/fichefilm_gen_cfilm=17079.html)
 - [Le guide du féminisme pour les hommes et par les hommes ](https://www.librairie-des-femmes.fr/livre/9782290202739-le-guide-du-feminisme-pour-les-hommes-et-par-les-hommes-michael-kaufman-michael-kimmel-pacco/)
+- [La révolution culturelle nazie](https://www.gallimard.fr/Catalogue/GALLIMARD/Tel/La-revolution-culturelle-nazie)

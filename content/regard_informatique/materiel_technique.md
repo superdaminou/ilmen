@@ -7,7 +7,7 @@ draft: false
 
 Avec les premiers circuits et les premières [[abstraction|abstraction]] vont apparaître les premières architectures matérielles. Le nombre de bit dans un groupe que nous connaissons habituellement sous la forme d'octet à beaucoup varié en fonction de la taille utile minimale pour le fonctionnement du matériel.
 
-Cette taille minimale qui représentera des "mot" ou "bytes" est connu sous le nom de registre pour les processeurs.
+Cette taille minimale qui représentes des "mot" ou "bytes" est connu sous le nom de registre pour les processeurs.
 
 Dans les années 1950-1960, avec l’essor de l’électronique et des premiers processeurs, chaque constructeur définira une taille de registre qui lui conviendra pour le fonctionnement de sa machine. On pourra donc voir des encodages sur 5, 7 ou encore 8 bits plus connu sous le nom d'octet.
 
@@ -24,7 +24,6 @@ A la fin des années **1990** un ordinateur faisant tourner Windows 95 fonctionn
 Le prix d'un MB (soit 1000 Octet) est d'environ 10$.
 
 Au début des années **2000** les clés USB qui apparaissent sur le marché ont des capacités allant de 8Mo jusqu’à 64Mo. Avec une vitesse d'écriture autour des 12Mb/s.
-
 Le prix du Go est alors aux alentours de 2 euros.
 
 En **2007** apparaît le premier disque dur de 1To et sort le premier Iphone.

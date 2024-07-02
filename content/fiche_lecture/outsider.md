@@ -199,7 +199,7 @@ Pour conclure, la déviance est donc un résultats :
 - De personnes qui justifies la normes
 - De personnes qui appliquent la norme et la font respecter
 
-## Etudier la déviance
+## Etudier la déviance et Retrospective
 
 C'est galère, a l'époque pas grnad chose et pas granch chose de qualité
 Compliqué d'avoir accès a l'info
@@ -212,3 +212,5 @@ Diffuculté de positionnement, prendre le point de vue de l'un ou de l'autres.
 Le fait d'expliquer vu comment une justification et une excuse de l'acte. Si on regarde et comprend un coté, k'autre va dire qu'on exvuse
 
 Faire attention au sens éthique et ce débarasser du jugement personnel. Rapporter les fait sociaux comme des faits.
+
+Ce livre est une étude et ne propose pas une théorie complète, bien que prise comme référence pour la théorie de l'étiquettage

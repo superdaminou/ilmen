@@ -17,3 +17,8 @@ Cette approche de la morale peut aussi être poussée à l'extrême lors d'exerc
 Et on ne s'intéresse qu'aux conséquences ? Supposons qu'un tueur en série tue une personne qui, sans le savoir, avait prévu d'en tuer 100 le lendemain. Ce tueur en série, a-t-il bien agi ?
 
 Cette position aussi à ces limites et pourrait justifier des comportements qui nous semblent aujourd'hui horribles. Elle implique aussi d'être capable de "mesurer" l'utilité ou le "coût" de la vie d'une personne.
+
+## Ressources diverses
+
+- [L'utilitarisme, c'est quoi ? (TJ #1)](https://www.youtube.com/watch?v=XRk2VeL0icU)
+- [BENTHAM - Qu'est-ce que l'utilitarisme ?](https://www.youtube.com/watch?v=mvamwoVi1KE)
