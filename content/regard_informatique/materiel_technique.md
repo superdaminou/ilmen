@@ -1,6 +1,9 @@
 ---
 title: Evolution technique et materiel
 draft: false
+tags:
+  - informatique
+  - histoire
 ---
 
 ## Registres et processeurs
@@ -9,7 +12,7 @@ Avec les premiers circuits et les premières [[abstraction|abstraction]] vont ap
 
 Cette taille minimale qui représentes des "mot" ou "bytes" est connu sous le nom de registre pour les processeurs.
 
-Dans les années 1950-1960, avec l’essor de l’électronique et des premiers processeurs, chaque constructeur définira une taille de registre qui lui conviendra pour le fonctionnement de sa machine. On pourra donc voir des encodages sur 5, 7 ou encore 8 bits plus connu sous le nom d'octet.
+Dans les années 1950-1960, avec l’essor de l’électronique, des premiers processeurs et ordinateurs chaque constructeur définira une taille de registre qui lui conviendra pour le fonctionnement de sa machine. On pourra donc voir des encodages sur 5, 7 ou encore 8 bits plus connu sous le nom d'octet.
 
 Aujourd'hui, les tailles de registre se rapprochent plutôt des 64bits pour les CPUs généralistes.
 
@@ -79,7 +82,6 @@ En **2024** un speed-test estime ma connexion aux alentours de 934Mb/s en connex
 - [https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)
 - [https://www.polytechnique-insights.com/en/columns/planet/water-a-growing-source-of-tension/](https://www.polytechnique-insights.com/en/columns/planet/water-a-growing-source-of-tension/)
 - [https://www.lebigdata.fr/heroku-definition](https://www.lebigdata.fr/heroku-definition)
-- [https://www.lemonde.fr/economie/article/2016/04/18/michel-bauwens-un-reve-technocratique-totalitaire_4904154_3234.html](https://www.lemonde.fr/economie/article/2016/04/18/michel-bauwens-un-reve-technocratique-totalitaire_4904154_3234.html)
 - [https://fr.wikipedia.org/wiki/Paradoxe_de_Jevons](https://fr.wikipedia.org/wiki/Paradoxe_de_Jevons)
 - [https://tokensinvaders.com/blog/consensus-de-validation/](https://tokensinvaders.com/blog/consensus-de-validation/)
 - [https://www.cointribune.com/pos-vs-pow-sur-ethereum-les-avantages-de-la-preuve-denjeu/](https://www.cointribune.com/pos-vs-pow-sur-ethereum-les-avantages-de-la-preuve-denjeu/)

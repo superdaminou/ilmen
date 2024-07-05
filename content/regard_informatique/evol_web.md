@@ -1,6 +1,9 @@
 ---
 title: Transformation du WEB et de son architecture
 draft: false
+tags:
+  - informatique
+  - histoire
 ---
 
 ## Qu'est ce que le WEB ?

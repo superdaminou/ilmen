@@ -5,7 +5,6 @@ tags:
   - informatique
   - vulgarisation
 ---
-
 ## Comment s'organiser ?
 
 C'est bon ! Tout le monde peut faire [[abstraction|l'abstraction]] qu'il ou elle veut !
@@ -18,7 +17,7 @@ Et que je vous dise que cela signifie : "j'adore le rhum".
 
 Et si vous ne me croyez pas je vous invite à venir consulter le dictionnaire "parole de rhumerie" que j'ai écrit moi-même et qui n'existe qu'en un seul exemplaire chez moi !
 
-Notre communication "habituelle" fonctionne sur la base de la modulation des sons et de représentations visuelles.
+Notre communication "habituelle" fonctionne sur la base de la modulation des sons et de représentations visuelles codifié comme l'alphabet.
 Ces deux cas sont normé selon un ensemble de règles (phonétique/grammaire/etc...) qui permettent à une communauté partageant ces règle de ce comprendre facilement.
 
 Bien que cela soit très utile pour que vous puissiez me lire, cela ne me permet pas de définir la façon dont vont communiquer deux ordinateurs entre eux.

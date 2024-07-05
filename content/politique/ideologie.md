@@ -5,9 +5,8 @@ tags:
   - politique
   - vulgarisation
 ---
-
 L'idéologie et ce qui nous permet tous d’appréhender le réel et ce qui oriente nos actions en réponse.
-Nous avons tous un certain rapport au monde et aux choses qui s'y passe et nous avons tous, de façon plus moins conscientisé, un certain logiciel interne et de croyances nous permettant d’interagir et de comprendre ce monde.
+Nous avons tous un certain rapport au monde et aux choses qui s'y passe et nous avons tous, de façon plus moins conscientisé, un certain logiciel interne et agencement de croyances nous permettant d’interagir et de comprendre ce monde.
 
 Par exemple notre conception personnelle de la [[/reflexions/argument_naturel|nature humaine]] va nous permettre d'analyser et de plaquer une explication sur les faits divers auxquels nous sommes confrontés. La façon dont nous allons expliquer ces faits va nous orienter en politique répressive et de surveillances ou plutôt d'accompagnement et de prévention. On va interpréter les attitudes économiques des gens et nous orienter sur une vision de l'économie et ce qui est une "bonne économie".
 

@@ -3,13 +3,19 @@ title: Définir l'informatique
 draft: false
 tags:
   - informatique
+  - vulgarisation
 ---
+## Définition étendu
+
+Introduit en 1957 ce terme définie la **science du traitement de l'information**. Cette définition permet de faire remonter cette sciences bien avant l'invention du transistor a des outils comme une calculette mécanique.
+
+
+## Définition usuelle
 
 Quand je parle d'informatique je l'entend dans son sens usuel auquel nous sommes confrontés en tant qu'utilisateur et en tant qu'acteur. C'est a dire les ordinateurs et tout ce qu'on peut faire avec.
 
 La dedans je distingue trois couches
-
-## Une couche matérielle
+### Une couche matérielle
 
 C'est à dire l'ensemble des matériaux et composants nécessaire pour faire fonctionner les différentes applications. Nous pouvons mettre dans cette catégorie :
 
@@ -21,7 +27,7 @@ C'est à dire l'ensemble des matériaux et composants nécessaire pour faire fon
 
 Cette couche comprends aussi les éléments qui servent d'interface entre le monde physique et le monde numérique à l'aide d'en ensemble de capteur et de mécanisme qui transforme leurs informations en signal numériques.
 
-## Une couche logicielle
+### Une couche logicielle
 
 On mets alors au point différent systèmes permettant d'interagir avec les composants afin de transférer, d'enregistrer, calculer ou encore afficher de la donnée. Cet ensemble comprends:
 
@@ -31,7 +37,7 @@ On mets alors au point différent systèmes permettant d'interagir avec les comp
 - Serveurs
 - Navigateur
 
-## Une couche conceptuelle
+### Une couche conceptuelle
 
 Qui est l'agencement des différentes [[abstraction|abstraction]], concept et protocoles agençant un ensemble de logiciel de façon structuré permettant d'en sortir des usages plus vastes et plus complexe.
 
