@@ -5,6 +5,7 @@ tags:
   - informatique
   - vulgarisation
 ---
+
 ## Comment s'organiser ?
 
 C'est bon ! Tout le monde peut faire [[abstraction|l'abstraction]] qu'il ou elle veut !
