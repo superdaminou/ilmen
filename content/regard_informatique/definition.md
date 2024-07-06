@@ -7,8 +7,7 @@ tags:
 ---
 ## Définition étendu
 
-Introduit en 1957 ce terme définie la **science du traitement de l'information**. Cette définition permet de faire remonter cette sciences bien avant l'invention du transistor a des outils comme une calculette mécanique.
-
+Introduit en 1957 ce terme défini la **science du traitement de l'information**. Cette définition permet de faire remonter cette science bien avant l'invention du transistor à des outils comme une calculette mécanique.
 
 ## Définition usuelle
 

@@ -1,3 +1,3 @@
 ---
-title: Un peu d'informatique
+title: Regard croisé sur l'informatique
 ---
