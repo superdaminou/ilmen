@@ -13,7 +13,6 @@ Globalement, j'aime parler de [[tags/philosophie|philosophie]], [[tags/politique
 >
 > Je ne suis en aucun cas un expert sur la majorité des sujets qui vont être abordés. La seule légitimité de mes propos sera celle qui me sera accordée. J'invite toute personne trouvant un sujet intéressant à aller creuser les [[recommandation|sources]] que je fournis ou à se renseigner auprès de personne plus légitime.
 
-
 Vous pouvez voir plus précisément [[presentation|qui je suis]] et quelles sont [[intentions|mes intentions]]
 
 > [!warning] Attention

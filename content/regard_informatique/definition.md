@@ -5,6 +5,7 @@ tags:
   - informatique
   - vulgarisation
 ---
+
 ## Définition étendu
 
 Introduit en 1957 ce terme défini la **science du traitement de l'information**. Cette définition permet de faire remonter cette science bien avant l'invention du transistor à des outils comme une calculette mécanique.
@@ -14,6 +15,7 @@ Introduit en 1957 ce terme défini la **science du traitement de l'information**
 Quand je parle d'informatique je l'entend dans son sens usuel auquel nous sommes confrontés en tant qu'utilisateur et en tant qu'acteur. C'est a dire les ordinateurs et tout ce qu'on peut faire avec.
 
 La dedans je distingue trois couches
+
 ### Une couche matérielle
 
 C'est à dire l'ensemble des matériaux et composants nécessaire pour faire fonctionner les différentes applications. Nous pouvons mettre dans cette catégorie :

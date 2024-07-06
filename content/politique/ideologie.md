@@ -5,6 +5,7 @@ tags:
   - politique
   - vulgarisation
 ---
+
 L'idéologie et ce qui nous permet tous d’appréhender le réel et ce qui oriente nos actions en réponse.
 Nous avons tous un certain rapport au monde et aux choses qui s'y passe et nous avons tous, de façon plus moins conscientisé, un certain logiciel interne et agencement de croyances nous permettant d’interagir et de comprendre ce monde.
 
