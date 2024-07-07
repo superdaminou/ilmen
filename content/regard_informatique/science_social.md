@@ -25,7 +25,7 @@ Le développement du traitement automatisé de l'information dans une société 
 
 La rapidité de développement est un enjeu de survie pour deux modèles, capitalisme et communisme, durant la guerre froide et précédemment un critère décisif dans la victoire des Alliés sur L'Axe.
 
-L'inscription de l'informatique dans une histoire politique et sociale voit aussi la naissance de conflits internes à ce domaine. La démocratisation de l'ordinateur dans une période d'industrialisation du WEB a aussi créé des courantes philosophies et idéologie différentes ayant à portée de main l'outil et le support de diffusion.
+L'inscription de l'informatique dans une histoire politique et sociale voit aussi la naissance de conflits internes à ce domaine. La démocratisation de l'ordinateur dans une période d'industrialisation du WEB a aussi créé des courants de philosophies et idéologies différentes ayant à portée de main l'outil et le support de diffusion.
 
 Ce domaine rigoureux, associé aux sciences mathématiques et analytiques dont la logique est une composante fondamentale, est modelé par les affects et les rapports de forces.
 

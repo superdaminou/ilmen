@@ -34,7 +34,7 @@ On voit des violences qui étaient réprimées et disqualifiées à un moment de
 
 A l'inverse, est ce que le fait de tuer **des centaines de millions** d'animaux chaque jour sera demain vu comme un acte d'une violence sans nom là ou aujourd'hui elle est vu comme un simple fait.
 
-La violence est souvent le résultat d'une organisation:
+La violence est souvent le résultat d'une organisation hiérarchique:
 
 - Ecologique, qui assure la survie d'espèce en se nourrissant, exploitant d'autres
 - Sociale, qui organise la société et la répartition du pouvoir selon une certaine hiérarchie
