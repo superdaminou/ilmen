@@ -1,5 +1,5 @@
 ---
-title: Le Conséquentialisme
+title: Conséquentialisme
 tags:
   - philosophie
   - morale

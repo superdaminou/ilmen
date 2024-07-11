@@ -6,6 +6,9 @@ tags:
   - vulgarisation
 ---
 
+> [!info] TL;DR
+> La norme se pose par dessus l'abstraction, la fige et la diffuse. Ce faisant elle participe à l'évolution de l'informatique et organise une grande partie de son fonctionnement.
+
 ## Comment s'organiser ?
 
 C'est bon ! Tout le monde peut faire [[abstraction|l'abstraction]] qu'il ou elle veut !

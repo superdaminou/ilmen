@@ -4,7 +4,11 @@ draft: false
 tags:
   - informatique
   - philosophie
+  - reflexion
 ---
+
+> [!info] TL;DR
+> On peut et on doit aussi analyser l'organisation technique et technologique a travers le prisme des sciences sociales.
 
 Je suis développeur WEB et je m'intéresse aux sciences sociales comme la [[tags/politique|politique]] ou la [[tags/sociologie|sociologies]], j'en arrive donc à me demander:
 Est-ce que je peux assembler les deux ? Est-ce que cela a du sens ?
@@ -23,9 +27,9 @@ Si l'on peut analyser l'histoire d'un point de vue sociologique, on peut aussi l
 
 Le développement du traitement automatisé de l'information dans une société post révolution industrielle et un essor de l'électronique s'opère en parallèle d'une forte tension mondiale économique et sociale.
 
-La rapidité de développement est un enjeu de survie pour deux modèles, capitalisme et communisme, durant la guerre froide et précédemment un critère décisif dans la victoire des Alliés sur L'Axe.
+La rapidité de développement est un enjeu de survie pour deux modèles, capitalisme et communisme, durant la guerre froide et précédemment un point majeur dans la victoire des Alliés sur L'Axe.
 
-L'inscription de l'informatique dans une histoire politique et sociale voit aussi la naissance de conflits internes à ce domaine. La démocratisation de l'ordinateur dans une période d'industrialisation du WEB a aussi créé des courants de philosophies et idéologies différentes ayant à portée de main l'outil et le support de diffusion.
+L'inscription de l'informatique dans une histoire politique et sociale voit aussi la naissance de conflits internes à ce domaine. La démocratisation de l'ordinateur dans une période d'industrialisation du WEB a créé des courants de philosophies et idéologies différentes ayant à portée de main l'outil et le support de diffusion.
 
 Ce domaine rigoureux, associé aux sciences mathématiques et analytiques dont la logique est une composante fondamentale, est modelé par les affects et les rapports de forces.
 

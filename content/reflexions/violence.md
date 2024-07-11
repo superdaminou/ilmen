@@ -5,8 +5,6 @@ tags:
   - reflexion
 ---
 
-La violence, ce n'est pas bien. Bon, okay. Mais encore ?
-
 On parle souvent de violence dans le débat public et elle est souvent invoquée pour mobiliser contre un adversaire identifié comme violent ou pour décrédibiliser une personne, car elle aurait commis ou soutenu des violences. Bref c'est souvent un [[../philosophie/morale/morale|argument moral]] un peu facile à poser et qui empêche d'approfondir le fond du sujet.
 
 Ce qui est pratique, c'est qu'au fond, c'est [[evidence|évident]] que la violence ce n'est pas bien.

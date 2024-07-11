@@ -1,5 +1,5 @@
 ---
-title: La déontologie
+title: Déontologie
 tags:
   - philosophie
   - morale

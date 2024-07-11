@@ -6,6 +6,9 @@ tags:
   - histoire
 ---
 
+> [!info] TL;DR
+> Le Web à fait une transition d'une architecture globalement monolithique et orienté serveur à une foisonnement d'échanges distribués et rationnalisés.
+
 ## Qu'est ce que le WEB ?
 
 Le WEB fait partie de la [[definition|couche conceptuelles]] de l'informatique. Mis au point par **Tim Bernes-Lee** en 1990, c'est l'ensemble des concepts fondamentaux définissant la structure d'échanges entre plusieurs ordinateurs en se basant sur Internet. De ces concepts fondamentaux comme "document hypertexte" ou "navigateur", vont émerger de nouvelles [[norme_informatiques|normes et  nouveaux protocoles]], tel qu'HTTP, régissant l'organisation structurelle du WEB.
@@ -86,19 +89,15 @@ Quelle sera l'orientation et l'organisation du WEB dans le futur ? Et quel rappo
 
 ## Ressource Diverses
 
-- https://next.ink/2956/lextraordinaire-evolution-stockage/
 - https://www.mediametrie.fr/fr/retour-sur-20-ans-de-numerique-et-dinternet
 - https://www.tomshardware.fr/de-la-carte-perforee-a-la-memoire-flash-la-grande-histoire-du-stockage-des-donnees/
 - https://futuretimeline.net/data-trends/2050-future-internet-speed-predictions.htm
 - https://www.zdnet.fr/blogs/infra-net/acces-internet-et-si-on-revenait-au-modem-56k-juste-pour-voir-39831970.htm
 - https://www.cigref.fr/archives/histoire-cigref/blog/internet-25-ans-d-histoire-le-contexte-et-plus/
-- https://www.tomorrow.city/artificial-intelligence-is-using-a-growing-number-of-resources/
 - https://france.devoteam.com/paroles-dexperts/evolution-des-architectures/
 - https://www.digitalocean.com/resources/article/cloud-capacity-planning
 - https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7
-- https://www.polytechnique-insights.com/en/columns/planet/water-a-growing-source-of-tension/
 - https://www.lebigdata.fr/heroku-definition
 - https://www.lemonde.fr/economie/article/2016/04/18/michel-bauwens-un-reve-technocratique-totalitaire_4904154_3234.html
-- https://fr.wikipedia.org/wiki/Paradoxe_de_Jevons
 - https://tokensinvaders.com/blog/consensus-de-validation/
 - https://www.cointribune.com/pos-vs-pow-sur-ethereum-les-avantages-de-la-preuve-denjeu/
