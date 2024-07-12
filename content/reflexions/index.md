@@ -1,3 +1,3 @@
 ---
-title: Extrait de cerveau embrumé
+title: Extrait d'un cerveau embrumé
 ---
