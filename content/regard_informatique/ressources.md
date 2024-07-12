@@ -6,8 +6,8 @@ tags:
   - reflexion
 ---
 
-> [!info]
-> Nous avons eu une forte amélioration dans nos gestion des ressources mais il reste encore beaucoup de sujets à discuter et améliorer
+> [!info] TL;DR
+> Nous avons eu une forte amélioration dans nos gestion des ressources mais il reste encore beaucoup de sujets à discuter et améliorer. Et des choix de société à organiser.
 
 ## Consommations illimités
 
@@ -21,7 +21,7 @@ Alors qu'il y a 50 ans, c'était le critère primaire. Lorsque l'on envoie une f
 
 Et nous avons perdu le physique à la maison. Nous n'en avons plus besoin et n'en voulons plus, en tout cas plus chez nous. Nous consommons des quantités énormes de données pour multitude d'usages : vidéo, son, texte et [[abstraction|tout ce qui peut aller avec]].
 
-Ces usages pouvant aller de conférences scientifiques ou d'échanges entre dirigeants à des publicités pour des sièges de toilettes en passant par appels entre deux amis qui sont a deux extrémités du monde ou des jeux vidéo.
+Ces usages pouvant aller de conférences scientifiques ou d'échanges entre dirigeants à des publicités pour des sièges de toilettes en passant par appels entre deux amis qui sont à deux extrémités du monde ou des jeux vidéo.
 
 Cependant, ces dernières années voient apparaît des nouveaux sujets sur [[evol_web|l'architecture du WEB]] et son rapport aux ressources. La décentralisation et L'architecture orienté cloud ont fait naître des réflexions sur leurs organisations et consommation.
 
@@ -64,3 +64,4 @@ Ces 20 dernières années ont vu une métamorphose assez spectaculaire de notre 
 - [Water, a growing source of global tension](https://www.polytechnique-insights.com/en/columns/planet/water-a-growing-source-of-tension/)
 - [# Artificial intelligence is using a growing amount of resources](https://www.tomorrow.city/artificial-intelligence-is-using-a-growing-number-of-resources/)
 - [# PoS vs PoW sur Ethereum : Les avantages de la preuve d’enjeu](https://www.cointribune.com/pos-vs-pow-sur-ethereum-les-avantages-de-la-preuve-denjeu/)
+- [# Data centers, bitcoin... Cinq informations à retenir du rapport des Nations unies sur la pollution du secteur numérique](https://www.francetvinfo.fr/monde/environnement/data-centers-bitcoin-cinq-informations-a-retenir-sur-le-rapport-des-nations-unies-sur-la-pollution-du-secteur-numerique_6660027.html)
