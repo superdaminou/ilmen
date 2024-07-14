@@ -23,3 +23,4 @@ Aujourd'hui, on voit cette idéologie s'appuyer sur des formes de sciences socia
 
 - [La science et le racisme](https://www.reseau-canope.fr/eduquer-contre-le-racisme-et-lantisemitisme/la-science-et-le-racisme.html)
 - [Surveiller et punir](https://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Histoires/Surveiller-et-punir)
+- [La révolution culturelle nazi](https://www.gallimard.fr/Catalogue/GALLIMARD/Tel/La-revolution-culturelle-nazie)

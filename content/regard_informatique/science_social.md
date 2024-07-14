@@ -27,13 +27,13 @@ Si l'on peut analyser l'histoire d'un point de vue sociologique, on peut aussi l
 
 Le développement du traitement automatisé de l'information dans une société post révolution industrielle et un essor de l'électronique s'opère en parallèle d'une forte tension mondiale économique et sociale.
 
-La rapidité de développement est un enjeu de survie pour deux modèles, capitalisme et communisme, durant la guerre froide et précédemment un point majeur dans la victoire des Alliés sur L'Axe.
+La rapidité de développement est un enjeu de survie pour deux modèles, capitalisme et communisme, durant la guerre froide et précédemment un point majeur dans la victoire des Alliés sur L'Axe avec la machine Enigma.
 
 L'inscription de l'informatique dans une histoire politique et sociale voit aussi la naissance de conflits internes à ce domaine. La démocratisation de l'ordinateur dans une période d'industrialisation du WEB a créé des courants de philosophies et idéologies différentes ayant à portée de main l'outil et le support de diffusion.
 
 Ce domaine rigoureux, associé aux sciences mathématiques et analytiques dont la logique est une composante fondamentale, est modelé par les affects et les rapports de forces.
 
-Des modèles comme l'open source se sont diffusés et ont fortement influencé l'organisation des projets de grosse entreprise privée. De la crise écologique en cours naissent des concepts comme l'éco-conception.
+Des modèles comme l'open source se sont diffusés et ont fortement influencé l'organisation des projets de grosses entreprises privées. De la crise écologique en cours naissent des concepts comme l'[[ressources|éco-conception]].
 
 Les structures de données que nous mettons en place sont régulièrement des représentation du monde sociale. Quand je développe un site web marchand, je vais représenter des modèles économiques et sociaux comme le paiement et l'acheteur. Je vais me représenter une certaine catégorie d'utilisateurs de mon code et leur associer des comportements.
 

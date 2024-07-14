@@ -6,6 +6,9 @@ tags:
   - vulgarisation
 ---
 
+> [!info]TL;DR
+> Nous ne faisons que manipuler des abstractions de 0 et de 1.
+
 ## 0/1
 
 Deux petits chiffres qui forme ce qu'on appelle le système binaire et qui est, jusqu'ici, la façon la plus réduite de représenter une information.

@@ -5,7 +5,7 @@ title: Qui je suis
 Pas loin de la trentaine à l'heure ou j'écris ces lignes, je vis à Bordeaux et je travaille dans l'informatique. Né en Normandie dans une famille que l'on pourrait ranger dans la classe moyenne, j'ai grandi dans la petite campagne et suis parti à Bordeaux pour mes études. Représentant d'un parcours "parfait", j'ai eu la "chance" (nous reviendrons sûrement dessus) de ne pas avoir à travailler pour payer mes études.
 
 Tombé dans l'informatique à la fin du lycée, je me suis orienté vers la fac où j'ai suivi un parcours très linéaire sans rattrapage ni changement de filière.
-J'ai profité de mes facilités dans les matières pour m'investir fortement dans le monde associatif ou j'ai eu l'occasion d'organiser des soirées associatives, présider une association, organiser des WE de formations ou encore être élu étudiant au sein de l'université.
+J'ai profité de mes facilités dans les matières pour m'investir fortement dans le monde associatif ou j'ai eu l'occasion d'organiser des soirées associatives, présider une association, organiser un WE de formations ou encore être élu étudiant au sein de l'université.
 
 Je me suis politisé petit à petit durant mes études notamment à travers mes relations personnelles, mes rencontres et mes engagements. La rentrée dans le monde du travail dans une position aisé m'a permis de focaliser encore plus ce qui me travaille depuis longtemps : comment fonctionne le monde ?
 

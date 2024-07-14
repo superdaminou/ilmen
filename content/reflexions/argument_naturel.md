@@ -6,9 +6,9 @@ tags:
 ---
 
 Dans mes débats préférés, ceux que je pratiques au bar, on peut assez vite arriver sur l'argument du naturel pour parler de réalisation humaine ou d'organisation sociale.
-Que ce soit pour qualifier des comportements individuel/collectif ou des réalisations techniques comme un immeuble ou nanoprocesseur. On aime bien distinguer les comportements humains de la nature pour lui donner quelque chose de spécial que je divises en deux catégories.
+Que ce soit pour qualifier des comportements individuel/collectif ou des réalisations techniques comme un immeuble ou nanoprocesseur. Ce naturel que l'on dissocie ou non de l'humain en fonction de l'objectif voulu. Il me semble apparaitre dans des formes spécifiques d'argumentaire.
 
-## Les comportement [[../philosophie/morale/morale|amoraux]]
+## Comportement [[../philosophie/morale/morale|amoraux]]
 
 Argument facilement réactionnaire et souvent apposé comme une [[evidence|évidence]], le "non naturel" est régulièrement utilisé pour disqualifier un comportement social. On le voit facilement appliqué sur le comportement sexuel des gens ou pour définir une place dans la société, souvent hiérarchisé, en fonction de divers critères.
 
@@ -18,9 +18,20 @@ En ce reposant majoritairement sur des arguments pseudo-scientifique et du cherr
 
 Dans la science comme elle se pratique aujourd'hui, par exemple en physique, un comportement observé qui ne correspond pas aux règles définis amènera sur une remise en question de la loi et non pas une exclusion du comportement en dehors du naturel.
 
-## Les réalisations humaines
+## Justification essentialiste
 
-Pourtant, nos constructions physiques ne sont jamais catégorisées comme naturelles. Elles sont humaines oui, mais pas naturelle. Comme si on devait bien le différencier du reste, de ce qui se fait sans nous, sans notre intervention et dans lequel nous n'avons aucun rôle.
+A l'inverse, elle permet aussi de justifier des comportements qui seraient eux remis en cause.
+On peut le retrouver notamment dans les comportements qui sont socialement remis en cause.
+
+On peut penser aux hommes qui seraient "naturellement" attirés par le sexe et ne saurait y résister, car ça fait partie de leurs "besoins naturels".
+
+De la même façon que cela permet de justifier une assignation des femmes à un ensemble de rôles, de comportement ou d'émotions.
+
+Cet argument du naturel permet encore d'assigner des places, des positions et des rapports de dominations sous couverts de positions qui seraient naturelles et en conséquent immuables.
+
+## Réalisations humaines
+
+Nos constructions physiques ne sont jamais(?) catégorisées comme naturelles. Elles sont humaines oui, mais pas naturelle. Comme si on devait bien le différencier du reste, de ce qui se fait sans nous, sans notre intervention et dans lequel nous n'avons aucun rôle.
 
 Pourtant encore une fois, nous faisons partie du règne animal et de ce monde, les comportements et construction que nous produisons n'ont pas de raison d'être sorti du naturel.
 
@@ -34,3 +45,4 @@ Un argument pourrait être la notion d'industrialisation sous-jacente de nos ré
 - [Bienvenue a Gattaca](https://www.allocine.fr/film/fichefilm_gen_cfilm=17079.html)
 - [Le guide du féminisme pour les hommes et par les hommes ](https://www.librairie-des-femmes.fr/livre/9782290202739-le-guide-du-feminisme-pour-les-hommes-et-par-les-hommes-michael-kaufman-michael-kimmel-pacco/)
 - [La révolution culturelle nazie](https://www.gallimard.fr/Catalogue/GALLIMARD/Tel/La-revolution-culturelle-nazie)
+- [Le pouvoir de la rhétorique](https://www.seuil.com/ouvrage/le-pouvoir-rhetorique-clement-viktorovitch/9782021465877https://www.seuil.com/ouvrage/le-pouvoir-rhetorique-clement-viktorovitch/9782021465877)

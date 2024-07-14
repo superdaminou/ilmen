@@ -3,6 +3,7 @@ title: Une histoire récit
 draft: false
 tags:
   - reflexion
+  - philosophie
 ---
 
 ## Besoin de récits

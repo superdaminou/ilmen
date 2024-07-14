@@ -42,7 +42,7 @@ On mets alors au point différent systèmes permettant d'interagir avec les comp
 
 Qui est l'agencement des différentes [[abstraction|abstraction]], concept et protocoles agençant un ensemble de logiciel de façon structuré permettant d'en sortir des usages plus vastes et plus complexe.
 
-Par exemple une application [[evol_web|WEB]] classique consiste en l'agencement d'une Base de données associé à un serveur WEB les deux communiquant ensemble et renvoyant de la données vers le navigateur qui va mettre tout cela en forme afin de fournir un affichage adapté au support physique de l'utilisateur.
+Par exemple une application [[evol_web|WEB]] classique consiste en l'agencement d'une Base de données associé à un serveur HTTP les deux communiquant ensemble et renvoyant de la données vers le navigateur qui va mettre tout cela en forme afin de fournir un affichage adapté au support physique de l'utilisateur.
 
 Dans cette catégorie je range:
 

@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!info] TL;DR
-> La norme se pose par dessus l'abstraction, la fige et la diffuse. Ce faisant elle participe à l'évolution de l'informatique et organise une grande partie de son fonctionnement.
+> La norme se pose par dessus l'abstraction, la fige et la diffuse. Ce faisant elle participe à l'évolution de l'informatique et organise une majeure partie de son fonctionnement.
 
 ## Comment s'organiser ?
 

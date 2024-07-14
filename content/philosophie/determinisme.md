@@ -44,5 +44,6 @@ La question reste bien plus complexe et il faut se tourner de nouveau vers la ph
 
 ## Ressources Diverses
 
-["Implication du système Nociceptin/OrphaninFQ-NOP dans les effets négatifs du stress chronique sur la mémoire et la plasticité de l'hippocampe](https://theses.fr/2022TOU30249)
-[Libre ou déterminé ?](https://www.youtube.com/watch?v=u3lapME67VI) -[# Tous racistes ? Les biais implicites — Crétin de Cerveau #7](https://www.youtube.com/watch?v=850Zr6dzxYU&t=333s)
+- ["Implication du système Nociceptin/OrphaninFQ-NOP dans les effets négatifs du stress chronique sur la mémoire et la plasticité de l'hippocampe](https://theses.fr/2022TOU30249)
+- [Libre ou déterminé ?](https://www.youtube.com/watch?v=u3lapME67VI) -[# Tous racistes ? Les biais implicites — Crétin de Cerveau #7](https://www.youtube.com/watch?v=850Zr6dzxYU&t=333s)
+- [Le cycle de Fondation](https://www.babelio.com/livres/Asimov-Le-Cycle-de-Fondation-tome-1--Fondation/5378)
