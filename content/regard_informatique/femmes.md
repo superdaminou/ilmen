@@ -1,6 +1,5 @@
 ---
 title: Les femmes dans l'informatiques
-draft: false
 tags:
   - informatique
   - histoire
@@ -34,7 +33,7 @@ En faisant rentrer l'informatique dans le domaine sacré de la science et son in
 
 L'apparition progressive de l'ordinateur dans les foyers et la diffusion de pub et de culture stéréotypé va renforcer l'image d'un milieu fait pour les hommes par les hommes. Les jeux vidéo sont pour les hommes. Les hackers sont des hommes.
 
-Les femmes vont être cantonnés a des petits postes de supports.
+Les femmes vont être cantonnés à des petits postes de supports.
 
 Les mouvements féministes des années 2000 et les nouvelles questions sur le genre émergeant dans le débat public, cette vision est mise à mal. De plus en plus de femmes prennent la parole sur les conditions de travail et l'ambiance sexiste. Nous nous intéressons aux mécaniques de production et un travail de sensibilisation est fait aussi chez les enfants pour permettre aux filles de s'engager dans cette voie si elles le veulent.
 
@@ -48,6 +47,6 @@ En tant que travailleurs, nous sommes en partie responsables de cet environnemen
 
 - [Les chiffres clés sur les femmes et la tech](https://www.grandeecolenumerique.fr/le-numerique-et-les-femmes/les-chiffres-cles-sur-les-femmes-et-la-tech)
 - [Naissance des premiers diplômes d’informatique et leurs développement entre 1968 et 1990](https://webtv.univ-lille.fr/video/6480/naissance-des-premiers-diplomes-d8217informatique-et-leurs-developpement-entre-1968-et-1990)
-- [## Les femmes et l’informatique : histoire d’une exclusion, enjeux de la réappropriation](https://www.ritimo.org/Les-femmes-et-l-informatique-histoire-d-une-exclusion-enjeux-de-la)
-- [# Ces femmes qui ont révolutionné l’informatique moderne](https://usbeketrica.com/fr/article/elles-ont-revolutionne-l-informatique-moderne)
+- [Les femmes et l’informatique : histoire d’une exclusion, enjeux de la réappropriation](https://www.ritimo.org/Les-femmes-et-l-informatique-histoire-d-une-exclusion-enjeux-de-la)
+- [Ces femmes qui ont révolutionné l’informatique moderne](https://usbeketrica.com/fr/article/elles-ont-revolutionne-l-informatique-moderne)
 - [Mais où sont les informaticiennes ?](https://www.cairn.info/revue-travail-genre-et-societes-2016-2-page-167.htm)

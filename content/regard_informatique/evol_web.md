@@ -24,7 +24,7 @@ C'est le **WEB 1.0**. Les ordinateurs apparaissent et se démocratisent dans les
 - Encarta
 - Netscape et internet explorer
 
-Orienté sur la lecture seul, ce sont surtout des serveurs répartie chez des entreprise et des particuliers qui héberge et mette à disposition de la données. On peut consulter les sites et s'abonner pour recevoir de l'informations. Les serveurs sont administré manuellement et les normes peut existantes.
+Orienté sur la lecture seul, ce sont surtout des serveurs répartis chez des entreprise et des particuliers qui hébergent et mettent à disposition de la données. On peut consulter les sites et s'abonner pour recevoir de l'informations. Les serveurs sont administré manuellement et les normes peut existantes.
 
 C'est un espace d'expérimentation technique et de luttes pour imposer ces outils et ces codes.
 
@@ -63,20 +63,20 @@ Nous transférons de plus en plus de données et hébergeons de moins en moins n
 La notion de CLOUD explose et nous avons de moins en besoin d'avoir nos propres machines et de développer nos propres outils.
 
 C'est aussi l'apparition sur la place publique de la blockchain notamment avec la très forte popularisation du Bitcoin, poussant jusqu'au bout le concept de décentralisation en demandant aux acteurs du réseaux de valider les opérations et plus seulement un serveur central.
-Avec la popularisation de cette technologie on voit aussi augmentation des sujets lié à la consommation. Chaque validation basée sur la preuve de travail nécessitant de fournir une certaine puissance de calcul.
+Avec la popularisation de cette technologie on voit aussi une augmentation des sujets lié à la consommation. Chaque validation basée sur la preuve de travail nécessitant de fournir une certaine puissance de calcul.
 
 Si on reprends nos caractéristique du début :
 
-- Des architectures moins monolithiques et plus orienté service
-- Une responsabilité distribué entre navigateur et serveurs
-- Une administration des ressources décentralisé et rationnalisé
+- Des architectures moins monolithiques et plus **orientées services**
+- Une responsabilité **distribué** entre navigateur et serveurs
+- Une administration des ressources **décentralisée** et rationnalisée
 
 ## 2020-
 
 Cette décentralisation de plus en plus forte ne va pas s’arrêter au code ou aux processus mais va s'étendre aussi aux ressources. Notre utilisation et besoin grandissant oriente encore notre architecture avec la démocratisation du cloud. Nous passons petit à petit de serveurs administrés manuellement, représenté par des métiers comme d'Admin Sys ou Database administrator, à des stratégies dites de "resources on-demand" et de délégation de l'infrastructure a des tierces.
 Nous pouvons l'observer à travers la démocratisation de terme tel que Saas, Pass ou Iass. Nous déléguons désormais l'administration de nos infrastructures ainsi que de nos ressources à des entité externe (Microsoft, Amazon, Google).
 
-Par exemple : nous transférons du code sur Github qui déclenchera un ensemble de pipeline téléchargeant, construisant et envoyant des images docker qui seront automatiquement répercuté et déployées dans nos infrastructure clusterisé qui alors (re)créeront des stockage, base de données et serveurs en fonction de la configuration et des limites (technique mais aussi financière) que nous avons définis.
+Par exemple : nous transférons du code sur Github qui déclenchera un ensemble de pipeline téléchargeant, construisant et envoyant des images docker dans des registry qui seront automatiquement répercuté et déployées dans nos infrastructure clusterisé qui alors (re)créeront des stockage, base de données et serveurs en fonction de la configuration et des limites (technique mais aussi financière) que nous avons définis.
 Les ressources accordées seront mises à disposition en fonction de la demande.
 
 Nous parlons désormais de Web 3.0 qui semble s'orienter sur une utilisation de plus en plus forte de la décentralisation. Nous avons pu l'observer notamment avec la blockchain qui a suscité beaucoup de questions sur son utilisation. Néanmoins ce domaine voit de nombreux changement rapide et s'adapte aussi à ses critiques. Nous pouvons prendre comme exemple Ethereum qui passe désormais sur une stratégie de de "Proof-of-stake" qui réduit fortement la consommation d'énergie.

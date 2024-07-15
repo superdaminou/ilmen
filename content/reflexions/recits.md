@@ -1,5 +1,5 @@
 ---
-title: Une histoire récit
+title: Une histoire de récit
 draft: false
 tags:
   - reflexion
