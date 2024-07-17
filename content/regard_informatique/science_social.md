@@ -10,16 +10,15 @@ tags:
 > [!info] TL;DR
 > On peut et on doit aussi analyser l'organisation technique et technologique a travers le prisme des sciences sociales.
 
-Je suis développeur WEB et je m'intéresse aux sciences sociales comme la [[tags/politique|politique]] ou la [[tags/sociologie|sociologies]], j'en arrive donc à me demander:
-Est-ce que je peux assembler les deux ? Est-ce que cela a du sens ?
+Je suis développeur WEB et je m'intéresse aux sciences sociales comme la [[tags/politique|politique]] ou la [[tags/sociologie|sociologies]], j'en arrive donc à me demander si je peux assembler les deux ? Est-ce que cela a du sens ?
 
-Depuis plus de 50 ans, l'ordinateur et l'informatique ont évolué conjointement à une vitesse exponentielle. Rien que sur une période de presque 30 ans [[evol_web|le WEB est apparu et c'est transformé]] aussi vite que le [[materiel_technique|prix  Giga octet de mémoire diminuai]]t.
+Depuis plus de 50 ans, l'ordinateur et l'informatique ont évolué conjointement à une vitesse exponentielle. Rien que sur une période de presque 30 ans [[evol_web|le WEB est apparu et c'est transformé]] aussi vite que le [[materiel_technique|prix  Giga octet de mémoire diminuait]].
 
 Mais l'histoire pourrait faire remonter l'informatique plus loin que Turing et le circuit intégré. En définissant succinctement l'[[definition|informatique]] comme la **science du traitement de l'information** des personnes comme Ada Lovelace ou les techniques de mécanographie avec les cartes perforées font partie de ce domaines.
 
 Sociologiquement, ce domaine a fortement changé. En prenant qu'à partir du début de XXe siècle nous sommes globalement passé d'un domaine
 
-- très fortement féminisé et précaire
+- [[femmes|très fortement féminisé et précaire]]
 - à un domaine de grande puissance scientifique et masculinisé
 - pour être désormais un domaine d'employé et de cadres très majoritairement masculin
 

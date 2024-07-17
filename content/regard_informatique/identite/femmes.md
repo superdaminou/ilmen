@@ -35,13 +35,13 @@ L'apparition progressive de l'ordinateur dans les foyers et la diffusion de pub 
 
 Les femmes vont être cantonnés à des petits postes de supports.
 
-Les mouvements féministes des années 2000 et les nouvelles questions sur le genre émergeant dans le débat public, cette vision est mise à mal. De plus en plus de femmes prennent la parole sur les conditions de travail et l'ambiance sexiste. Nous nous intéressons aux mécaniques de production et un travail de sensibilisation est fait aussi chez les enfants pour permettre aux filles de s'engager dans cette voie si elles le veulent.
+Les mouvements féministes des années 2000 et les nouvelles questions sur le genre émergeant dans le débat public, cette vision est mise à mal. De plus en plus de femmes prennent la parole sur les conditions de travail et l'ambiance sexiste. Nous nous intéressons aux mécaniques de production et un travail de sensibilisation est réalisé chez les enfants pour permettre aux filles de s'engager dans cette voie si elles le veulent.
 
 ## La suite
 
-En tant qu'homme, je pense qu'il est de notre responsabilité de nous interroger sur nos propres comportements. J'ai grandi avec des représentations et je sais que j'ai pu avoir une vision stéréotypée de milieu appuyé par cet environnement. Nous devons écouter les paroles de nos collègues pour nous aussi travailler à un meilleur environnement.
+En tant qu'homme, je pense qu'il est de notre responsabilité de nous interroger sur nos propres comportements. J'ai grandi avec des représentations et je sais que j'ai pu avoir une vision stéréotypée de milieu appuyé par cet environnement. Nous pouvons et devons écouter les paroles de nos collègues pour nous aussi travailler à un meilleur environnement.
 
-En tant que travailleurs, nous sommes en partie responsables de cet environnement et du développement social de l'informatique. Nous avons tout intérêt à ce que de plus en plus de monde intègre ce domaine et devons travailler en ce sens.
+En tant que travailleurs, nous sommes en partie responsables de cet environnement et du développement social de l'informatique. Nous avons tout intérêt à ce que de plus en plus de monde intègre ce domaine.
 
 ## Ressource diverses
 
@@ -50,3 +50,5 @@ En tant que travailleurs, nous sommes en partie responsables de cet environnemen
 - [Les femmes et l’informatique : histoire d’une exclusion, enjeux de la réappropriation](https://www.ritimo.org/Les-femmes-et-l-informatique-histoire-d-une-exclusion-enjeux-de-la)
 - [Ces femmes qui ont révolutionné l’informatique moderne](https://usbeketrica.com/fr/article/elles-ont-revolutionne-l-informatique-moderne)
 - [Mais où sont les informaticiennes ?](https://www.cairn.info/revue-travail-genre-et-societes-2016-2-page-167.htm)
+- [La SCIENCE est-elle SEXISTE ? I Vortex Off I ARTE}](https://www.youtube.com/watch?v=fzm36EMWkbE)
+- [Grace Hopper: Full lecture at the University of Tennessee, 1983](https://www.youtube.com/watch?v=wHdHCoeUbU4)

@@ -16,7 +16,7 @@ Alors revenons un peu dessus.
 
 De quel type de violences parle-t-on ? On voit facilement quelques forme qui reviennent régulièrement dans le débat public a travers les discours militant ou les faits divers.
 
-- On connaît très bien la violence physique, la classique. Celle qui marque le corps. Elle peut se pratiquer seul ou a plusieurs, à la main ou avec des armes
+- On connaît très bien la violence physique, la classique. Celle qui marque le corps. Elle peut se pratiquer seul ou à plusieurs, à la main ou avec des armes
 - Je crois qu'on commence a reconnaître la violence psychologique. Celle qui ne laisse pas de coup, mais qui nous détruit quand même. Celle que l'on voit dans le cas de harcèlement scolaire avec le dénigrement qui y est associé
 - Les violences sexistes et sexuelles qu'elles soit morales ou physiques sur lesquelles les associations et les féministes remontent régulièrement des chiffres qui devrait bien plus nous alerter collectivement
 - La violence sociale et économique, mobilisée comme argument politique et comme prisme d'analyse dans les courants de gauche. Qui peut se traduire dans un contrôle fort sur nos dépenses, un discours général dégradant sur une catégorie de personnes. Un ensemble de petites et grandes mécaniques qui instaure un système globalement hostile pour une personne.
@@ -31,7 +31,7 @@ La qualification de violence semble donc être subjective. Si elle est subjectiv
 
 Et on pourrait même en arriver à justifier la violence. On l'a même déjà fait, on le fait même tout le temps. Peu de personnes condamnent [[../philosophie/morale/morale|moralement]] les résistants français qui ont commis des actes de violences physiques sur l’occupant nazi. On accepte assez volontiers qu'une personne se défende violemment contre un agresseur. Après tout, on accepte toujours collectivement la notion d'emprisonnement et l'isolement, qui est une forme de violence que l'on inflige au prisonnier. On choisi, en tant que société, de laisser la [[ou_va_argent_pauvre|pauvreté]] exister.
 
-On voit des violences qui étaient réprimées et disqualifiées à un moment de l'histoire être glorifié à un autre moment et inversement. Est-il possible que certains actes auto disqualifiés aujourd'hui car caractérisé de violent soit plus tard considéré comme justifié ? Il y a peu de raison que ça ne soit pas le cas. A l'inverse, est ce que le fait de tuer **des centaines de millions** d'animaux chaque jour sera demain vu comme un acte d'une violence sans nom là ou aujourd'hui elle est vu comme un simple fait.
+On voit des violences qui étaient réprimées et disqualifiées à un moment de l'histoire être glorifié à un autre moment et inversement. Est-il possible que certains actes auto disqualifiés aujourd'hui car caractérisé de violent soit plus tard considéré comme justifié ? Il y a peu de raison que ça ne soit pas le cas. A l'inverse, est ce que le fait de tuer **des centaines de millions** d'animaux chaque jour sera demain vu comme un acte d'une violence sans nom là ou aujourd'hui elle est vu comme un simple fait ?
 
 Pour ne pas nous égarer il est donc nécessaire de s’arrêter sur la violence. De prendre du temps pour l'analyser. Pour comprendre ses fondements et la traiter correctement.
 
@@ -46,3 +46,4 @@ La violence est souvent le résultat d'une organisation hiérarchique:
 - [Surveiller et punir ](https://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Histoires/Surveiller-et-punir)
 - [Sociologie de la délinquance et de la justice pénale](https://www.cairn.info/sociologie-de-la-delinquance-et-de-la-justice-pena--9782749207629.htm)
 - [[/fiche_lecture/plus_femme_politique.md|Plus de femme en politique]]
+- [Critique de la violence W. Benjamin](https://major-prepa.com/culture-generale/violence-droit-critique-benjamin/)

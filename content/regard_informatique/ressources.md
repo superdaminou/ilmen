@@ -13,7 +13,7 @@ tags:
 
 L'informatique et le web ont énormément évolué ainsi que nos pratiques et nos usages. Tout cet écosystème se base sur un ensemble de ressources matériel. Des terres rares pour les processeurs, de l'eau pour refroidir les serveurs et tout ce qui peut nous permettre de produire de l'énergie pour faire tourner ces derniers.
 
-Nous ne savons pas comment les technologies et nos pratiques vont continuer d'évoluer. Malgré ce qui semble être un léger ralentissement global, nous continuons à avoir des réseaux plus performant, de plus gros disques durs et des processeurs plus rapide, mais aussi aux prix de consommations plus élevées.
+Nous ne savons pas comment les [[materiel_technique|technologies]] et nos pratiques vont continuer d'évoluer. Malgré ce qui semble être un léger ralentissement global, nous continuons à avoir des réseaux plus performant, de plus gros disques durs et des processeurs plus rapide, mais aussi aux prix de consommations plus élevées.
 
 Nous avons moins besoin de nous soucier de la performance de nos algorithmes et le place que prends nos données. C'est presque devenu une donnée secondaire. J'aime bien le maxime "make it work, make it right, make it fast" mais la performance vient bien à la fin.
 
@@ -49,9 +49,9 @@ Un changement majeur de ces dernières années est la démocratisation des IA, a
 
 Cependant la consommation engendrée et son augmentation est déjà critiquée et remise en cause et sera un enjeu de taille dans l'organisation du WEB dans les prochaines années.
 
-Dans un enjeu de crise climatique, la consommation générale est questionnée. Nous recyclons et limitons le gaspillage alimentaire par mise en œuvre concrète et de la sensibilisation. Nous introduisons un ensemble de dispositifs légaux permettant de réguler l'usage de ressources dans diverses industries.
+Dans un enjeu de crise climatique, la consommation générale est questionnée. Nous recyclons et limitons le gaspillage alimentaire par des mises en œuvre concrète et de la sensibilisation. Nous introduisons un ensemble de dispositifs légaux permettant de réguler l'usage de ressources dans diverses industries.
 
-Je ne vois pas de raison que l'informatique et notamment sa pratique pour les concepteurs n'évolue pas en ce sens. Des termes comme "éco-conceptions" font leurs entrées dans le domaine mais la définition semble rester encore très floue en plus de se limiter un aspect purement technique sans forcément interroger le besoin sous-jacent.
+Je vois aucune raison pour que l'informatique et notamment sa pratique pour les concepteurs n'évolue pas en ce sens. Des termes comme "éco-conceptions" font leurs entrées dans le domaine mais la définition semble rester encore très floue en plus de se limiter un aspect purement technique sans forcément interroger le besoin sous-jacent.
 
 Certaines de ces questions sont strictement démocratiques et nécessite l'avis éclairé de l'ensemble de la population sur les questions amenant à notre usage des ressources dans le domaine de l'informatique
 

@@ -28,7 +28,7 @@ Nous créons le récit de nous même, le récit de ce que nous voulons être et 
 
 Nous créons le récit de nos relations, avec ses drames et ses aventures. Plein d'acteurs qui rentrent et qui sortent de la scène dont nous interprétons les jeux d'acteurs.
 
-Nous créons nos récit collectif. Ceux qui mobilise et justifie toutes les causes. Nous avons créé des récits horribles. Certains qui refusent de se conclure et qui ressurgissent comme un ennemi juré. D'autres qui ne sont pas encore née et qui nous porterons.
+Nous créons nos récit collectif. Ceux qui mobilise et justifie toutes les causes. Nous avons créé des [[idee_qui_tue|récits horribles]]. Certains qui refusent de se conclure et qui ressurgissent comme un ennemi juré. D'autres qui ne sont pas encore née et qui nous porterons.
 
 Choisissons bien nos récits.
 

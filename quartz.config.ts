@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "fr-FR",
     baseUrl: "ilmen.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",

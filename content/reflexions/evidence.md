@@ -16,7 +16,7 @@ De la même façon qu'il pouvait être évident de croire que le soleil tourne a
 Ainsi, sans tomber dans le scepticisme permanent, il est nécessaire de garder son esprit ouvert à la critique et être prêt a remettre en cause nos acquis. Certains outils sont utile à cela:
 
 - La [[tags/philosophie|philosophie]] pour nous pousser dans nos retranchement
-- La logique et la rhétorique pour nous prémunir autant que possible de raisonnement foireux
+- La logique et la [[rethorique_biais|rhétorique]] pour nous prémunir autant que possible de raisonnement foireux
 - L'empathie, se mettre à la place des autres et comprendre leurs logiques interne pour la confronter à la notre
 
 ### Ressources diverses
