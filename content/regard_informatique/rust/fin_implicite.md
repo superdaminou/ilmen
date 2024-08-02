@@ -99,3 +99,9 @@ fn gestion_du_code(peut_etre_le_code: Option<&str>) -> Result<(), ApplicationErr
 ```
 
 Disparition des `unwraps` et gestion des erreurs explicite. Nous avons pu mettre en place cette nouvelle fonctionnalité en ne pouvant à aucun moment ignorer la gestion d'erreur.
+
+## Ressources diverses:
+
+- [panic - Rust Book](https://doc.rust-lang.org/book/ch09-01-unrecoverable-errors-with-panic.html)
+- [Result - Rust Book](https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html)
+- [Home made httpServer](https://github.com/superdaminou/ilmen-http)
