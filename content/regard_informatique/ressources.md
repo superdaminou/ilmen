@@ -1,5 +1,5 @@
 ---
-title: Rationalisation et économie de ressources
+title: Informatique et organisation des ressources
 draft: false
 tags:
   - informatique
@@ -17,7 +17,7 @@ Nous ne savons pas comment les [[materiel_technique|technologies]] et nos pratiq
 
 Nous avons moins besoin de nous soucier de la performance de nos algorithmes et le place que prends nos données. C'est presque devenu une donnée secondaire. J'aime bien le maxime "make it work, make it right, make it fast" mais la performance vient bien à la fin.
 
-Alors qu'il y a 50 ans, c'était le critère primaire. 
+Alors qu'il y a 50 ans, c'était le critère primaire.
 
 Lorsque l'on envoie une fusée sur la Lune, la limite de notre programme n'est pas que financières. Elle est physique. Nous sommes aussi limités dans notre capacité à embarquer de la complexité par les contraintes d'espace et de poids.
 
@@ -53,9 +53,9 @@ Cependant la consommation engendrée et son augmentation est déjà critiquée e
 
 Dans un enjeu de crise climatique, la consommation générale est questionnée. Nous recyclons et limitons le gaspillage alimentaire par des mises en œuvre concrète et de la sensibilisation. Nous introduisons un ensemble de dispositifs légaux permettant de réguler l'usage de ressources dans diverses industries.
 
-Je vois aucune raison pour que l'informatique et notamment sa pratique pour les concepteurs n'évolue pas en ce sens. Des termes comme "éco-conceptions" font leurs entrées dans le domaine mais la définition semble rester encore très floue en plus de se limiter un aspect purement technique sans forcément interroger le besoin sous-jacent.
+Je vois aucune raison pour que l'informatique et notamment sa pratique pour les concepteurs n'évolue pas en ce sens. Des termes comme "éco-conceptions" font leurs entrées dans le domaine et commence à être intégré dans les propositions comme critères différenciant.
 
-Certaines de ces questions sont strictement démocratiques et nécessite l'avis éclairé de l'ensemble de la population sur les questions amenant à notre usage des ressources dans le domaine de l'informatique
+Certaines de ces questions sont strictement démocratiques et nécessite des débats de qualité et accessible à la population notamment sur les questions en lien avec notre usage des ressources dans le domaine de l'informatique.
 
 Ces 20 dernières années ont vu une métamorphose assez spectaculaire de notre domaine et de l'organisation du WEB. Les années à venir vont sans doute être l'enjeu de [[science_social|nouveaux conflits politique et idéologique]] qui vont structurer cet espace et dont en tant que travailleurs et participant actif de cet écosystème nous devons nous emparer.
 
@@ -68,3 +68,4 @@ Ces 20 dernières années ont vu une métamorphose assez spectaculaire de notre 
 - [# PoS vs PoW sur Ethereum : Les avantages de la preuve d’enjeu](https://www.cointribune.com/pos-vs-pow-sur-ethereum-les-avantages-de-la-preuve-denjeu/)
 - [# Data centers, bitcoin... Cinq informations à retenir du rapport des Nations unies sur la pollution du secteur numérique](https://www.francetvinfo.fr/monde/environnement/data-centers-bitcoin-cinq-informations-a-retenir-sur-le-rapport-des-nations-unies-sur-la-pollution-du-secteur-numerique_6660027.html)
 - [Shadow](https://shadow.tech/fr-FR)
+- [# Référentiel général d'écoconception de services numériques (RGESN) - 2024](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)

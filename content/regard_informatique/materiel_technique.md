@@ -71,3 +71,4 @@ En **2024** un speed-test estime ma connexion aux alentours de 934Mb/s en connex
 - [https://france.devoteam.com/paroles-dexperts/evolution-des-architectures/](https://france.devoteam.com/paroles-dexperts/evolution-des-architectures/)
 - [https://www.lebigdata.fr/heroku-definition](https://www.lebigdata.fr/heroku-definition)
 - [https://tokensinvaders.com/blog/consensus-de-validation/](https://tokensinvaders.com/blog/consensus-de-validation/)
+- [# Une histoire de l'informatique moderne, épisode 5 - L'importance du microprocesseur](https://www.youtube.com/watch?v=p3XCD8lM20Y)

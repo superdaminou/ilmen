@@ -1,6 +1,5 @@
 ---
 title: Définir l'informatique
-draft: false
 tags:
   - informatique
   - vulgarisation

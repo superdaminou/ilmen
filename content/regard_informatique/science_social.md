@@ -44,3 +44,4 @@ Tout cela m'amène donc à conclure que oui, je peux combiner sciences sociales 
 - [Les figures de l'ombre](https://www.allocine.fr/film/fichefilm_gen_cfilm=219070.html)
 - [# BDX I/O 2023 - L'AGC : retour sur l'ordinateur qui a amené.... - Olivier Poncet et Romain Berthon](https://www.youtube.com/watch?v=y--tOhotacc&list=PLUJzERpatfsVMOzcD4ZpsOvrZzQW-5O1F&index=4)
 - [Michel Bauwens : « Un rêve technocratique totalitaire »](https://www.lemonde.fr/economie/article/2016/04/18/michel-bauwens-un-reve-technocratique-totalitaire_4904154_3234.html)
+- [Jetbrain developer ecosystem](https://www.jetbrains.com/lp/devecosystem-2023/demographics/)

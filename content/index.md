@@ -2,20 +2,11 @@
 title: Bienvenue
 ---
 
-Ici, vous trouverez deux types de contenus:
+Etant intéressé par tout et professionnel sur rien j'essaye d'assembler ce que je sais et ce que je crois savoir à des [[reflexions/index|réflexions]] plus personnelles pour voir si ça donne un truc intéressant. N'étant pas légitime par nature je vous invite a consulter directement les [[recommandation|ressources]] que je fournis ou consulter les [[fiche_lecture/index|fiches de lectures]] que je produis.
 
-- Vulgarisation et [[fiche_lecture|résumés]]
-- [[/reflexions|Réflexions]] personnelles
-
-Globalement, j'aime parler de [[tags/philosophie|philosophie]], [[tags/politique|politique]] et de [[tags/sociologie|sociologie]].
+[[presentation|Etant]] un travailleur de l'informatique, vous trouverez aussi des articles plus spécifique à ce domaine mais que je tente toujours de faire cohabiter avec la [[tags/philosophie|philosophie]] ou la [[tags/sociologie|sociologie]].
 
 > [!warning] Attention
->
-> Je ne suis en aucun cas un expert sur la majorité des sujets qui vont être abordés. La seule légitimité de mes propos sera celle qui me sera accordée. J'invite toute personne trouvant un sujet intéressant à aller creuser les [[recommandation|sources]] que je fournis ou à se renseigner auprès de personnes plus légitime.
+> Vous remarquerez très rapidement que j'ai ni la grammaire, ni l'orthographe la plus carrée et j'en appelle à votre indulgence.
 
-Vous pouvez voir plus précisément [[presentation|qui je suis]] et quelles sont [[intentions|mes intentions]]
-
-> [!warning] Attention
-> Vous remarquerez que j'ai ni la grammaire ni l'orthographe la plus carrée, j'en appelle à votre indulgence.
-
-Pour toute réclamation, vous pouvez me le signaler ici: damien@ilmen.fr
+Pour toute réclamation : damien@ilmen.fr
