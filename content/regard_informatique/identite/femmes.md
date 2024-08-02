@@ -23,7 +23,7 @@ Dans la culture et les [[recits|récits]] j'ai vu ce domaine être principalemen
 
 Historiquement, les femmes étaient très présentes dans ce milieu. Une figure régulièrement citée en exemple est **Ada Lovelace** souvent associé aux premiers concepts d'ordinateurs et algorithme.
 
-Jusqu'au années 50 en tant opératrice et "ordinateurs humains" elles sont cruciales dans le traitement de l'information et les calculs. Les compétences associées étaient celles équivalentes a dès l'exécution stricte d'ordre quasi-administratif et répétitif. Des taches peu valorisé et considéré comme adaptés à la nature des [[argument_naturel|femmes]] et une position sociale équivalente à celle d'une secrétaire.
+Jusqu'au années 50 en tant opératrice et "ordinateurs humains" elles sont cruciales dans le traitement de l'information et les calculs. Les compétences associées étaient celles équivalentes à de l'exécution stricte d'ordre quasi-administratif et répétitif. Des taches peu valorisées et considérées comme adaptés à la nature des [[argument_naturel|femmes]] et une position sociale équivalente à celle d'une secrétaire.
 
 Elles sont pourtant cruciales dans le développement de cette science et investissent fortement ce domaine. Jusqu'aux années 80-90, ce sont plusieurs femmes dont le nom restera dans l'histoire, telles que **Grace Hopper** ou **Margaret Hamilton**. Elles ont la connaissance historique de par leurs présences historiquement majoritaire dans ce milieu et deviennent cruciales stratégiquement. Certains programmes sont écrits exclusivement par des femmes.
 
