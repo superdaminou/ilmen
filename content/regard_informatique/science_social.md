@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!info] TL;DR
-> On peut et on doit aussi analyser l'organisation technique et technologique a travers le prisme des sciences sociales.
+> On peut et on doit aussi analyser l'organisation technique et technologique de l'informatique à travers le prisme des sciences sociales.
 
 Je suis développeur WEB et je m'intéresse aux sciences sociales comme la [[tags/politique|politique]] ou la [[tags/sociologie|sociologies]], j'en arrive donc à me demander si je peux assembler les deux ? Est-ce que cela a du sens ?
 

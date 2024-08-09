@@ -11,7 +11,7 @@ Introduit en 1957 ce terme défini la **science du traitement de l'information**
 
 ## Définition usuelle
 
-Quand je parle d'informatique je l'entend dans son sens usuel auquel nous sommes confrontés en tant qu'utilisateur et en tant qu'acteur. C'est a dire les ordinateurs et tout ce qu'on peut faire avec.
+Quand je parle d'informatique je l'entend dans son sens usuel. L'informatique a laquelle nous sommes confrontés en tant qu'utilisateur et en tant qu'acteur. C'est a dire les ordinateurs et tout ce qu'on peut faire avec.
 
 La dedans je distingue trois couches
 
@@ -50,3 +50,7 @@ Dans cette catégorie je range:
 - MVC
 - Blockchain
 - WEB
+
+## Ressources diverses
+
+- [Une histoire de l'informatique moderne](https://www.youtube.com/watch?v=kc-PVtVIFu4&list=PLprHUtvQI2ADFOgnaJcKzt04i0YlS1Q7N)

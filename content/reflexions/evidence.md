@@ -13,7 +13,7 @@ Au-delà de l'évidence, le savoir lui-même est à interroger. On a vu tout au 
 
 De la même façon qu'il pouvait être évident de croire que le soleil tourne autour de la terre, il se peut que nous ayons un certains nombre d'évidences qui soient fausses.
 
-Ainsi, sans tomber dans le scepticisme permanent, il est nécessaire de garder son esprit ouvert à la critique et être prêt a remettre en cause nos acquis. Certains outils sont utile à cela:
+Ainsi, sans tomber dans le scepticisme permanent, il est nécessaire de garder son esprit ouvert à la critique et être prêt a remettre en cause nos acquis. Certains outils sont utiles à cela:
 
 - La [[tags/philosophie|philosophie]] pour nous pousser dans nos retranchement
 - La logique et la [[rethorique_biais|rhétorique]] pour nous prémunir autant que possible de raisonnement foireux
@@ -25,3 +25,4 @@ Ainsi, sans tomber dans le scepticisme permanent, il est nécessaire de garder s
 - [Le Pouvoir rhétorique](https://www.seuil.com/ouvrage/le-pouvoir-rhetorique-clement-viktorovitch/9782021465877)
 - [LA SCIENCE EST UNE CROYANCE (si c'est vrai c'est très grave) | Quelques bases en épistémologie](https://www.youtube.com/watch?v=YQ_qr-LA3AU)
 - [Le pouvoir rhétorique](https://www.seuil.com/ouvrage/le-pouvoir-rhetorique-clement-viktorovitch/9782021465877)
+- [hygiene mental](https://www.youtube.com/c/Hygi%C3%A8neMentale)

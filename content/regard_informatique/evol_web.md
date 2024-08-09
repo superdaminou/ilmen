@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!info] TL;DR
-> Le Web à fait une transition d'une architecture globalement monolithique et orienté serveur à une foisonnement d'échanges distribués et rationnalisés.
+> Le Web a fait une transition d'une architecture globalement monolithique et orienté serveur à une foisonnement d'échanges distribués et rationnalisés.
 
 ## Qu'est ce que le WEB ?
 
@@ -85,7 +85,7 @@ La blockchain a émergé dans les secteurs plutôt financiers avec notamment les
 
 Pour finir il impossible de ne pas évoquer la forte croissance de l'IA dans le WEB, que ce soit a travers des services comme ChatGpt, des IA influenceurs/influenceuses, des site d'information et blog rédigé par des IA sans compter tout la question autour de la génération d'image.
 
-Quelle sera l'orientation et l'organisation du WEB dans le futur ? Et quel rapport avec les ressources naturelle ? Il est difficile de répondre à cette question, et cela va être un enjeu de débats internes et externes.
+Quelle sera l'orientation et l'organisation du WEB dans le futur ?
 
 ## Ressource Diverses
 

@@ -15,9 +15,9 @@ Cette idéologie est formée de différentes façons et on ne naît pas en ayant
 
 En tant qu'homme français, j'ai évolué d'une certaine manière dans le monde, je l'ai perçu à ma façon, vécu mes propres soucis. Tout cela impacte directement la façon dont je perçois le monde, pourquoi je pense qu'il est comme ça et à quoi il devrait ressembler.
 
-Une idéologie peut être appuyée par des faits et des recherches. Cela ne signifie pas que l'idéologie est "la bonne" mais seulement qu'elle est cohérentes et que l'on peut l'appliquer à certaines analyses. Ces faits n'étant pas ailleurs pas fixés dans le temps, comme les idéologies raciste qui tente de s'appuyer sur la science pour s'auto-justifier, dont l'approche biologique sous forme de race a été complètement abandonnée et disqualifiée.
+Une idéologie peut être appuyée par des faits et des recherches. Cela ne signifie pas que l'idéologie est "la bonne" mais seulement qu'elle est cohérentes et que l'on peut l'appliquer à certaines analyses. Ces faits pouvant être remis en cause par le temps, comme pour les idéologies raciste qui tente de s'appuyer sur la science pour s'auto-justifier, dont l'approche biologique sous forme de race a été complètement abandonnée et disqualifiée.
 
-Aujourd'hui, on voit cette idéologie s'appuyer sur des formes de sciences sociales notamment à travers des notions culturelles.
+Les explication biologisantes ont beaucoup diminué dans les grands discours publique et aujourd'hui semblent plus sur s'orient sur une approche culturaliste.
 
 ### Ressource
 

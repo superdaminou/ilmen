@@ -1,11 +1,15 @@
 ---
-title: sociologie de la délinquance
+title: Sociologie de la délinquance
 draft: true
+tags:
+  - sociologie
+  - fiche_lecture
 ---
 
 "Lorsque les hommes considère quelques chose comme réelles, elle le sont dans leurs conséquences"
 
-Les USA entre les années 1910 et 1930 sont confronté à pas mal de violence et les théories cherchant à comprendre le fondement de la délinquance émergent.
+Les USA, entre les années 1910 et 1930, sont confronté à une montée de la violence et les théories
+cherchant à comprendre le fondement de la délinquance émergent.
 
 ## Théorie culturaliste
 
@@ -152,137 +156,222 @@ Cette théorie est interprété sous un répressive dans un climat conservateur 
 
 Les théories rationalistes ont des limites : elles expliquent de façon instrumentale mais oublient le contexte social, politique et la subjectivité de la délinquance. Tout n'est pas forcément calculé.
 
-## Réaction Scoiale
+## Réaction Sociale
 
-Apparition interactionnisme
+L'interactionnisme apparait comme concept sociologique.
 
-prendre en compte les personnes qui qualifie les délinquants, voir pouruoi et comment on créé la délinquance comme statut social
+L'interactionnisme prend en compte les personnes qui qualifient les délinquants, en explorant pourquoi et comment la délinquance est créée en tant que statut social.
 
-La déviance n'est que relative a ceux qui percoivent et qualifie la déviance
-Construction sociale , une statistique admisrtative;
-theroei du labelling; notre idéntité et construite par cequ'on croie que le gens pense de nous .
-Il faut sortir de l'individu
+La déviance n'est relative qu'à ceux qui la perçoivent et la qualifient. Il s'agit d'une construction sociale, souvent mesurée par une statistique administrative.
 
-acte => etre qualifié de délinquant => vivre comme un délinquant
-renforcement de l'étiquettage
+La théorie du labelling (étiquetage) postule que notre identité est construite par ce que nous croyons que les autres pensent de nous. Il est essentiel de sortir de l'analyse centrée sur l'individu.
 
-Déviance primaire => N'importe qui peut un jour devenir déviant en transgresszent la norme de son groupe sociale
+Acte → Être qualifié de délinquant → Vivre comme un délinquant -> renforcement de l'étiquettage
 
-Déviance secondaier => réaction sociale qui fait de la carecteristique de déviant l'élement centrale de la cracterisation du lagent
+**Déviance primaire** : N'importe qui peut, un jour, devenir déviant en transgressant la norme de son groupe social.
 
-contestation notion sous culture
-le déviant ne se vit pas totaleme,t
-déviant mais comme un coup déviant et un coup pas déviant
-systeme de valeur a peu près commun dans les grandes ligne, respect des meêm formes de figures
+**Déviance secondaire** : La réaction sociale fait de la caractéristique de déviant l'élément central de la caractérisation de l'agent.
 
-Reconnaissance de la légitimité de l'ordre social
+Il peut exister une contestation de la notion de sous-culture.
+Le déviant ne se perçoit pas entièrement comme tel, mais alterne entre des comportements déviants et non déviants. Il existe un système de valeurs à peu près commun dans les grandes lignes, avec un respect des mêmes formes de figures. Il existe une reconnaissance de la légitimité de l'ordre social
 
-On tombe petit a peitt en étant confronté plusieurs fois à la possibilité de la délinquabce et en créant un système de justificiation pour ces actes ( refus responsabilité, minimisation, negation victore, condamantion censeur , soumission loyauté )
+On tombe petit à petit dans la délinquance en étant confronté plusieurs fois à la possibilité de déviance et en créant un système de justification pour ces actes (refus de responsabilité, minimisation, négation de la victime, condamnation des censeurs, soumission à la loyauté).
 
-En général on pense statistique que déviance = ecart moyenne
+En général, on pense que la déviance est un écart par rapport à la moyenne.
 
-peut être considéré commme un défaut d'obeissance aux normes du groupes . Mais on peut être déviant pour un groupe et par pour l'autre.
-Comme c'est relatif on de peut pas faire une catégorie homogène de déviant
+La déviance peut être considérée comme un défaut d'obéissance aux normes du groupe. Cependant, on peut être déviant pour un groupe et non pour un autre. Comme la déviance est relative, il est impossible de créer une catégorie homogène de déviants.
 
-Seul point commun => ils sont qualifié de délinquant
+**Seul point commun** : les déviants sont qualifiés de délinquants.
 
-La déviance est une interaction entre des groupes
+La déviance semble donc plus être une interaction entre des groupes.
 
-| _Comportement _         | Obesissant à la norme | Transgressant la norme |
-| ----------------------- | --------------------- | ---------------------- |
-| Percu comme déviant     | Accusé a tord         | Pleinement déviant     |
-| Non percu comme déviant | Conforme              | Sécrétement déviant    |
+| **Comportement**        | Obéissant à la norme | Transgressant la norme |
+| ----------------------- | -------------------- | ---------------------- |
+| Perçu comme déviant     | Accusé à tort        | Pleinement déviant     |
+| Non perçu comme déviant | Conforme             | Secrètement déviant    |
 
-étiquettage = procesus intéractfi
-Carrière de déviant =
-1 - Faire une transgression => comment on fait ?
-2- en faire une habtidue, apprendre a apprecier la transgersrion
-3 - etre désigné comme déviant
-4- etre exclu des groupe habituelle et etre obligé de pratiquer la transgression
-5 - Intégrer un groue
+L'étiquetage est un processus interactif
 
-critique => aucune exploqienet sur pourquoi certains plutot que d'autres transgresse
-Ne donne aucune rponse sur la "bonne "réponse social a avoir sur la transgression
+La carrière de déviant comprend plusieurs étapes :
 
-Notion de stigmates
-nous avons tout un enseble de prénotion sur les gens qu'ont attend d'eux et les force, incosciemment, a faire
+1. Commettre une transgression : comment cela se passe-t-il ?
+2. En faire une habitude, apprendre à apprécier la transgression.
+3. Être désigné comme déviant.
+4. Être exclu des groupes habituels et être amené/obligé de pratiquer la transgression.
+5. Intégrer un groupe déviant.
 
-on peut tirer parti de son stigmate voir le revendiquer, comme dans des les logiques protestatiaires
+**Critiques** : Cette approche n'explique pas pourquoi certains individus transgressent plus que d'autres. Elle ne donne pas non plus de réponse sur la "bonne" réponse sociale à avoir face à la transgression.
 
-déviance = attribution d'une identité sociale
-identification 5 type "institution totale " ou l'on est définit que par son stygmate
-1 foyer pour infirme/vieillard
-2 hopitaux psy /leproserie
-3 penitencier et camps concenrtation
-4 caserne, internat camps de travail
-5 monastère et communauté religieuse
+Nous avons tous un ensemble de préjugés sur les gens, ce qui influence leurs comportements de manière inconsciente. Un individu peut tirer parti de son stigmate, voire le revendiquer, notamment dans des logiques protestataires.
 
-- Amputation personnalité (isolement, céremonie dépouillement, perte autonmie...) qui affecte position sociale
-- Syste adaptation secondaires (replis sur soi,n défi, instalation, conversion)
+La déviance est donc l'attribution d'une identité sociale. On peut identifier cinq types d'"institutions totales" où l'on est défini uniquement par son stigmate :
 
-Exemple system psychatrique ou l'organisartion institutionnel caractérise une personne, la met dans cette condition. Pourtant la personen ne reste pas passive et combat souvent se qualificatif pour ne pas êrtre reduit que à ça
+1. Foyers pour infirmes ou vieillards.
+2. Hôpitaux psychiatriques ou léproseries.
+3. Pénitenciers et camps de concentration.
+4. Casernes, internats, camps de travail.
+5. Monastères et communautés religieuses.
 
-Le stigmate caracterise et jour sur l'appration de la déviance puis enferme une personen dans stigamte
+Ces institutions mènent à une amputation de la personnalité (isolement, cérémonies de dépouillement, perte d'autonomie...), ce qui affecte la position sociale. Les systèmes d'adaptation secondaires incluent le repli sur soi, la défiance, l'installation dans la situation ou la conversion.
 
-différence entre ethnomethodologue= mettre la déviance dans le cadre de l'activité de travail repressive
-interactionniste => c'est juste subjectif
+**Exemple** : Le système psychiatrique, où l'organisation institutionnelle caractérise une personne et la maintient dans cette condition. Pourtant, l'individu ne reste pas passif et combat souvent ce qualificatif pour ne pas être réduit à cela.
 
-etude deux ville californie pareil sociodemographiquement mais avec différence taux criminalité
+Le stigmate caractérise et joue un rôle dans l'apparition de la déviance, puis enferme une personne dans ce stigmate.
 
-la différence peut être expliqué dans la différence de comment on arrete, juge et gères la criminalité. Les méthodes de catégorisation
+Différence entre ethnométhodologie et interactionnisme:
 
-- Reconnaissance délinquant a partir de préjugé. Les controle sont fait a cause de critères stéréotypes
-- Evaluation culpabilité a parti de l'anticipation + que preuves materiel. Tout nouveau signe va juste appuyer la culpabilité dans les rapports
-- Données considérés comme objectives puis transofmé plusieurs fois dans me processus.
+- **Ethnométhodologie** : Elle place la déviance dans le cadre de l'activité répressive au travail.
+- **Interactionnisme** : La déviance est perçue comme un phénomène subjectif.
 
-La qualification d'un acte ne dépend pas de la nature de l'acte mais de comment on accumule des informations et intepretation de la personne et situatio,ns.
+Une étude de deux villes californiennes, similaires sociodémographiquement mais ayant des taux de criminalité différents, montre que cette différence peut s'expliquer par la manière dont on arrête, juge et gère la criminalité. Les méthodes de catégorisation jouent un rôle central.
 
-Les policiers et juge décide de ce qui est normal et de ce qui ne l'est pas.
-Les policier doivent aussi justifier leur efficacité. Les interets de carrière ou les affaires a haute visibilté social organise le jugement et l'organisation de l'activité represseive
+- **Reconnaissance des délinquants** : Cela repose sur des préjugés, les contrôles sont effectués selon des critères stéréotypés.
+- **Évaluation de la culpabilité** : Elle est fondée davantage sur l'anticipation que sur les preuves matérielles. Tout nouveau signe ne fait qu'appuyer la culpabilité dans les rapports.
+- **Données** : Elles sont considérées comme objectives mais sont transformées plusieurs fois au cours du processus.
 
-reproche au ethnomethodologue de faire subkectivisme excessig et eluder les question politique, conceptuelle et théorique
+La qualification d'un acte ne dépend pas de sa nature, mais de la manière dont on accumule les informations et interprétations sur la personne et la situation.
 
-## theorie de la domination
+Les policiers et juges décident de ce qui est normal et de ce qui ne l'est pas. Les policiers doivent également justifier leur efficacité. Les intérêts de carrière ou les affaires à haute visibilité sociale influencent le jugement et l'organisation de l'activité répressive.
 
-Courant apparu dans les années 70 disant que la réaction sociale n'ont pas developper une vision cohérente qui prenne en compte structure de pouvoir et nature inegalitaires des relations sociales
+**Critique adressée aux ethnométhodologues** : Ils sont accusés d'un subjectivisme excessif et d'éluder les questions politiques, conceptuelles et théoriques.
 
-marqué par les mouvement radicaux des annéeds 60
+## Théorie de la domination
 
-Conception du crome et de la délinquance comme un rapport politique ou économique de domination.
+Apparu dans les années 70, ce courant critique affirme que la réaction sociale n'a pas développé une vision cohérente prenant en compte la structure de pouvoir et la nature inégalitaire des relations sociales. Il est marqué par les mouvements radicaux des années 60.
 
-bcp dze criminologues disent que contenue des lois et la resultatant de rappor de force entre divers classe sociales pour conquerir le pouvoir de faire le droit  
-Les lois exprimerait les normes du groupes dominant pour maintenir ordre économique et social en place et criminaliser ceux qui risque de le destabiliser.
+### Conception du crime et de la délinquance
 
-Ecole de francfort Inspiré du marxicme, diisant que le capitalisme est criminogène. La brutalité des condition sociale et valeurs porté par le captialisme créé les conduites criminelles. Les pauvres commette des crimes par besoin ou sentiment d'inustice. Ce sont les crimes des pauvres qui sont exposé pas ceux des riches.
+Le crime et la délinquance sont perçus comme un rapport politique ou économique de domination. De nombreux criminologues soutiennent que le contenu des lois résulte de rapports de force entre différentes classes sociales pour conquérir le pouvoir de définir le droit.
 
-analuyse existe correlation entre evolution marché travail et regimes des peines. le trvail obligatoire (forcé et manufcature ) diminue avec mutation economie marchande mais en même temps l'emprissonement et l chomage augmente
+Les lois exprimeraient ainsi les normes du groupe dominant, visant à maintenir l'ordre économique et social en place et à criminaliser ceux qui risquent de le déstabiliser.
 
-Les bourgeois detiennent la plupart eds richesse alors que proletariat doit faire avec le fruit de son travail. => Structure sociale criminogèbne
+### L'École de Francfort
 
-distinction 4 crime carecteristique domination capitaliste
+Inspirée du marxisme, l'École de Francfort soutient que le capitalisme est criminogène. La brutalité des conditions sociales et les valeurs portées par le capitalisme engendrent des conduites criminelles. Les pauvres commettent des crimes par besoin ou par sentiment d'injustice. Ce sont les crimes des pauvres qui sont exposés, non ceux des riches.
 
-- crime de control (renforcement loi portant atteinte liberte civile )
-- crime gouvenrment (crime personel politique et repression + menace gouvermenet etranger)
-- domination économique ( favorise accumulation; dettermination prix illegal, pollution enviropnement)
-- crime sociaux (deni droits humain discrimination et exploitation travailleur)
+### Analyse du lien entre travail et répression
 
-loi pénale essentiellement appliqué au dominé sauf de rare exception pour montrer sa neutralité
+Il existe une corrélation entre l'évolution du marché du travail et les régimes des peines. Le travail obligatoire (forcé et manufacturé) diminue avec la mutation vers une économie de marché, mais en même temps, l'emprisonnement et le chômage augmentent.
 
-En génrale puissance économoqie detourne attention sur comportement classe populauire
+Les bourgeois détiennent la plupart des richesses, tandis que le prolétariat doit se contenter du fruit de son travail. Cela crée une structure sociale criminogène.
 
-Criminalité doit étre abordé en terme de logique d'un systeme de production
+### Distinction de quatre types de crimes caractérisant la domination capitaliste
 
-une approche radicale combiantn interactionnisme constructionnisme et neo marxime, distingue par
+1. **Crimes de contrôle** : Renforcement des lois portant atteinte aux libertés civiles.
+2. **Crimes gouvernementaux** : Crimes personnels politiques, répression et menace des gouvernements étrangers.
+3. **Crimes de domination économique** : Favorisent l'accumulation de richesses ; fixation illégale des prix, pollution environnementale.
+4. **Crimes sociaux** : Déni des droits humains, discrimination et exploitation des travailleurs.
 
-- engagement politique explicite dans le but est de remtte en cause toute les méthode de dominaton.
-- Deconstrui les concept de cimre comme étant dfini par une institution politique defendant des valeurs et interet particulier.
-- Devoile les poltiique publique et pratique du gouvernement et les mise en scence cherchant a affirmer des valeurs morales
-- Devoile le fonctionnement des instituin. Exemple theorie defaire dà la pyrrhus ou le but de systeme penal et de projeter une image du danger que represente les pauvres
-- Appel a un allegement penl
-- dononciation des diparité des mecanisme de selection et sentences penales selon classe sociale
+### Application inégale de la loi pénale
 
-Le courant post moderne appairat avec la mutation du monde économique/politique et social global. 6 nouveau courant se degagent:
+La loi pénale est essentiellement appliquée aux dominés, sauf de rares exceptions visant à montrer une apparente neutralité. En général, la puissance économique détourne l'attention vers les comportements des classes populaires.
 
-- **New Left criminoly** qui veut prendre au serieux le crime et le traiter en l'analysant comme le produit d'une structure sociale. En ayant comme acteurs l'état la société civile les auteurs et les victimes et analyser la relations entre ces 4 agents pour la mise en place de solution a court, moyen et long terme.
-- La Green Criminolgy, montrant que les société industrielles ont créé de nouveaux risques pour l'humain et la planètes. Volonté de distinguer les crimes primaires (destruction/degradation environnement ) et crimes secondaires qui sont issue du premier.
-- Critical femnist théorie
+La criminalité doit être abordée en termes de logique d'un système de production.
+
+Une approche radicale, combinant interactionnisme, constructionnisme et néo-marxisme, se distingue par :
+
+- Un engagement politique explicite visant à remettre en cause toutes les méthodes de domination.
+- La déconstruction des concepts de crime comme étant définis par une institution politique défendant des valeurs et intérêts particuliers.
+- Le dévoilement des politiques publiques et des pratiques gouvernementales, ainsi que des mises en scène cherchant à affirmer des valeurs morales.
+- La révélation du fonctionnement des institutions. Par exemple, la théorie de "l'effet Pyrrhus" soutient que le but du système pénal est de projeter une image du danger que représentent les pauvres.
+- Un appel à un allègement pénal.
+- La dénonciation des disparités des mécanismes de sélection et des sentences pénales selon les classes sociales.
+
+### Courant postmoderne
+
+Le courant postmoderne apparaît avec la mutation du monde économique, politique et social global. Six nouveaux courants se dégagent :
+
+1. **New Left Criminology** : Ce courant souhaite prendre au sérieux le crime et l'analyser comme le produit d'une structure sociale. Il prend en compte quatre acteurs : l'État, la société civile, les auteurs et les victimes, et analyse les relations entre ces agents pour mettre en place des solutions à court, moyen et long terme.
+2. **Green Criminology** : Ce courant montre que les sociétés industrielles ont créé de nouveaux risques pour l'humanité et la planète. Il distingue les crimes primaires (destruction/dégradation de l'environnement) et les crimes secondaires issus des premiers.
+
+3. **Critical Feminist Theory** : Cette théorie argumente que la criminologie traditionnelle représente une image naturalisée de la différence des sexes. Elle développe une analyse basée sur le point de vue des femmes avec deux grands principes : le langage façonne et restreint la réalité, et le sexe n'est ni naturel ni parfaitement définissable.
+
+4. **Peacemaking Criminology** : Le crime est perçu comme une forme de violence parmi d'autres (guerre, racisme, sexisme). Ce courant affirme que le système pénal est modelé par la guerre plutôt que par la paix. Ses grands principes incluent : le crime est lié à la souffrance ; la réduction du crime va de pair avec la réduction de toute autre forme d'aliénation ; le système de justice pénale est un échec car fondé sur la violence ; il rejette les mesures répressives et prône un processus de pacification à travers un travail individuel.
+
+5. **Constitutive Criminology** : Ce courant soutient que "les humains façonnent le monde et sont façonnés par celui-ci". Il prône la déconstruction et la reconstruction des manières d'agir et d'interagir afin de réduire ou supprimer le crime.
+
+### Résumé Théorie
+
+|              | microsocial                                     | Mesocial                                                   | MacroSocial                                                 |
+| ------------ | ----------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------- |
+| Liberté      | Théorie du choix rationnel, Théorie du controle | Théorie intéractionniste, EthnoMethodlogie                 |                                                             |
+| Déterminisme | théorie de l'association différentielle         | Théorie désorganisation social, Théorie conflit de culture | Theorie de la tension, Criminologie critique et postmoderne |
+
+## Objets contemporains de la recherche sociocriminologique
+
+La recherche sociocriminologique contemporaine commence à bien comprendre la criminalité des pauvres, mais s'intéresse de plus en plus à la délinquance des puissants, notamment à la délinquance sexuelle.
+
+La criminalité organisée se définit comme l'activité de groupements ayant pour objectif la commission d'actes criminels ou délictuels en lien avec des activités légales, que ce soit sur le plan national ou international. Les infractions sont variées : fraude, trafic, extorsion, abus de pouvoir, etc.
+
+Cette criminalité est considérée comme le produit logique de l'économie libérale et comme un corollaire de la logique du profit et de la mondialisation des années 90.
+
+La sociologie de la violence se confronte à une définition nébuleuse de ce qu'est la violence. Tous les pays européens observent un déclin des homicides, mais ce phénomène contraste avec des inquiétudes sur la "civilisation des mœurs", qui semble menacée par l'affaiblissement des contrôles sociaux, la crise des institutions et de la socialisation, ainsi que par la fragmentation sociale.
+
+Regarder et écouter des faits de violence contribue à l'augmentation des statistiques de la violence. Les statistiques criminelles sont influencées par la propension des citoyens à porter plainte, par la capacité de la police à enregistrer ces plaintes, et par la disposition de la justice à condamner.
+
+Le sentiment de violence est alimenté par la multiplication des incivilités et par la transgression des règles du vivre-ensemble. On observe une dissonance : les personnes les plus susceptibles d'être victimes sont celles qui craignent le moins l'insécurité, tandis que celles qui risquent le moins d'être agressées redoutent beaucoup les agressions.
+
+### Le boomerang de l'insécurité
+
+1. **Discours politique performatif sur la sécurité** : Renforce et durcit le contrôle pénal.
+2. **Médiatisation des statistiques** : Amplifie la perception de l'insécurité.
+3. **Émergence d'une "société de victimes"** : Exprime à la fois un besoin accru de liberté et de sécurité.
+4. **Engorgement du système pénal** : Résultat de la surenchère sécuritaire.
+5. **Impact économique du débat sur la sécurité** : L'augmentation de la demande de sécurité influence les politiques publiques.
+
+## Sociologie politique pénales
+
+polituqe pénale peuvet être vue comme fondé sur la recherche scientifique. Enfait souvent choix idéologique; navigue entre couple d'oposisito: prevention/repression securité/liverté reinsertion/neuralisation milieu ouvert/fermé
+
+Au moins trois processus d'incrimination
+
+Perspective formalite: loi expression volonté colective membre société. Posture positivste
+
+Perspectevi isnstrumentaliste: droit considéré comme un enjeu de lutte sociale, pas neutre mais constitue intrument dmination
+
+Perspective etre les deux: concurenece pour monopel juridicque, champ conflictuel, resultatn d'un compromis
+
+Deux manière d'analyser polotique publique:
+
+- top down : construit par etat/parti et politique
+- bootom up : service exterieu participe a la production de politique publie
+
+| Scene          | Construction des politiques pénales                                       |
+| -------------- | ------------------------------------------------------------------------- |
+| social         | indluence groupe interet sociaux economique dans emeregnce contenue texte |
+| mediatique     | Influence lobbie mediatique dans mise agneda et nature débat publique     |
+| politique      | -mise en agente et vote texte                                             |
+| technocratique | Conception et ecriture des textes                                         |
+| juriduqye      | influence profession sur controle contenu texte                           |
+
+Distingue entre fonction instruementale et symboique d'une norme
+
+|              | Instrumentale + | Instrumental - |
+| ------------ | --------------- | -------------- |
+| Symbolique - | congruence      | norme magique  |
+| Symbolique + | norme technique | desuetude      |
+
+Politique pénale aussi un stratéie de prévention et regulation des conflirts
+
+Plusieurs modèle :
+Punitif: traditiionnel,
+Réhabitlitation et thérapeutique: délinquant vu comme victime conditin de vie et troubles
+Reparatif: Dabord réparer les prejudice de la victime
+Restauratif: Resoudre les conflits entre les groupes
+
+|           | Punitif     | Réhabilitation et thérapetoque | Reparatif      | restauratif         |
+| --------- | ----------- | ------------------------------ | -------------- | ------------------- |
+| Objet     | Culpabilité | Besoin                         | Prejudice      | Conflit             |
+| Focale    | Auteur      | Auteur                         | Victime        | Relation            |
+| Processus | Imposé      | Imposé/accepté                 | Imposé/accépté | Negocié             |
+| Solution  | Punition    | Aide                           | Réparation     | Accord/Pacification |
+
+Les politiques penale évolue mais souvent même fondatmentaux: devoir de punir, imposition peine en réponse a un comportement prejudiciable. Penal vu comme "droit de faire du mal"
+
+Ceux qui sont punis vu comme devant souffir
+
+Constat explosion carcerale dans toutes démocratio occidentale. Marché de peine et industrion de la punition
+
+Domintant des mesures de controles et abandons de stratégie reunificatrice.
+
+Justice des mineurs a une dynamique spécifique. En tension entre politique d'acocmpagnement des mineurs et politique plus répressive

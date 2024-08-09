@@ -21,7 +21,7 @@ Et que je vous dise que cela signifie : "j'adore le rhum".
 
 Et si vous ne me croyez pas je vous invite à venir consulter le dictionnaire "parole de rhumerie" que j'ai écrit moi-même et qui n'existe qu'en un seul exemplaire chez moi !
 
-Notre communication "habituelle" fonctionne sur la base de la modulation des sons et de représentations visuelles codifié comme l'alphabet.
+Notre communication "habituelle" fonctionne sur la base de la modulation de sons et de représentations visuelles codifié comme l'alphabet.
 Ces deux cas sont normé selon un ensemble de règles (phonétique/grammaire/etc...) qui permettent à une communauté partageant ces règle de ce comprendre facilement.
 
 Bien que cela soit très utile pour que vous puissiez me lire, cela ne me permet pas de définir la façon dont vont communiquer deux ordinateurs entre eux.
@@ -29,9 +29,9 @@ Bien que cela soit très utile pour que vous puissiez me lire, cela ne me permet
 ### Le problème avec les ordinateurs
 
 En effet ils ne possèdent ni oreilles, ni vue. Ils ne comprennent toujours que les [[abstraction|0 et les 1]].
-Alors certes on a créé des structures pour faciliter les représentations, mais si chacun créé son dictionnaire dans son coin et ne le partage pas alors personne ne sera en capacité de comprendre ce qui a voulu être dit.
+Alors certes on a créé des structures pour faciliter les [[abstraction|représentations]], mais si chacun créé son dictionnaire dans son coin et ne le partage pas alors personne ne sera en capacité de comprendre ce qui a voulu être dit.
 
-L'usage et la démocratisation de l'informatique arrivant, entre autre, à travers le web, il a fallu trouver de nouvelles façon de nous accorder, d'échanger des messages, des images ou de structurer nos application et nos interfaces.
+L'usage et la démocratisation de l'[[definition|informatique]] arrivant, entre autre, à travers le web, il a fallu trouver de nouvelles façon de nous accorder, d'échanger des messages, des images ou de structurer nos application et nos interfaces.
 Il a donc fallu mettre en place un ensemble de normes de la même façon que l'ASCII qui a permis de normer l'encodage des caractères.
 
 Avec l'arrive d'internet de nouvelles questions vont se poser tel que : Comment formule-t-on un message ?

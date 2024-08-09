@@ -23,7 +23,7 @@ Il est important de regarder qui établis les normes. Quelles sont les personnes
 
 |                         | obeissant a la norme | transgressant la norme |
 | ----------------------- | -------------------- | ---------------------- |
-| perçu comme déviant     | accuse a tord        | Pleinement déviant     |
+| perçu comme déviant     | accusé a tord        | Pleinement déviant     |
 | non perçu comme déviant | Conforme à la norme  | Secrètement déviant    |
 
 ## Devenir déviant

@@ -39,7 +39,7 @@ Les mouvements féministes des années 2000 et les nouvelles questions sur le ge
 
 ## La suite
 
-En tant qu'homme, je pense qu'il est de notre responsabilité de nous interroger sur nos propres comportements. J'ai grandi avec des représentations et je sais que j'ai pu avoir une vision stéréotypée de milieu appuyé par cet environnement. Nous pouvons et devons écouter les paroles de nos collègues pour nous aussi travailler à un meilleur environnement.
+En tant qu'homme, je pense qu'il est de notre responsabilité de nous interroger sur nos propres comportements. J'ai grandi avec des représentations et je sais que j'ai pu avoir une vision stéréotypée de milieu appuyé par ce que renvoi cet environnement. Nous pouvons et devons écouter les paroles de nos collègues pour nous aussi travailler à un meilleur environnement.
 
 En tant que travailleurs, nous sommes en partie responsables de cet environnement et du développement social de l'informatique. Nous avons tout intérêt à ce que de plus en plus de monde intègre ce domaine.
 
