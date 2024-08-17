@@ -17,19 +17,26 @@ Nous ne savons pas comment les [[materiel_technique|technologies]] et nos pratiq
 
 Nous avons moins besoin de nous soucier de la performance de nos algorithmes et le place que prends nos données. C'est presque devenu une donnée secondaire. J'aime bien le maxime "make it work, make it right, make it fast" mais la performance vient bien à la fin.
 
-Alors qu'il y a 50 ans, c'était le critère primaire.
+Alors qu'il y a 50 ans, c'était un des critères les plus important.
 
-Lorsque l'on envoie une fusée sur la Lune, la limite de notre programme n'est pas que financières. Elle est physique. Nous sommes aussi limités dans notre capacité à embarquer de la complexité par les contraintes d'espace et de poids.
+Lorsque l'on envoie une fusée sur la Lune, la limite de notre programme n'est pas que financière. Elle est aussi physique. Nous sommes limités dans notre capacité à embarquer de la complexité par des contraintes d'espace et de poids.
 
-Et nous avons perdu le physique à la maison. Nous n'en avons plus besoin et n'en voulons plus, en tout cas plus chez nous. Nous consommons des quantités énormes de données pour une multitude d'usages : vidéo, son, texte et [[abstraction|tout ce qui peut aller avec]].
+Et nous avons perdu le physique à la maison. Nous n'en avons plus besoin et n'en voulons plus, en tout cas plus chez nous. Nous consommons des quantités énormes de données et d'opération pour une multitude d'usages : vidéo, son, texte et [[abstraction|tout ce qui peut aller avec]].
 
-Ces usages pouvant aller de conférences scientifiques ou d'échanges entre dirigeants à des publicités pour des sièges de toilettes en passant par appels entre deux amis qui sont à deux extrémités du monde ou encore des jeux vidéo.
+Ces usages sont très diversifié:
+
+- conférences scientifiques
+- échanges entre dirigeants
+- publicités pour des sièges de toilettes
+- appels entre deux amis qui sont à deux extrémités du monde
+- jeux vidéo
+- ...
 
 Cependant, ces dernières années voient apparaît des nouveaux sujets sur [[evol_web|l'architecture du WEB]] et son rapport aux ressources. La décentralisation et l'architecture orienté cloud ont fait naître des réflexions sur leurs organisations et consommation.
 
 ## Rationalisation
 
-Avec des concepts tels que "Resource On demand" ou le paiement à l'usage nous somme passé de serveurs de quelques Giga jamais totalement utilisé et traînant dans les placards informatique à une mise à disposition des ressources adaptées à notre juste besoin et mutualisée.
+Avec des concepts tels que "Resource On demand" ou le paiement à l'usage nous somme passé de serveurs de quelques Giga jamais totalement utilisé et traînant dans les placards informatique à une mise à disposition des ressources censé être adaptées à notre juste besoin et mutualisée.
 
 N'ayant plus besoin de physiques, nous avons confié la responsabilité des données à des entités. Spotify a toute ma bibliothèque musicale, soit plus de 149h de musiques à ce jour. Netflix s'occupe de la gestion des séries et films que nous consommons le soir.
 
@@ -37,7 +44,7 @@ Ces acteurs et les grands groupes technologiques ont donc été très directemen
 
 En tant que développeur, nous n'avons pas eu beaucoup de choix non plus. Un disque dur acheté ne changera pas de prix que je mette de la donnée ou non dedans. Mon hébergeur n'arrêtera pas de facturer mes 2To parce que j'ai rien mis dessus.
 
-Une partie de cette rationalisation fonctionne donc en partie sur la formulation du besoin. De combien de calculs, j'ai besoin pour faire tourner mon business ? Suis-je obligé de payer cet environnement que personne n'utilise ?
+Une partie de cette rationalisation fonctionne donc en partie sur la formulation du besoin. De combien de calculs j'ai besoin pour faire tourner mon business ? Suis-je obligé de payer cet environnement que personne n'utilise ?
 
 Malgré cette expression de besoin, il reste toujours des utilisateurs qui ne consommeront pas leurs Go offerts ou des entreprises qui ne regardent pas si bien que ça leurs factures ou que je n'aurais pas toujours un flux constant d'utilisateurs.
 

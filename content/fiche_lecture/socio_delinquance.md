@@ -1,6 +1,6 @@
 ---
 title: Sociologie de la délinquance
-draft: true
+draft: false
 tags:
   - sociologie
   - fiche_lecture
@@ -375,3 +375,71 @@ Constat explosion carcerale dans toutes démocratio occidentale. Marché de pein
 Domintant des mesures de controles et abandons de stratégie reunificatrice.
 
 Justice des mineurs a une dynamique spécifique. En tension entre politique d'acocmpagnement des mineurs et politique plus répressive
+
+Introduction de la rationallité gestiontionnaire créé injonct productivité, efficiance et service clientele. La systeme penal assigne de nouvaeaux role
+Plus de responsabilitation exigé des auteurs. Irruption des victimes depuis les années 80. Cela permet de mieux gérer la réparation et la reconnaissance sociale mais figure souvent instrumentalité par des politique penale populsiste
+
+## Sociologie du travail pénal
+
+Le système pénal est longtemps resté une boîte noire.
+
+Il existe trois modes de régulation des conflits : la force, le dialogue et l’adjudication (jugement).
+
+Le travail pénal commence par la phase policière. Il existe une variété de forces de sécurité (policiers, gendarmes, etc.). Le poids croissant des entreprises privées dans la production de sécurité est notable. On observe une marchandisation croissante de la sûreté.
+
+Il y a une tentative de réconciliation entre les forces de sécurité et la population, mais cela reste compliqué. Les policiers associent cela à du travail social, avec une reconnaissance limitée des compétences des habitants.
+
+Le travail policier est empreint de subjectivité dans son exercice quotidienne. La police peut être autorisée, et peut s'autoriser, à pratiquer des actions interdites pour faire respecter un ordre socio-économique. Le travail policier est surtout un travail réactif.
+
+Il est nécessaire de rechercher un équilibre entre l’ordre public et les libertés individuelles. La multiplication des acteurs crée une marge d'incertitude.
+
+10 à 15 % des affaires pénales sont dues à l’initiative des forces de police et de sécurité. 85 à 90 % des affaires pénales sont signalées par des particuliers ou des institutions.
+
+Les affaires sont déposées au pénal et non gérées ailleurs pour plusieurs raisons : besoin de remboursement, reconnaissance en tant que victime, confiance en la capacité du système à gérer l'affaire. À l'inverse, il y a des raisons de ne pas engager une procédure pénale : craintes de représailles, lenteur du processus.
+
+Il ne suffit pas de vouloir, il faut que la plainte soit considérée.
+
+Les affaires pénales sont remplies de micro-décisions. Il y a de plus en plus de classements sans suite, ce qui entraîne une certaine forme de standardisation des comportements juridiques.
+On ne peut donc ni croire à une parfaite rationalité et impartialité du juge, ni à une subjectivité totale.
+
+La dimension sacrée de la justice pénale a longtemps entravé son observation.
+
+Il y a un surinvestissement de l'appareil judiciaire sur des sujets qu'il ne gérait pas jusqu’ici. Ce qui n’est plus géré par le tissu social et la gestion de proximité se retrouve dirigé vers le judiciaire. On se met à attendre tout de la justice.
+
+L’attente d’un traitement plus rapide modifie l'organisation du traitement juridique et pénal. Cela conduit à l’apparition d’une justice quotidienne expéditive. La logique administrative et la routine réduisent l'individualisation des affaires.
+
+L'émergence des logiques techniques et gestionnaires dans l'institution judiciaire crée de nouvelles contraintes.
+
+## Sociologie de la production pénale
+
+L'ancienne pénologie avait pour visée la transformation et la normalisation des délinquants à travers une punition à portée morale.
+
+Le nouveau modèle se concentre sur la gestion du risque que représente la délinquance, en utilisant des moyens de surveillance et de contrôle. Cette approche orientée vers le risque se caractérise par des calculs, des classements et des catégorisations.
+
+Il y a une rationalisation et une relégitimation du système.
+
+La représentation de la sanction est dominée par l'image de la prison, ce qui induit des biais. On observe une évolution du monde carcéral et de la sociologie, avec des analyses à la fois macrosociologiques et microsociologiques.
+
+Depuis 1930, il est affirmé un lien entre la situation économique et politique du pays et la nature des peines prononcées.
+
+La prison a une fonction symbolique et pédagogique. La place de la prison dans la régulation du désordre social doit être mise en perspective avec les autres appareils de capture et de contrôle.
+La disparition des centres d'hospitalisation a transféré une partie de la population qui a besoin d'un accompagnement psychologique vers la prison.
+
+Le discours éducatif de la prison et le modèle de réhabilitation sont aujourd'hui mis de côté. La prison est désormais perçue davantage comme une forme de vengeance et de punition.
+
+L’axe punitif et violent enferme encore plus les détenus dans leur condition et réduit leurs possibilités de réinsertion sociale.
+
+Il existe des mesures pénales autres que l'emprisonnement, telles que le travail d'intérêt général ou la surveillance électronique.
+
+L'essor du contrôle technologique prend le pas sur l'individualisation et les enjeux psychosociaux de la réinsertion, ce qui peut créer des disparités de traitement. Le stigmate associé au bracelet électronique peut également peser sur la personne qui le porte.
+
+Une nouvelle approche met l’accent sur la sortie de la délinquance. Elle identifie les facteurs (environnementaux, pénaux, etc.) qui ont permis à des délinquants de "se ranger".
+
+- Situation nouvelle
+- Contexte institutionnel et social offrant surveillance et possibilité de soutien
+- Changement dans l'activité quotidienne
+- Occasion de transformer son identité
+
+Par exemple, en Angleterre, les délinquants Indiens sortent mieux de la délinquance grâce à une structure communautaire forte et solidaire.
+
+La nocivité de l'emprisonnement seul est évidente, comme en témoigne le taux de récidive de 75 % chez les mineurs incarcérés.

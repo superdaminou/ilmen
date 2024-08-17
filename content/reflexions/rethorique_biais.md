@@ -29,3 +29,5 @@ Alors nous ne sommes pas condamnés et ne devons pas tomber dans la paranoïa, m
 
 - [Hygiène mentale](https://www.youtube.com/c/Hygi%C3%A8neMentale)
 - [# Tous racistes ? Les biais implicites — Crétin de Cerveau #7](https://www.youtube.com/watch?v=850Zr6dzxYU&t=333s)
+- Le doute socrastique
+- Descartes

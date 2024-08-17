@@ -1,5 +1,5 @@
 ---
-title: La fin de l'implicite, encore
+title: Qui peut quoi ?
 draft: false
 tags:
   - informatique
@@ -118,4 +118,4 @@ Petit à petit, en rationalisant mon code et la gestion de mes données, je vais
 
 ## Ressources diverses
 
-- [# [Understanding Ownership](https://doc.rust-lang.org/stable/book/ch04-00-understanding-ownership.html#understanding-ownership)](https://doc.rust-lang.org/stable/book/ch04-00-understanding-ownership.html)
+- [Understanding Ownership](https://doc.rust-lang.org/stable/book/ch04-00-understanding-ownership.html#understanding-ownership)

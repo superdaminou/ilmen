@@ -1,6 +1,6 @@
 ---
 title: Les idées qui tuent
-draft: true
+draft: false
 tags:
   - reflexion
   - politique
@@ -54,9 +54,9 @@ Je crois profondément que nos jugements sont [[rethorique_biais|faillibles]] et
 
 Certaines de ces idées malades nous conduisent [[gens_meurt|au pire]].
 
-Et je ne pense pas qu'il existe une unique idéologie saine mais je pense que nous pouvons au moins tenter de faire mieux. Nous devons combattre pied a pied les idées malades.
+Et je ne pense pas qu'il existe une unique idéologie "saine" mais je pense que nous pouvons au moins tenter de faire mieux. Nous devons combattre pied a pied les idées malades.
 
-Traiter nos idée pour que les tentatives d'assassinat n'arrive plus, que les féminicides disparaissent, pour que l'on laisse plus laisser se dérouler des génocides sous nos yeux. Que nous sortions les ennemis de nos récits.
+Traiter nos idée pour que les tentatives d'assassinat n'arrive plus, que les féminicides disparaissent, pour que l'on laisse plus laisser se dérouler des génocides sous nos yeux. Que nous sortions les ennemis de nos récits et réussissions a faire mieux.
 
 ## Ressources diverses
 

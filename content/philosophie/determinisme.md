@@ -10,7 +10,7 @@ On peut tout calculer et tout prédire. Tout ce qu'il nous manque, c'est la donn
 
 Si cette phrase peut paraître étrange, on s'est pourtant déjà habitué, calculer et prédire nous semble évident dans bien des domaines maintenant : mathématique, physique, astronomie, météorologie, informatique, etc...
 
-Nous avons une multitude d'**état**:
+Nous avons une multitude d'**état initiaux**:
 
 - Températures
 - Position dans l'espace

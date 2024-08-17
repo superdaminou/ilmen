@@ -4,6 +4,7 @@ draft: false
 tags:
   - informatique
   - rust
+  - reflexion
 ---
 
 J'ai commencé avec du C/C++, me suis professionnalisé dans le Java tout en ayant des expériences professionnelles et personnelles dans le Ruby, Python et JavaScript. Dans chacun de ces langages, j'ai pu écrire du code où je **savais** ce qui allait être renvoyé et ce qui **devait** se retrouver dans chaques variables.

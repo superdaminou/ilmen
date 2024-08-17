@@ -47,3 +47,4 @@ La violence est souvent le résultat d'une organisation hiérarchique:
 - [Sociologie de la délinquance et de la justice pénale](https://www.cairn.info/sociologie-de-la-delinquance-et-de-la-justice-pena--9782749207629.htm)
 - [[/fiche_lecture/plus_femme_politique.md|Plus de femme en politique]]
 - [Critique de la violence W. Benjamin](https://major-prepa.com/culture-generale/violence-droit-critique-benjamin/)
+- [Sapiens](https://www.fnac.com/a8625757/Yuval-Noah-Harari-Sapiens-edition-2022)

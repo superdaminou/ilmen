@@ -5,7 +5,7 @@ tags:
   - fiche_lecture
 ---
 
-Denis Colombi  
+[Denis Colombi ](https://www.babelio.com/livres/Colombi-Ou-va-largent-des-pauvres/1212025)
 Éditions payot, 15/01/2020
 
 ## Une vision du pauvre
