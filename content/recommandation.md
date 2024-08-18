@@ -1,5 +1,5 @@
 ---
-title: Recommandation Diverses
+title: Recommandations Diverses
 ---
 
 ## Chaine youtubes et twitch :

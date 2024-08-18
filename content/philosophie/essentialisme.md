@@ -1,24 +1,22 @@
 ---
 title: Essentialisme
-draft: true
+draft: false
 tags:
   - philosophie
   - vulgarisation
 ---
 
-L'essentialisme philosophique cherche à faire émerger une forme de "nature humaine" et de comportement qui serait inscrit dans notre êtes profond et contre lesquelles on ne pourrait aller contre. Plus que les humain, on pourrait définir toutes chose par un ensemble de caractéristiques limités.
+L'essentialisme philosophique cherche à faire émerger une forme de "nature humaine" et de comportement qui serait inscrite profondément en nous et contre laquelle il serait impossible de lutter. Ce concept, porté par Platon, vise à définir toute chose par un ensemble de caractéristiques limitées, par leurs "essences".
 
-L'essentialisme est aussi utilisé pour d'autres fondement [[ideologie|idéologique]]:
+L'essentialisme caractérise et enferme un individu dans un certain nombre de traits et de dispositions immuables.
 
-- Le racisme en attribuant des comportements et natures profondes différenciés en fonctions des "races" et des peuples
-- L'essentialisme genré en attribuant aux hommes et aux femmes des natures profondes différentes qui expliquent une place différenciée, pas obligatoirement hiérarchisé, des deux genres.
+Il est très utilisé dans différentes formes [[ideologie|d’idéologies]] :
 
-Dans d'autres cas, elle permet d'expliquer des comportements comme la délinquance ou le crime. Certaines personnes commettent crimes et délits parcequ'ils sont profondément et par essence criminelle.
+- Le racisme, en attribuant des comportements et des natures profondes différenciées en fonction des "races" et des peuples.
+- L'essentialisme genré, en attribuant aux hommes et aux femmes des natures profondes différentes qui expliquent une place différenciée, non nécessairement hiérarchisée, des deux genres.
 
-Il n'existe peu voir aucune possibilité de changer cette essence. Elle est
+Dans d'autres cas, il permet d'expliquer des comportements comme la [[socio_delinquance|délinquance]] ou le crime. Certaines personnes commettent des crimes et des délits parce qu'elles sont, par essence, profondément criminelles.
+
+Cette essence étant immuable, on ne peut lutter contre elle.
 
 Cette philosophie s'oppose frontalement à [[existentialisme|l'existentialisme]].
-
-## Ressources diverses
-
-chapoutot

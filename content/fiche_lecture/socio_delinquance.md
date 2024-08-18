@@ -1,10 +1,12 @@
 ---
-title: Sociologie de la délinquance
+title: Sociologie de la délinquance et de la justice pénale
 draft: false
 tags:
   - sociologie
   - fiche_lecture
 ---
+
+[Jacques Faget](https://www.cairn.info/publications-de-Jacques-Faget--9665.htm) - 2009
 
 "Lorsque les hommes considère quelques chose comme réelles, elle le sont dans leurs conséquences"
 
@@ -41,9 +43,7 @@ La théorie culturaliste voit dans l'immigration un risque. Les derniers arrivé
 
 Ces premières théorie sont vites remises en questions.
 
-Il apparait vite faut de qualifier les quartiers pauvres comme désorganisé. Ces lieux fournissent un ensemble de structures, règles et normes qui régissent l'organisation sociale.
-
-Il apparait vite que l'on retrouve de la délinquance en dehors des grandes villes ou dans des villes qui ne répondent pas a cette caractéristique concentrique.
+Il apparait vite faux de qualifier les quartiers pauvres comme désorganisé. Ces lieux fournissent un ensemble de structures, règles et normes qui régissent l'organisation sociale. On retrouve de la délinquance en dehors des grandes villes ou dans des villes qui ne répondent pas a cette caractéristique concentrique.
 
 Les premières corrélation semblent favoriser la pauvreté plutôt que le fait d'être le dernier arrivé.
 

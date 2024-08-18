@@ -10,7 +10,7 @@ Alors oui, Mais !
 
 Outre une phrase servant à saouler ses potes en voulant absolument parler de politique, c'est aussi une forme de socle [[ideologie|idéologique]].
 
-Avec des fondements [[existentialisme|existentialiste]] cette idée sert à mettre en discussion tout un ensemble de faits et dispositions qui peuvent paraître évidentes ou naturels.
+Avec des fondements [[existentialisme|existentialiste]] cette idée sert à mettre en discussion tout un ensemble de faits et dispositions qui peuvent paraître [[evidence|évidentes]] ou [[argument_naturel|naturels]].
 
 L'organisation globale de notre société est un sujet politique. La façon dont le pouvoir et l'économie sont répartis est le résultat de rapport de force et de conflits idéologiques. Pour ce niveau macro cela peut paraître assez évident car on identifie assez facilement les figures et organisations politiques et l'évolution de leurs rapports dans l'histoire.
 

@@ -6,7 +6,7 @@ tags:
   - fiche_lecture
 ---
 
-Lea Chamboncel
+[Lea Chamboncel](https://www.babelio.com/livres/Chamboncel-Plus-de-femmes-en-politique-/1415144)
 Publié le 24/03/2022 aux Editions Belfond
 
 Ce livre s'intéresse, à travers les témoignages de nombreuses femme politiques à la situation et évolution de la place des femmes dans le monde politique Francais.

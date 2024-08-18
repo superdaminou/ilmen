@@ -1,21 +1,23 @@
 ---
 title: Existentialisme
-draft: true
+draft: false
 tags:
   - philosophie
   - vulgarisation
 ---
 
-> On ne nait pas femme on le devient
+> On ne naît pas femme, on le devient
 >
-> Simone De Bauvoir
+> Simone de Beauvoir
 
-Ce sont les évènements et notre environnement qui nous modèle et qui font de nous ce que nous somme et agissons comme nous agissons. Repopularisé par Sarte et fondement de nouvelles sciences comme la sociologies, cette philosophie s'oppose assez frontalement a l'essentialisme.
+Ce sont les événements et notre environnement qui nous modèlent et qui font de nous ce que nous sommes et agissons comme nous agissons.
 
-Il n'existe pas de différences profonde et d'essences entre l'homme et la femme mais seulement une socialisation et assignation qui créé une différence entre femme et homme et organise cette différenciation.
+Repopularisé par Sartre et fondement de nouvelles sciences comme la sociologie, cette philosophie s'oppose assez frontalement à l'essentialisme.
 
-Cette base philosophique permet d'analyser des comportement et de leurs trouver des causes environnementales.
+L'existentialisme met en avant les interactions entre le monde et l'individu dans la construction de ce dernier. Un enfant qui naît serait une "page blanche", dont l'évolution et l'existence vont petit à petit le former et le caractériser.
+
+Cette base philosophique permet d'analyser des comportements et de leur trouver des causes environnementales.
 
 ## Ressources Diverses
 
-Podcast philippe colin simone de bauvoir
+[Simone de Beauvoir - Philippe colin](https://www.radiofrance.fr/franceinter/podcasts/serie-simone-de-beauvoir-itineraire-d-une-jeune-fille-rangee)
