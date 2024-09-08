@@ -26,3 +26,5 @@ Ainsi, sans tomber dans le scepticisme permanent, il est nécessaire de garder s
 - [LA SCIENCE EST UNE CROYANCE (si c'est vrai c'est très grave) | Quelques bases en épistémologie](https://www.youtube.com/watch?v=YQ_qr-LA3AU)
 - [Le pouvoir rhétorique](https://www.seuil.com/ouvrage/le-pouvoir-rhetorique-clement-viktorovitch/9782021465877)
 - [hygiene mental](https://www.youtube.com/c/Hygi%C3%A8neMentale)
+- [# Critique philosophique de l'esprit critique](https://www.youtube.com/watch?v=fgQnqSbtCmg)
+- [# BIEN FAIT - La croyance en un monde juste - Conférence du Rec 2022](https://www.youtube.com/watch?v=aYP7WXhQQFY)

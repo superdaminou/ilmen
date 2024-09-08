@@ -23,27 +23,27 @@ Dans la culture et les [[recits|récits]] j'ai vu ce domaine être principalemen
 
 Historiquement, les femmes étaient très présentes dans ce milieu. Une figure régulièrement citée en exemple est **Ada Lovelace** souvent associé aux premiers concepts d'ordinateurs et algorithme.
 
-Jusqu'au années 50 en tant opératrice et "ordinateurs humains" elles sont cruciales dans le traitement de l'information et les calculs. Les compétences associées étaient celles équivalentes à de l'exécution stricte d'ordre quasi-administratif et répétitif. Des taches peu valorisées et considérées comme adaptés à la nature des [[argument_naturel|femmes]] et une position sociale équivalente à celle d'une secrétaire.
+Jusqu'aux années 50 en tant opératrice et "ordinateurs humains" elles sont cruciales dans le traitement de l'information et les calculs. Les compétences associées étaient celles équivalentes à de l'exécution stricte d'ordre quasi-administratif et répétitif. Des taches peu valorisées et considérées comme adaptés à la nature des [[argument_naturel|femmes]] et une position sociale équivalente à celle d'une secrétaire.
 
 Elles sont pourtant cruciales dans le développement de cette science et investissent fortement ce domaine. Jusqu'aux années 80-90, ce sont plusieurs femmes dont le nom restera dans l'histoire, telles que **Grace Hopper** ou **Margaret Hamilton**. Elles ont la connaissance historique de par leurs présences historiquement majoritaire dans ce milieu et deviennent cruciales stratégiquement. Certains programmes sont écrits exclusivement par des femmes.
 
-Le prestige de ce milieu augmentant, elles en sont de plus en plus écarté. Le milieu devient de plus en masculin et l'image qu'on s'en fait aussi.
+Le prestige de ce milieu augmentant, elles en sont de plus en plus écartées. Le milieu devient de plus en masculin et l'image qu'on s'en fait aussi.
 
 En faisant rentrer l'informatique dans le domaine sacré de la science et son intégration dans le domaine plus militaires durant la guerre froide, l'image associée évolue et se masculinise avec les codes associés et devient un domaine de rationnels et non plus de secrétaires.
 
 L'apparition progressive de l'ordinateur dans les foyers et la diffusion de pub et de culture stéréotypé va renforcer l'image d'un milieu fait pour les hommes par les hommes. Les jeux vidéo sont pour les hommes. Les hackers sont des hommes.
 
-Les femmes vont être cantonnés à des petits postes de supports.
+Les femmes vont être cantonnées à des petits postes de supports.
 
 Les mouvements féministes des années 2000 et les nouvelles questions sur le genre émergeant dans le débat public, cette vision est mise à mal. De plus en plus de femmes prennent la parole sur les conditions de travail et l'ambiance sexiste. Nous nous intéressons aux mécaniques de production et un travail de sensibilisation est réalisé chez les enfants pour permettre aux filles de s'engager dans cette voie si elles le veulent.
 
 ## La suite
 
-En tant qu'homme, je pense qu'il est de notre responsabilité de nous interroger sur nos propres comportements. J'ai grandi avec des représentations et je sais que j'ai pu avoir une vision stéréotypée de milieu appuyé par ce que renvoi cet environnement. Nous pouvons et devons écouter les paroles de nos collègues pour nous aussi travailler à un meilleur environnement.
+En tant qu'[[homme|homme]], je pense qu'il est de notre responsabilité de nous interroger sur nos propres comportements. J'ai grandi avec des représentations et je sais que j'ai pu avoir une vision stéréotypée de milieu appuyé par ce que renvoi cet environnement. Nous pouvons et devons écouter les paroles de nos collègues pour nous aussi travailler à un meilleur environnement.
 
 En tant que travailleurs, nous sommes en partie responsables de cet environnement et du développement social de l'informatique. Nous avons tout intérêt à ce que de plus en plus de monde intègre ce domaine.
 
-## Ressource diverses
+## Ressources diverses
 
 - [Les chiffres clés sur les femmes et la tech](https://www.grandeecolenumerique.fr/le-numerique-et-les-femmes/les-chiffres-cles-sur-les-femmes-et-la-tech)
 - [Naissance des premiers diplômes d’informatique et leurs développement entre 1968 et 1990](https://webtv.univ-lille.fr/video/6480/naissance-des-premiers-diplomes-d8217informatique-et-leurs-developpement-entre-1968-et-1990)

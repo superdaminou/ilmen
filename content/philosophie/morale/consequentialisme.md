@@ -4,22 +4,22 @@ tags:
   - philosophie
   - morale
   - vulgarisation
-draft: true
+draft: false
 ---
 
-Le [[deontologie| déontologisme]] est très rapidement mis à l'épreuve lorsque l'on essaye de trouver des cas plus complexe et de se confronter à des exercices de pensée.
+Le [[deontologie|déontologisme]] est rapidement mis à l'épreuve lorsqu'on essaie de trouver des cas plus complexes et de se confronter à des exercices de pensée.
 
-Mentir n'est jamais bon ? Et si c'est l'occupation allemande, que l'on abrite des Juifs et qu'on ment à un officier SS sur ce sujet ? Commet on une faute morale ? Avons-nous mal agi ? Cet exemple met en évidence, je l'espère, qu'un certains nombre de situation rende complexe le fait de suivre strictement un ensemble définis de règles morales. Tout comme des lois historiques, il semble cohérent de dire que la loi seul ne va pas dicter le fait qu'une action soit bonne ou mauvaise, mais plutôt ses conséquences.
+Prenons le plus connu : celui du dilemme du tramway, ou trolley problem. Un tramway roule vers un embranchement. S'il continue tout droit, il écrasera cinq personnes attachées à la voie. S'il dévie, une seule personne mourra. Nous avons le levier à portée de main et pouvons faire dévier le tram, ce qui tuera une personne au lieu de cinq. Quelle est la "bonne chose à faire" ?
 
-Si en mentant, j'ai sauvé une centaine de vie, alors j'ai "bien" fait de mentir.
+Un utilitariste tirerait le levier et tuerait une personne au lieu de cinq, car la conséquence de son action serait "moins" néfaste que celle de ne rien faire. L'approche utilitariste tente d'évaluer de manière quasi mathématique ce qui est "bien" plutôt que de se laisser diriger par des lois prédéterminées.
 
-Cette approche de la morale peut aussi être poussée à l'extrême lors d'exercices de pensé comme le très connu Tram de Trowley. Est-il "bien" de tuer une personne pour en sauver deux ? Et si on sauve cent ? Un million de personnes ?
+Mentir n'est jamais bon ? Et si mentir à une personne permet de sauver la vie d'une centaine d'autres ?  
+Si, en mentant, j'ai sauvé une centaine de vies, alors j'ai "bien" fait de mentir.
 
-Et on ne s'intéresse qu'aux conséquences ? Supposons qu'un tueur en série tue une personne qui, sans le savoir, avait prévu d'en tuer 100 le lendemain. Ce tueur en série, a-t-il bien agi ?
+Cependant, cette approche mathématique présente deux petits soucis.
 
-Cette position aussi à ses limites et pourrait justifier des comportements qui nous semblent aujourd'hui horribles. Elle implique aussi d'être capable de "mesurer" l'utilité ou le "coût" de la vie d'une personne.
+Tout d'abord, elle met totalement de côté les intentions. Supposons qu'un tueur en série tue une personne qui, sans le savoir, avait prévu d'en tuer 100 le lendemain. Ce tueur en série a-t-il bien agi ? En ne s'intéressant qu'aux conséquences, on peut être amené à qualifier certaines actions de bonnes alors qu'elles peuvent nous sembler mauvaises. Il est difficile de justifier le meurtre dans ce cas, car l'intention semble mauvaise, ce que la philosophie de la vertu tente d'intégrer.
 
-## Ressources diverses
+Cette position a aussi une autre limite, qui pourrait justifier des comportements qui nous semblent aujourd'hui horribles. Elle implique également d'être capable de "mesurer" l'utilité ou le "coût" de la vie d'une personne. Comment fait-on pour calculer le coût d'une vie humaine ou le bonheur général ? Peut-on justifier le meurtre de mille personnes et tuer sciemment ces personnes parce qu'on a calculé que c'est "mieux" ?
 
-- [L'utilitarisme, c'est quoi ? (TJ #1)](https://www.youtube.com/watch?v=XRk2VeL0icU)
-- [BENTHAM - Qu'est-ce que l'utilitarisme ?](https://www.youtube.com/watch?v=mvamwoVi1KE)
+L'utilitarisme est une philosophie très intéressante, qui se veut contextuelle plutôt que dogmatique. Cependant, elle peut nous faire tomber dans d'autres formes de problèmes et s'appuie sur un ensemble d'éléments, comme le calcul du bonheur, qui semblent difficiles à démontrer.

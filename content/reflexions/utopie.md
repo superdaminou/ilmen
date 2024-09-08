@@ -14,17 +14,17 @@ Par exemple, j'aimerais que le travail ne soit plus une obligation. Une partie d
 
 Mais on peut essayer d'imaginer à quoi ça pourrait ressembler.
 
-Nous, l'humanité dans son entièreté, sommes globalement de plus en plus productif, on produit plus avec autant de ressources. Et nous avons déjà bien gagné en ce sens.
+Nous, l'humanité dans son entièreté, sommes globalement de plus en plus productive, on produit plus avec autant de ressources. Et nous avons déjà bien gagné en ce sens.
 
-Il suffit de voir la réduction du temps de travail dans l'histoire récente (congé payé, retraite, 35h, etc..). Alors il y a bien des limites, certains boulots doivent bien être fait. Mais ce sont des défis : comment répartir équitablement le travail restant ? Si cela nécessite des compétences spécifiques, comment nous organisons nous ?
+Il suffit de voir la réduction du temps de travail dans l'histoire récente (congé payé, retraite, 35h, etc..). Alors, il y a bien des limites, certains boulots doivent bien être faits. Mais ce sont des défis : comment répartir équitablement le travail restant ? Si cela nécessite des compétences spécifiques, comment nous organisons nous ?
 
-Je sais que dans mon utopie la police comme on l'entend habituellement n'aurais pas lieu d'être. Car il n'y aurait pas de raison suffisante. Alors cela vient peut-être d'un certain optimisme sur ce que pourrais être la "[[argument_naturel|nature humaine]]". Mais ça me donne comme objectif de comprendre le fonctionnement de la délinquance et la [[outsider|déviance]]. Ces actes que l'on reprouve collectivement peuvent, ils être analysés, étudiés, expliqués ? Si oui, peut-on agir dessus ? Peut-on réduire le risque d'acte ? Quels seraient les moyens nécessaires pour atteindre cet horizon ?
+Je sais que dans mon utopie la police comme on l'entend habituellement n'aurai pas lieu d'être. Car il n'y aurait pas de raison suffisante. Alors cela vient peut-être d'un certain optimisme sur ce que pourrait être la "[[argument_naturel|nature humaine]]". Mais ça me donne comme objectif de comprendre le fonctionnement de la [[socio_delinquance|délinquance]] et la [[outsider|déviance]]. Ces actes que l'on reprouve collectivement peuvent ils être analysés, étudiés, expliqués ? Si oui, peut-on agir dessus ? Peut-on réduire le risque d'acte ? Quels seraient les moyens nécessaires pour atteindre cet horizon ?
 
 Dans mon idéal, personne ne serait obligé de dormir de dehors. Alors que faire ? Peut-on juste leur trouver des logements ? Pourquoi on ne le fait pas ? Qu'est-ce qui nous en empêche ? Peut-on y remédier ?
 
-Je suis sûr que nous avons tous des utopies qui vont se rejoindre. Chacune avec sa particularité, [[ideologie|car nous avons chacun notre rapport au monde]], mais nous avons assez de ressemblance pour désirer des choses similaires: la paix, l'indépendance, la sécurité, le respect, etc...
+Je suis sûr que nous avons tous des utopies qui vont se rejoindre. Chacune avec sa particularité, [[ideologie|car nous avons chacun notre rapport au monde]], mais nous avons assez de ressemblance pour désirer des choses similaires : la paix, l'indépendance, la sécurité, le respect, etc...
 
-Et nous aurons aussi des divergences. Mais il faut les confronter pour comprendre où se situe nos divergences et si elles peuvent être traitées. Nous avons déjà un moyen de gérer ça et qui s'appelle la démocratie. Cela peut prendre plusieurs formes et à des faiblesses, mais nous avons déjà franchis un pas dans la construction sur des visions différentes. Rien ne nous empêche de continuer sur cette voie.
+Et nous aurons aussi des divergences. Mais il faut les confronter pour comprendre où se situent nos divergences et si elles peuvent être traitées. Nous avons déjà un moyen de gérer ça et qui s'appelle la démocratie. Cela peut prendre plusieurs formes et à des faiblesses, mais nous avons déjà franchi un pas dans la construction sur des visions différentes. Rien ne nous empêche de continuer sur cette voie.
 
 ### Ressources diverses
 

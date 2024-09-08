@@ -11,8 +11,8 @@ tags:
 
 ## Comment s'organiser ?
 
-C'est bon ! Tout le monde peut faire [[abstraction|l'abstraction]] qu'il ou elle veut !
-Mais comment on fait pour s'y retrouver la dedans ?
+C'est bon ! Tout le monde peut faire [[abstraction|l'abstraction]] qu'il où elle veut !
+Mais comment on fait pour s'y retrouver là-dedans ?
 
 ### Détour par le langage
 
@@ -21,46 +21,46 @@ Et que je vous dise que cela signifie : "j'adore le rhum".
 
 Et si vous ne me croyez pas je vous invite à venir consulter le dictionnaire "parole de rhumerie" que j'ai écrit moi-même et qui n'existe qu'en un seul exemplaire chez moi !
 
-Notre communication "habituelle" fonctionne sur la base de la modulation de sons et de représentations visuelles codifié comme l'alphabet.
-Ces deux cas sont normé selon un ensemble de règles (phonétique/grammaire/etc...) qui permettent à une communauté partageant ces règle de ce comprendre facilement.
+Notre communication "habituelle" fonctionne sur la base de la modulation de sons et de représentations visuelles codifiée comme l'alphabet.
+Ces deux cas sont normés selon un ensemble de règles (phonétique/grammaire/etc...) qui permettent à une communauté partageant ces règles de se comprendre facilement.
 
 Bien que cela soit très utile pour que vous puissiez me lire, cela ne me permet pas de définir la façon dont vont communiquer deux ordinateurs entre eux.
 
 ### Le problème avec les ordinateurs
 
-En effet ils ne possèdent ni oreilles, ni vue. Ils ne comprennent toujours que les [[abstraction|0 et les 1]].
-Alors certes on a créé des structures pour faciliter les [[abstraction|représentations]], mais si chacun créé son dictionnaire dans son coin et ne le partage pas alors personne ne sera en capacité de comprendre ce qui a voulu être dit.
+En effet, ils ne possèdent ni oreilles, ni vue. Ils ne comprennent toujours que les [[abstraction|0 et les 1]].
+Alors certes, on a créé des structures pour faciliter les [[abstraction|représentations]], mais si chacun créé son dictionnaire dans son coin et ne le partage pas alors personne ne sera en capacité de comprendre ce qui a voulu être dit.
 
-L'usage et la démocratisation de l'[[definition|informatique]] arrivant, entre autre, à travers le web, il a fallu trouver de nouvelles façon de nous accorder, d'échanger des messages, des images ou de structurer nos application et nos interfaces.
-Il a donc fallu mettre en place un ensemble de normes de la même façon que l'ASCII qui a permis de normer l'encodage des caractères.
+L'usage et la démocratisation de l'[[definition|informatique]] arrivant, entre autres, à travers le web, il a fallu trouver de nouvelles façon de nous accorder, d'échanger des messages, des images ou de structurer nos application et nos interfaces.
+Il a donc fallu mettre en place un ensemble de normes de la même manière que l'ASCII qui a permis de normer l'encodage des caractères.
 
-Avec l'arrive d'internet de nouvelles questions vont se poser tel que : Comment formule-t-on un message ?
+Avec l'arrivé d'internet de nouvelles questions vont se poser tel que : Comment formule-t-on un message ?
 
-Un protocole a été proposé par Tim Berners-Lee en 1990 qui est toujours bien en vigueur aujourd'hui: **HTTP**.
+Un protocole a été proposé par Tim Berners-Lee en 1990 qui est toujours bien en vigueur aujourd'hui : **HTTP**.
 
 ## Normes et Protocoles
 
 ### Protocoles
 
-Hyper Text Transfert Protocol est donc une façon de transmettre de la donnée sous une forme textuelle (et, si contenu supplémentaire, l'information nous permettant de la lire) qui est normée et qui assure que l'ensemble des messages transmis peuvent être compris et interprété si on la la connaissance de ces règles.
+Hyper Text Transfert Protocol est donc une manière de transmettre de la donnée sous une forme textuelle (et, si contenu supplémentaire, l'information nous permettant de la lire) qui est normée et qui assure que l'ensemble des messages transmis peuvent être compris et interprété si on la connaissance de ces règles.
 
-Il existe bien d'autres protocoles dont avez peut être entendu parler tel que :
+Il existe bien d'autres protocoles dont avez peut-être entendu parler tel que :
 
 - FTP
 - TCP
 - IP
 
-Ces quelques exemples répondent à des besoins différents mais définissent tous la manières dont va être normalisé la données pour répondre à un besoin précis.
+Ces quelques exemples répondent à des besoins différents, mais définissent tous la manière dont va être normalisé la donnée pour répondre à un besoin précis.
 
 ### Institutionnalisation
 
-Plusieurs entité ont émergées pour formaliser les différentes normes et standards : IETF/W3C/...
+Plusieurs entités ont émergées pour formaliser les différentes normes et standards : IETF/W3C/...
 
-Ces entités accompagnent la définition des normes et standards d'échanges (entre autres) sur le [[evol_web|web]]. De nouveaux standards émergent avec le temps et s'impose ou non dans nos pratiques. Par exemple le fondation OCI apparu en 2015 pour définir des standards autour des containers avec la montée dans les usages de Docker.
+Ces entités accompagnent la définition des normes et standards d'échanges (entre autres) sur le [[evol_web|web]]. De nouveaux standards émergent avec le temps et s'imposent ou non dans nos pratiques. Par exemple le fondation OCI apparu en 2015 pour définir des standards autour des containers avec la montée dans les usages de Docker.
 
-Tous ces standards vont être plus ou moins officiels et plus ou moins utilisés en fonction des domaines. Les domaines émergent auront évidemment des standards moins posés que les domaines historiques. Certains domaines ont aussi une multiplication des standards ce qui n'aide pas forcément à la mise en place d'un système résilient (Par exemple dans les SIG).
+Tous ces standards vont être plus ou moins officiels et plus ou moins utilisés en fonction des domaines. Les domaines émergents auront évidemment des standards moins posés que les domaines historiques. Certains domaines ont aussi une multiplication des standards ce qui n'aide pas forcément à la mise en place d'un système résilient (Par exemple dans les SIG).
 
-## Ressources diverses:
+## Ressources diverses :
 
 - [Plain Text • Dylan Beattie • GOTO 2023](https://www.youtube.com/watch?v=4mRxIgu9R70)
 - [Hypertext Transfer Protocol](https://datatracker.ietf.org/doc/html/rfc2616)

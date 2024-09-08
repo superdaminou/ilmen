@@ -7,11 +7,11 @@ tags:
   - reflexion
 ---
 
-J'ai commencé avec du C/C++, me suis professionnalisé dans le Java tout en ayant des expériences professionnelles et personnelles dans le Ruby, Python et JavaScript. Dans chacun de ces langages, j'ai pu écrire du code où je **savais** ce qui allait être renvoyé et ce qui **devait** se retrouver dans chaques variables.
+J'ai commencé avec du C/C++, me suis professionnalisé dans le Java tout en ayant des expériences professionnelles et personnelles dans le Ruby, Python et JavaScript. Dans chacun de ces langages, j'ai pu écrire du code où je **savais** ce qui allait être renvoyé et ce qui **devait** se retrouver dans chaque variable.
 
 Et à chaque fois, je me suis fait avoir. Que ce soit avec des `NullPointerException`, des `undefined` ou des résultats et conversions folkloriques. Souvent dans des POC où il m'importe peu d'être robuste, mais aussi dans du code de production à cause d'une erreur ou d'un oubli.
 
-Mon expérience avec Rust jusqu'ici c'est que je suis forcé d'écrire ce qu'il **va** se passer.
+Mon expérience avec Rust jusqu'ici, c'est que je suis forcé d'écrire ce qu'il **va** se passer.
 
 Par exemple, dans le serveur HTTP que je développe, j'ai été amené à gérer des codes HTTP. Je me suis fait mon petit `enum HTTPCode { OK, BAD_REQUEST, NOT_FOUND }` et de là, il a fallu que je transforme mes codes numériques 200, 400 et 404 en `HTTPCode`.
 
@@ -46,7 +46,7 @@ impl From<u32> for HTTPCode {
 
 Petit souci : ça ne compile pas. En effet, le compilateur m'indique qu'il existe d'autres cas possibles pour value (ce qui semble assez vrai) et qu'il serait de bon ton de gérer ces autres cas.
 
-Alors je **sais** que je n'ai que ces codes la, donc que faire ? On peut rajouter un cas par défaut:
+Alors je **sais** que je n'ai que ces codes là, donc que faire ? On peut rajouter un cas par défaut :
 
 ```rust
 impl From<u32> for HTTPCode {
@@ -92,7 +92,7 @@ let code : HTTPCode = HTTPCode::try_from(
 
 Et voilà, on a toujours les mêmes risques de faire exploser notre serveur qu'avec une `RuntimeException` mais au moins, nous avons explicité ce comportement et chaque fois que je relirai ces lignes, je me souviendrai que j'ai mis toute ma gestion d'erreurs sous le tapis.
 
-Une fois le stade du POC passé (et quand j'aurais marre d'avoir les yeux qui saigne devant cette accumulation de `unwrap`) je pourrais implémenter une gestion d'erreurs plus fine. Je voudrais sûrement les faire remonter à un plus haut niveau avec des messages voire des types appropriés.
+Une fois le stade du POC passé (et quand j'aurai marre d'avoir les yeux qui saignent devant cette accumulation de `unwrap`) je pourrais implémenter une gestion d'erreurs plus fine. Je voudrais sûrement les faire remonter à un plus haut niveau avec des messages, voire des types appropriés.
 
 ```rust
 fn gestion_du_code(peut_etre_le_code: Option<&str>) -> Result<(), ApplicationError> {
@@ -106,15 +106,15 @@ fn gestion_du_code(peut_etre_le_code: Option<&str>) -> Result<(), ApplicationErr
 }
 ```
 
-Et voila ! Disparition des `unwraps` et gestion des erreurs explicite. Nous avons pu mettre en place cette nouvelle fonctionnalité en ne pouvant à aucun moment ignorer la gestion d'erreur ou l'oublier.
+Et voilà ! Disparition des `unwraps` et gestion des erreurs explicite. Nous avons pu mettre en place cette nouvelle fonctionnalité en ne pouvant à aucun moment ignorer la gestion d'erreur ou l'oublier.
 
-Plus d'implicite basé sur la fait que je **sais** que ça va réagir comme ça parce que, de toute façon, j'ai toujours la bonne donnée qui arrive dans le bon format.
+Plus d'implicite basé sur le fait que je **sais** que ça va réagir comme ça parce que, de toute façon, j'ai toujours la bonne donnée qui arrive dans le bon format.
 
-Ce n'est pas le seul endroit ou Rust nous force à expliciter nos intentions, mais c'est celui que je trouve le plus parlant. Et cela peut être perçu, à juste titre, comme lourds et potentiellement "encombrant" lors du développement, comme pour le [[propriete_donnee|borrow checker]].
+Ce n'est pas le seul endroit où Rust nous force à expliciter nos intentions, mais c'est celui que je trouve le plus parlant. Et cela peut être perçu, à juste titre, comme lourds et potentiellement "encombrant" lors du développement, comme pour le [[propriete_donnee|borrow checker]].
 
 Il me semble néanmoins être un point important permettant de développer du code de production plus et robuste et faciliter les relectures.
 
-## Ressources diverses:
+## Ressources diverses :
 
 - [panic - Rust Book](https://doc.rust-lang.org/book/ch09-01-unrecoverable-errors-with-panic.html)
 - [Result - Rust Book](https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html)

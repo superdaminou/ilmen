@@ -31,6 +31,10 @@ Si les races n'existe pas biologiquement elles continue d'exister dans le monde 
 
 racisme = expression et exercice d'une relation de pouvoir entre ds groupes sociaux racialisé
 
-l'objectif est de s'intersser aux processus collectif et non aux individus
+l'objectif est de s'intéresser aux processus collectif et non aux individus
 
 ## Economies morales
+
+attention à la distinction entre motiviation economqieu/sociale et culturelle/identiftaire qui ne doivent pas être complétemnt séparé qui fait comme si les deux n'alleait pas ensemble
+
+la question de l'immgiration et très souvent enmélé dans d'autre considération comme les considération économiques

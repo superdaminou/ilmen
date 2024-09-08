@@ -16,9 +16,9 @@ Nous avons déjà un certains nombre de règle légales qui s'apparentent à des
 
 - Ne pas tuer
 - L'interdiction de l'inceste
-- Ne pas mentir
+- Ne pas voler
 
-Cependant les conséquences de ces actes sont uniquement juridiques. Il ne semble pas exister de conséquence direct au fait de briser une loi morale. Certaines religion répondent à cela avec un concept comme le paradis ou le fait de briser une loi morale aurait comme conséquence direct de ne pas pouvoir accéder au paradis.
+Cependant les conséquences de ces actes sont uniquement juridiques. Il ne semble pas exister de conséquence direct au fait de briser une loi morale. Certaines religion répondent à cela avec un concept comme le paradis où le fait de briser une loi morale aurait comme conséquence direct de ne pas pouvoir accéder au paradis.
 
 Ces règle sont cependant très vites mises à l'épreuve et il semble bien compliquer de toutes les lister. Cela supposerais aussi qu'il existe des règle pour des comportements qui peut être n'existe pas encore ou alors que nous serions capable de les rattacher a des règles "originelles".
 

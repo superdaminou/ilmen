@@ -13,7 +13,7 @@ Comme nous l'avons déjà vu avec [[option_result|les Result et Option]], à tra
 
 ### Qu'est-ce que le borrow checker ?
 
-Pour faire simple, c'est un système de "propriété" des variables qui permet au compilateur de savoir qui possède quoi à quel moment. Cette information permet d'allouer et de libérer de la mémoire dès que la variable rentre et sort de son périmètre.
+Pour faire simple, c'est un système de "propriété" des variables qui permettent au compilateur de savoir qui possède quoi à quel moment. Cette information permet d'allouer et de libérer de la mémoire dès que la variable rentre et sort de son périmètre.
 
 Le borrow checker nous empêche d'utiliser et de modifier des données qui pourraient être exploitées ailleurs.
 
@@ -30,7 +30,7 @@ String main() {
 }
 ```
 
-Mais ce code pourrait bien nous poser problème à l'usage. Si C et B sont ensuite utilisés par d'autres méthodes, la valeur pourrait être modifiée dans B, C, et A, nous empêchant de savoir avec certitude quelles données sont contenues à quel moment.
+Mais ce code pourrait bien nous poser un problème à l'usage. Si C et B sont ensuite utilisés par d'autres méthodes, la valeur pourrait être modifiée dans B, C, et A, nous empêchant de savoir avec certitude quelles données sont contenues à quel moment.
 
 Si nous tentons d'adapter naïvement ce code en Rust :
 
@@ -47,7 +47,7 @@ fn main() {
 
 Ce code ne compilera pas et nous indiquera que nous ne pouvons pas transférer la propriété de `A` vers `C` car elle a déjà été transférée à `B`. Une fois la valeur de `A` transférée, nous ne pouvons plus agir sur `A`, ce qui évite des effets de bord.
 
-Néanmoins, il est courant que nous cherchions à utiliser la même variable à plusieurs endroit différents. Pour cela, Rust nous offre deux moyens.
+Néanmoins, il est courant que nous cherchions à utiliser la même variable à plusieurs endroits différents. Pour cela, Rust nous offre deux moyens.
 
 ### Le clonage
 
@@ -100,13 +100,13 @@ Cette signature de méthode rend **explicite** que nous ne pouvons que consulter
 
 ## Données et responsabilité
 
-Le borrow checker nous oblige à réfléchir à la façon dont notre donnée va circuler dans notre application.
+Le borrow checker nous oblige à réfléchir à la manière dont notre donnée va circuler dans notre application.
 
-Dans mes tests et projets personnels, quand je veux aller vite, je suis ce que me dit le compilateur. Utiliser une référence (`&`) par-ci, faire un petit `clone` par-là.
+Dans mes tests et projets personnels, quand je veux aller vite, je suis ce que me dit le compilateur. Utiliser une référence (`&`) par-ci, faire un petit `clone` par là.
 
 Le compilateur (et `rust-analyzer`) est mon meilleur ami et je le suis souvent aveuglément en début d'implémentation. Mais, toujours à la manière des `unwrap`, mon code explicitera ma gestion des données, même si elle est brutale ou naïve, que ce soit avec un abus de `clone` ou `&`.
 
-Ainsi a chaque fois que je lirais mon code je verrais directement les possibilités et les risques associés a telle ou telle manipulation.
+Ainsi à chaque fois que je lirais mon code, je verrais directement les possibilités et les risques associés a telle ou telle manipulation.
 
 Viendra ensuite le premier blocage, le point où je serai forcé de réfléchir à mes données :
 
@@ -114,7 +114,7 @@ Viendra ensuite le premier blocage, le point où je serai forcé de réfléchir 
 - Est-il nécessaire de cloner ?
 - Quand est-ce que je transfère la propriété ?
 
-Petit à petit, en rationalisant mon code et la gestion de mes données, je vais aussi expliciter ma conception. La signature même de mes API expliciterons aux développeurs et aux consommateurs ce qu'il peut advenir de la donnée et ce qu'on pourra faire de la donnée produite.
+Petit à petit, en rationalisant mon code et la gestion de mes données, je vais aussi expliciter ma conception. La signature même de mes API explicitera aux développeurs et aux consommateurs ce qu'il peut advenir de la donnée et ce qu'on pourra faire de la donnée produite.
 
 ## Ressources diverses
 

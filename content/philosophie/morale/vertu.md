@@ -5,7 +5,4 @@ tags:
 draft: true
 ---
 
-La vertu va se concentrer sur les qualités intrinsèque de la personne
-
-> [warning]
-> Moins compétent sur ce sujet
+La morale de la vertu s'intéresse plus aux acteurs

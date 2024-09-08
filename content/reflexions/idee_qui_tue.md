@@ -10,15 +10,15 @@ tags:
 
 Les [[recits|récits]] sont nées quelques minutes après l'évènement.
 
-Après la tentative d'assassinat sur Trump en ce juillet 2024, à travers des photographies et une émulsion globale due à la situation, ce forme très rapidement des histoires.
+Après la tentative d'assassinat sur Trump en juillet 2024, à travers des photographies et une émulsion globale due à la situation, se forme très rapidement des histoires.
 
-Celle d'un homme qui à survécu.
+Celle d'un homme qui a survécu.
 
 Celle d'un homme, Corey Comperatore, mort en protégeant sa famille.
 
-Puis il a fallu créer celle de l'antagoniste. Qui a bien pu tenter de tuer Trump ? Quelles sont les raisons possibles pour un tel acte ?
+Puis, il a fallu créer celle de l'antagoniste. Qui a bien pu tenter de tuer Trump ? Quelles sont les raisons possibles pour un tel acte ?
 
-Beaucoup d'articles et de reportages apparaissent sur les grands média tout en étant abondamment relayé sur les réseaux. Commençant à écrire ces lignes deux jours après l'évènement je ne peux pas rapporter grand choses de plus que ce que je vois passer sur mes différents moyen d'information.
+Beaucoup d'articles et de reportages apparaissent sur les grands médias tout en étant abondamment relayé sur les réseaux. Commençant à écrire ces lignes deux jours après l'évènement je ne peux rien rapporter de plus que ce que je vois passer sur mes différents moyens d'information.
 
 Un jeune homme blanc d'une petite vingtaine d'année affilié au Républicain. N'étant pas journaliste je ne pourrais pas aller plus loin sur ce sujet et encore moins ces intentions.
 
@@ -28,35 +28,35 @@ Et cette interview me fascine.
 
 ## Un peu de tout
 
-Cette vidéo me fascine car elle contient un peu de tout.
+Cette vidéo me fascine, car elle contient un peu de tout.
 
 On a le témoignage brut et froid d'un homme qui raconte sa radicalisation, le tout dans une sorte d'exposition morbide de la part d'Ardisson rabâchant son incapacité sexuelle et amoureuse.
 
-Cette forme de justification que l'on pourrait très facilement rapprocher du mouvements des incels. Mouvement dit des "Célibataire involontaire", ce sont surtout de jeunes hommes qui se définissent par leurs rejet total de tout ce qui se rapporte aux femmes, justifié . Leurs radicalisation se transformant en haine totale cela à déjà aboutit a plusieurs tuerie.
+Cette forme de justification que l'on pourrait très facilement rapprocher du mouvement des incels. Mouvement dit des "Célibataire involontaire", ce sont surtout de jeunes hommes qui se définissent par leurs rejets total de tout ce qui se rapporte aux femmes, justifié. Leurs radicalisations se transformant en haine totale cela a déjà abouti à plusieurs tueries.
 
-Maxime fait reposer une partie de l'explication de sa radicalisation sur une contexte environnementale, la question de l'ennuie, du rapport aux règles et à la morale. Comment la mouvance d'extrême droite à pu répondre a certaines de ses attentes. La virilisme ambiant et la masculinité exacerbé comme point de repère.
+Maxime fait reposer une partie de l'explication de sa radicalisation sur un contexte environnementale, la question de l'ennui, du rapport aux règles et à la morale. Comment la mouvance d'extrême droite a pu répondre à certaines de ses attentes. Le virilisme ambiant et la masculinité exacerbée comme point de repère.
 
-L'histoire de sa vie exposé comme une histoire de l'homme perdu qui se radicalise en réponse à son environnement. Qui dans un twist échoue et commence une forme de parcours de rédemption.
+L'histoire de sa vie exposée comme une histoire de l'homme perdu qui se radicalise en réponse à son environnement. Qui dans un twist échoue et commence une forme de parcours de rédemption.
 
-La remise en question et les excuses. Cette formulation de la compréhension et le dépassement de cet acte et idéologie. La lettre d'excuse envoyé à Jacque Chirac avec cette sorte de tension dramatique sur l'attente d'une réponse.
+La remise en question et les excuses. Cette formulation de la compréhension et le dépassement de cet acte et idéologie. La lettre d'excuse envoyée à Jacque Chirac avec cette sorte de tension dramatique sur l'attente d'une réponse.
 
-La question de la justice y est abordé, notre rapport à la [[violence|violence]]. La question de la peine de mort et la mise en équivalence des différents délits et abordé frontalement. Tout en évoquant les condition de détentions et la perception sociale que nous avons des prisonniers. Quelles sont les peines "justes" et l'exposition du "pire" que lui.
+La question de la justice y est abordée, notre rapport à la [[violence|violence]]. La question de la peine de mort et la mise en équivalence des différents délits et abordé frontalement. Tout en évoquant les conditions de détentions et la perception sociale que nous avons des prisonniers. Quelles sont les peines "justes" et l'exposition du "pire" que lui.
 
-Le cadre médiatique qui nous maintient, qui nous confronte à ce discours sans jamais le questionner. Pas de contre récit, seulement la lecture des passages du livres de Maxime Brunerie. Cela pourrais presque se passer de la même façon pour n'importe quel autre écrivain, mais sans la légèreté. Les silences et le visages intermittent des autres participants rappelle la gravité des propos et leurs implications.
+Le cadre médiatique qui nous maintient, qui nous confronte à ce discours sans jamais le questionner. Pas de contre récit, seulement la lecture des passages du livre de Maxime Brunerie. Cela pourrait presque se passer de la même façon pour n'importe quel autre écrivain, mais sans la légèreté. Les silences et le visage intermittent des autres participants rappelle la gravité des propos et leurs implications.
 
-Et aussi une absence, celle d'une autre explication, d'une analyse ou d'une confrontation. Pourquoi l'extrême droite lui à parlé ? Comment lui a t elle parlé ? Existe t il d'autres sources que le témoignage de celui qui promeut son livre ou de justification basé sur sa frustration sexuelle ?
+Et aussi une absence, celle d'une autre explication, d'une analyse ou d'une confrontation. Pourquoi l'extrême droite lui a parlé ? Comment lui a-t-elle parlé ? Existe-t-il d'autres sources que le témoignage de celui qui promeut son livre ou de justification basée sur sa frustration sexuelle ?
 
 ## Traiter les idées
 
 Le mot "traiter" me semble fort, mais je vais essayer de m'y tenir.
 
-Je crois profondément que nos jugements sont [[rethorique_biais|faillibles]] et en ce sens que notre [[ideologie|ideologie]] peut être "malade". Malade de peur, de mensonges, de déni et de tous ces autres procédés et processus qui nous trompe.
+Je crois profondément que nos jugements sont [[rethorique_biais|faillibles]] et en ce sens que notre [[ideologie|idéologie]] peut être "malade". Malade de peur, de mensonges, de déni et de tous ces autres procédés et processus qui nous trompe et nous enferme.
 
 Certaines de ces idées malades nous conduisent [[gens_meurt|au pire]].
 
-Et je ne pense pas qu'il existe une unique idéologie "saine" mais je pense que nous pouvons au moins tenter de faire mieux. Nous devons combattre pied a pied les idées malades.
+Et je ne pense pas qu'il existe une unique idéologie "saine" mais je pense que nous pouvons au moins tenter de faire mieux. Nous devons combattre pied à pied les idées malades.
 
-Traiter nos idée pour que les tentatives d'assassinat n'arrive plus, que les féminicides disparaissent, pour que l'on laisse plus laisser se dérouler des génocides sous nos yeux. Que nous sortions les ennemis de nos récits et réussissions a faire mieux.
+Traiter nos idées pour que les tentatives d'assassinat n'arrivent plus, que les féminicides disparaissent, pour que l'on ne laisse plus laisser se dérouler des génocides sous nos yeux. Que nous sortions les ennemis de nos récits et réussissions à faire mieux.
 
 ## Ressources diverses
 
