@@ -6,7 +6,7 @@ tags:
   - vulgarisation
 ---
 
-L'essentialisme philosophique cherche à faire émerger une forme de "nature humaine" et de comportement qui serait inscrite profondément en nous et contre laquelle il serait impossible de lutter. Ce concept, porté par Platon, vise à définir toute chose par un ensemble de caractéristiques limitées, par leurs "essences". Il existerais une définition "pur" d'un chaise et toute les chaise que nous expérimentons au quotidien ne sont que des objet qui se rapproche, sans jamais l'atteindre, de cette définition
+Ce concept, porté par Platon, vise à définir toute chose par un ensemble de caractéristiques limitées, par leurs "essences". Il existerais une définition "pur" d'un chaise et toute les chaise que nous expérimentons au quotidien ne sont que des objet qui se rapproche, sans jamais l'atteindre, de cette définition. Il existerait donc aussi une forme "pur" de l'humain, ou de l'homme et de nous. Une forme qui serait la en premier et inaltérable.
 
 L'essentialisme caractérise et enferme un individu dans un certain nombre de traits et de dispositions immuables.
 

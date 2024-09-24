@@ -21,48 +21,48 @@ La culture est définie comme un système de valeurs qui peut être supérieur a
 
 La désorganisation sociale est défini comme le déclin de l'influence des règles sur le comportement du groupe.
 
-Les grandes villes de cet époque aux USA comme Chicago sont décomposé en 5 strates:
+Les grandes villes de cette époque aux USA comme Chicago sont décomposées en 5 strates:
 
-1. Un centre ou il a tous les bureau et les affaires
+1. Un centre ou il a tous les bureaux et les affaires
 2. Entouré par une première ceinture ou résident les personnes précaires
 3. Ensuite vient les classes moyennes ouvrière aisé
-4. Le zone plus bourgeoises et riches
+4. La zone plus bourgeoises et riches
 5. Et pour finir la banlieue
 
-Avec cette base le constat a été fait que la majorité du crime à lieu au niveau de cette zone 2, chez les précaires et la ou la société et la moins présente. Dans ce milieu les gang offre un substitut en offrant une structure social équivalente et la capacité à se construire une identité dans ce groupe.
+Avec cette base le constat a été fait que la majorité du crime a lieu au niveau de cette zone 2, chez les précaires et la ou la société et la moins présente. Dans ce milieu les gang offre un substitut en offrant une structure social équivalente et la capacité à se construire une identité dans ce groupe.
 
-Les premières conclusion sont le crimes est une résultante de l'environnement et que si l'on veut réduire les soucis il faut directement s'adapter à la pauvreté. Les 3 grands facteurs environnementaux identifiés sont :
+Les premières conclusions sont que le crime est une résultante de l'environnement et que si l'on veut réduire les soucis il faut directement s'adapter à la pauvreté. Les 3 grands facteurs environnementaux identifiés sont :
 
 1. Statut économique
 2. Mobilité
 3. Hétérogénéité de la population
 
-Apparait les premières réfutation des théories répressive qui peuvent pousser à la délinquance et enfermer dans ce milieu.
+Apparait les premières réfutations des théories répressive qui peuvent pousser à la délinquance et enfermer dans ce milieu.
 
-La théorie culturaliste voit dans l'immigration un risque. Les derniers arrivé aurait plus de risque criminogène car moins intégré au milieu et moins adapté aux normes en vigueur ce qui alimenterait la désorganisation sociale.
+La théorie culturaliste voit dans l'immigration un risque. Les derniers arrivés aurait plus de risque criminogène, car moins intégré au milieu et moins adapté aux normes en vigueur ce qui alimenterait la désorganisation sociale.
 
-Ces premières théorie sont vites remises en questions.
+Ces premières théories sont vite remises en questions.
 
 Il apparait vite faux de qualifier les quartiers pauvres comme désorganisé. Ces lieux fournissent un ensemble de structures, règles et normes qui régissent l'organisation sociale. On retrouve de la délinquance en dehors des grandes villes ou dans des villes qui ne répondent pas a cette caractéristique concentrique.
 
-Les premières corrélation semblent favoriser la pauvreté plutôt que le fait d'être le dernier arrivé.
+Les premières corrélations semblent favoriser la pauvreté plutôt que le fait d'être le dernier arrivé.
 
-La délinquance est partout, mais voit plus certains type de délinquances que d'autres.
+La délinquance est partout, mais voit plus certains types de délinquances que d'autres.
 
 De nouvelles théories apparaissent sur la façon dont devient délinquant
 On peut apprendre à devenir criminel à travers différents contact. Ces contacts nous apprennent à faire et justifier nos comportements. On deviendrait criminel à partir du moment ou on est plus en dehors qu'en dedans de la loi.
 
-Etre criminel devient donc une formation comme une autre ou l'on cherche à exprimer les mêmes formes de besoin et les même valeurs que les non criminels. Le groupe est vue comme crucial dans ce parcours de criminel.
+Etre criminel devient donc une formation comme une autre ou l'on cherche à exprimer les mêmes formes de besoin et les mêmes valeurs que les non-criminels. Le groupe est vu comme crucial dans ce parcours de criminel.
 
-Certaines critiques sont soulevé sur ces théories. Le groupe semble être sur-valué dans la construction du criminel. Il existe d'autres processus qui influence ce parcours. Pour la partie culturelles les études soulèves assez rapidement que les immigrants de la deuxième génération sous plus criminogène que la premières génération. Ce qui invalide assez radicalement la théorie du dernier arrivé.
+Certaines critiques sont soulevées sur ces théories. Le groupe semble être sur-valué dans la construction du criminel. Il existe d'autres processus qui influence ce parcours. Pour la partie culturelle les études soulèvent assez rapidement que les immigrants de la deuxième génération sous plus criminogène que la première génération. Ce qui invalide assez radicalement la théorie du dernier arrivé.
 
-Une théorie sur le conflit entre les cultures qui pourrait provoquer des conflits lorsqu'elles sont très proches les unes des autres ou qu'un ensemble d'individu va d'un groupe à un autre. Mais il existe un ensemble de règles morale qui semblent partagé à travers la majorité des cultures comme la condamnation du meurtre ou du viol. Et cela n'explique toujours pas ce fait de la deuxième génération d'immigré plus criminogène que la première.
+Une théorie sur le conflit entre les cultures qui pourrait provoquer des conflits lorsqu'elles sont très proches les unes des autres ou qu'un ensemble d'individu va d'un groupe à un autre. Mais il existe un ensemble de règles morales qui semblent partagé à travers la majorité des cultures comme la condamnation du meurtre ou du viol. Et cela n'explique toujours pas ce fait de la deuxième génération d'immigré plus criminogène que la première.
 
 ## Théorie de la Tension
 
-A travers une analyse et des arguments naturels il est dit que l'homme ne veut pas spécialement être déviant ou délinquant, il y est contraint par certaines conditions. La transformation de la société entraîne un désordre qui peut pousser à la délinquance. C'est la structure sociale plus que les conditions économiques qui pousse à la délinquance.
+A travers une analyse et des arguments naturels il est dit que l'homme ne veut pas spécialement être déviant ou délinquant, il y est contraint par certaines conditions. La transformation de la société entraîne un désordre qui peut pousser à la délinquance. C'est la structure sociale plus que les conditions économiques qui poussent à la délinquance.
 
-Un modèle de définition de l'adaptation aux normes émerge:
+Un modèle de définition de l'adaptation aux normes émerge :
 
 | Modèle d'Adaptation | Moyen | But |
 | ------------------- | ----- | --- |
@@ -94,11 +94,11 @@ La théorie des opportunités différentielles dis que devenir délinquant est u
 2. **Conflictuelle**: Violence désorganisée, comme dans les ghettos, surexposition à la répression et écarté de tout milieu "normal".
 3. **Évasion**: Comme les toxicomanes, qui ne peuvent atteindre les buts conventionnels et ne sont pas pour autant complétement dans le monde criminel.
 
-Cette théorie à été renforcée dans les années 70/80 par le concept de capital culturel et social.
+Cette théorie a été renforcée dans les années 70/80 par le concept de capital culturel et social.
 
 ### Théorie du Contrôle
 
-Les délinquants sont considérés comme des agents rationnels. Ils savent pourquoi ils commettent des actes et évaluant rationnellement la plus-value de ces actes. Le crime est normal car l'humain est naturellement anticonformiste. Ce qui est étonnant, c'est le conformisme et il faut donc cherche ce qui nous empêche de devenir délinquant.
+Les délinquants sont considérés comme des agents rationnels. Ils savent pourquoi ils commettent des actes et évaluant rationnellement la plus-value de ces actes. Le crime est normal car l'humain est naturellement anticonformiste. Ce qui est étonnant, c'est le conformisme et il faut donc chercher ce qui nous empêche de devenir délinquant.
 
 #### Contrôle Social
 
@@ -120,21 +120,21 @@ Reproches : oubli du conflit et incohérence avec les théories culturalistes.
 - **Présentisme**
 - **Difficulté à verbaliser les émotions**
 
-Passage "héréditaire", résultant du contrôle et de la structure appliqué lors de l'enfance ce qui pourrait expliquer la différence entre homme et femme. Cela reste une justification très limité.
+Passage "héréditaire", résultant du contrôle et de la structure appliqué lors de l'enfance ce qui pourrait expliquer la différence entre homme et femme. Cela reste une justification très limitée.
 
 #### Analyse Stratégique
 
 Le crime est un moyen logique et raisonné pour l'agent d'atteindre son but. Il y a une vision utilitariste.
 
-Les études montrent que le processus cognitif lors des choix est complexe et que l'on ne peut se baser uniquement sur la capacité des personnes a tout évaluer a tout moment.
+Les études montrent que le processus cognitif lors des choix est complexe et que l'on ne peut se baser uniquement sur la capacité des personnes à tout évaluer à tout moment.
 
 #### Victimisation Personnelle
 
-Après un fort échec des politiques de réinsertion on s'intéresse beaucoup plus à la victime en cherchant à comprendre comment elle deviennent victime et le lien avec leurs styles de vie.
+Après un fort échec des politiques de réinsertion on s'intéresse beaucoup plus à la victime en cherchant à comprendre comment elles deviennent victimes et le lien avec leurs styles de vie.
 
-Les jeunes hommes sont plus exposé et plus proches des milieux délinquants. Leurs styles de vie les amène à être plus fréquemment en contact avec la délinquance. Les vieux sont moins proches du mode de vie délinquant et sont généralement moins victimes.
+Les jeunes hommes sont plus exposés et plus proches des milieux délinquants. Leurs styles de vie les amènent à être plus fréquemment en contact avec la délinquance. Les vieux sont moins proches du mode de vie délinquant et sont généralement moins victimes.
 
-On essaye de mettre en place des stratégie d'anticipation et des modèle probabilité d'exposition à la délinquance.
+On essaye de mettre en place des stratégies d'anticipation et des modèles probabilité d'exposition à la délinquance.
 
 #### Théorie de l'Activité Routinière
 
@@ -152,7 +152,7 @@ Tout cela peut être mis en lien avec la forte augmentation des cambriolages.
 
 Si une vitre cassée n'est pas réparée, toutes les autres seront brisées. Cercle vicieux où dès que cela commence à se détériorer, tout se dégrade.
 
-Cette théorie est interprété sous un répressive dans un climat conservateur et voit aussi une augmentation de la prévention.
+Cette théorie est interprétée de façon répressive dans un climat conservateur et voit aussi une augmentation de la prévention.
 
 Les théories rationalistes ont des limites : elles expliquent de façon instrumentale mais oublient le contexte social, politique et la subjectivité de la délinquance. Tout n'est pas forcément calculé.
 

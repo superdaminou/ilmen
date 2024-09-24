@@ -80,24 +80,76 @@ L'école public est vu comme ne permettant plus une ascension sociale. Les enfan
 
 Le féminisme marxiste définit la reproduction sociale comme l'ensemble des institutions et pratiques permettant de reproduire la force de travail, dont le travail des parents fait partie. Cela a conduit à la mise en place d'un "protectionnisme reproductif" face aux immigrés, perçus comme ayant trop d'enfants.
 
-La crainte des électeurs du RN vient moins de l'emploi que des aides sociales et de l'usage des biens collectifs. Ils se sentent  plus intégrés que les autres à travers la norme blanche et adhèrent à une morale de l'héritage national.
+La crainte des électeurs du RN vient moins de l'emploi que des aides sociales et de l'usage des biens collectifs. Ils se sentent plus intégrés que les autres à travers la norme blanche et adhèrent à une morale de l'héritage national.
 
 Les minorités racialisées sont perçues comme réduisant la taille des ressources à partager et accélérant le déclassement. Elles sont vues comme non productives et trop reproductives
 
 ## "Chez nous", classements et déclassement territoriaux
 
-imaginaire actuel, succes RN vu comme la fgrance des oubliés. 
-Prospère aussi dans des endroits attractif comme PACA lieu de recherche 
-PACA deuxieme region aevc plus d'inégalité. recherche montre que vote RN est plus lié a inégalité que niveau moyen de richesse 
+Dans l'imaginaire actuel le succès du RN perçu comme celui de la "France des oubliés".  
+Le RN prospère également dans des régions attractives comme la PACA, qui est le lieu d'étude. La PACA est la deuxième région avec le plus d'inégalités en France. Les recherches montrent que le vote RN est davantage lié aux inégalités qu'au niveau moyen de richesse.
 
-Electeur habite ni dans beau quartiers ni dans milieu défavorisé comme HLM. Sentimen de menace par le haut (innacessible) et par le bas (indésirable)  
+Les électeurs du RN n'habitent ni dans les beaux quartiers ni dans les milieux défavorisés comme les HLM. Ils ressentent une menace à la fois par le haut (inaccessible) et par le bas (indésirable).
 
-PACA attire beaucoup de menage aisé, beaucoup de résidences sécondaires . Attiré par soleil et politque publique et économiique  de mise en tourisme. 
-Les "coins agréable"  vu comme désormait innacessible pour leur milieu social.  appairiton de nouveau groupes sociaux , de profession intellectuel supérieur. Créé un changement urbain par artificialisadtion des sols et embourgoisement.  Sentiment de dépossesion économique et culturel 
+La région PACA attire de nombreux ménages aisés et compte beaucoup de résidences secondaires. Ces ménages sont attirés par le climat ensoleillé et par les politiques publiques et économiques favorisant le tourisme. Les "coins agréables" sont désormais perçus comme inaccessibles pour le milieu social des électeurs du RN. L'apparition de nouveaux groupes sociaux, comme les professions intellectuelles supérieures, entraîne un changement urbain marqué par l'artificialisation des sols et l'embourgeoisement. Cela crée un sentiment de dépossession économique et culturelle.
 
+Le parc social est perçu comme un repoussoir ; les électeurs préfèrent s'éloigner des HLM. La construction de logements sociaux est vue comme une mauvaise nouvelle. Le logement social est souvent associé à l'immigration dans les représentations communes. La région PACA a accueilli, tout au long du XXe siècle, des vagues migratoires italiennes, espagnoles puis extra-européennes. Les inégalités économiques s'articulent avec les inégalités ethno-raciales sous forme de ségrégation spatiale.
 
-Le parc social créé un répoussoir, envie d'être éloigné des HLM. Construction logement sociaux vu comme mauvais nouvelles. Logement social = immigré prédomine dans les représentations communes. Region PACA accueili tout le X eme sicle les migration italiene,espagnole puis xtra europééenens. Inegalité économique articlué avec inégaltié ethno raciale sous forme de ségration spatiale. 
-Remaque plus et identifie plsu les  personne racialisé que les SDF ou prostitué 
-La présence de non blanc sert a jauger et comparer les espaces 
+Les électeurs remarquent davantage les personnes racialisées que les SDF ou les prostituées. La présence de non-Blancs sert à jauger et comparer les espaces.
 
-Etudes 
+Aux États-Unis, malgré le développement d'une classe moyenne noire, cette population reste souvent assimilée aux quartiers pauvres. Leur présence est perçue comme dévalorisant le quartier. Les électeurs du RN sont vigilants aux "lignes de ségrégation" et à leur porosité.
+
+Il y a une inquiétude liée à l'idée d'être "rattrapé" par les "quartiers", et une identification rapide des nouveaux arrivants racialisés et des signes de leur présence. Les électeurs, se trouvant sur les mêmes parcours résidentiels que des ménages immigrés, se retrouvent souvent en situation de cohabitation. Le fait de devoir déménager pour y échapper est perçu comme une injustice. Cela affirme le besoin d'une ségrégation nationale et raciale.
+
+La pression par le haut et par le bas n'est pas perçue de la même manière.
+
+- La pression par le haut est vue comme inévitable et incontrôlable.
+- La pression par le bas est perçue comme évitable, avec la possibilité de "renvoyer les gens chez eux".
+
+Il existe un sentiment de dégradation collective. L'évaluation subjective de son quartier et son évolution jouent un rôle important dans l'orientation électorale. Les électeurs proches de Marine Le Pen sont plus enclins à penser que leur quartier s'est dégradé.
+
+L'érosion des centres-villes et le déplacement des commerces vers les zones commerciales périphériques modifient les configurations de sociabilité. L'apparition de nouveaux types de commerces (halal, kebabs) est perçue comme un remplacement des commerces "français". Il existe une stratégie de ségrégation commerciale visant à éviter les non-Blancs dans les commerces identifiés comme "français".
+
+Le vote RN est plus présent dans les ménages propriétaires. L'immobilité résidentielle forcée accroît le ressentiment et la sensation d'enfermement.
+
+Les électeurs ont un rapport pessimiste à l'avenir. L'image négative des populations racialisées entraîne une dévalorisation perçue des terrains, ce qui accentue le sentiment que la situation ne s'améliorera pas.
+
+La stratégie et l'anticipation résidentielles sont structurées par des schémas raciaux, mais ces stratégies deviennent impossibles à mettre en œuvre en raison de leur position sociale et du manque de ressources.
+
+## Islamophobie du quotidien
+
+Islamophobie designe l'ensemble des préjugé et pratiques discriminatoire a l'encontre de musulman ou personne supposés comme telles. Droite et extreme doroite ou la rejet explicite et affirmé des musumlman est le plus haut.
+
+Conscensus scientifique sur le terme mais pas politique. Disqualification active du terme dans l'ecosysteme francais. Tentative d'éloignement du racisme en faisant appel au droit de critiquer les religions.
+
+Le racisme ne se repose pas que sur l'idée de race biologique mais sur tout en ensmble referent (culture/religion,...) permettant d'essentialiser. les religion pouvant être racialisé.
+
+musulman souvent utilisé comme terme équivalent a arabe/turc/immigré
+
+Electeur RN majorité des catho faiblemant pratiquant et sensible au instiution. Plus un ensemble de tradition (noel, paques). Cela reste une reference dans les discours et dans l'identification d'une culture. Mise en avant du fait religieux comme différenciants. Pratique catholique qui serait partagé par tous les blanc européen et qui s'oppose à l'immigration magrébine.
+
+La référence au catholicisme permet d'affirmer son appartenance a un groupe.
+
+Islamophonbie aussi pratiqué par des athé. Islam percu plus négativement que catholocisme. Islma reste associé l'exterieur a l'autre et identifié comme trop visible.
+
+Reunion du catholicime patrimonalisé et laiciété identitaire contre l'islam.
+
+Utiliastion rhétorique de l'aspect patriarcale de la religion musulman et inégalité homme-femme. Ne prends pas en compte la diversité des pratiques et exclu le grouep majoriraiter de la participation a l'ordre patriarcal.
+
+Exemple du Bar du village maitenant détenu par des musulman ou il est pointé qu'il y a majoritaire que des hommes. Argument appuyant la différence de comportement sans prendre en compte qu'avec l'ancien proprio il y avait aussi peu de femme.
+
+Voile vu comme systématiquement imposé et comme marque de non assimilation. Le problème etant le type d'assignation de la femme et non l'assignation elle même. Condamtion des signes étranger du sexisme.
+
+Normalisation et invisiblisation du sexisme "a la francaise". Erotisation et sexualisation du corp des femmes voilé avec regret de ne pouvoir "en profiter". Probable lien avec le fantasme du dévoilement.
+
+Injonction paradoxale quand une femme musulmane n'est pas voilé mais ne boit pas d'alcool. Vu comme une forme de incohérence avec une assignation totale a une identité.
+
+Port du voile aussi vu comme une provocation et est surpolitisé en y associant une volonté d'imposé la religion.
+
+Discours islamphobe sur le voile dis un coup que les femmes sont soumise et un autre moment qu'elles sont dangereuse et font du proselitisme.
+
+Les position sociale des musulman vont influencer les projections associés.
+
+Lexique de l'imposition de la religion revient beaucoups dans entretients; Permet l'intensification du racisme. Islamophobie combine un determinisme ou les musulman serait forcement étranegr et aussi un libre arbitre disant qu'il ne veulent pas s'integrer.
+
+Quand le fait d'être musulman est vu comme choisi on lui oppose la fait de pouvoir choisir de ne plus l'être. Et le fait de le rester, de façon visible, est vu comme une provocation supplémentaire.

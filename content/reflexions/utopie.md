@@ -10,7 +10,7 @@ Ce que j'entends par utopie ou idéal, c'est un état du monde imaginé qui corr
 
 On a besoin d'une utopie. D'un but et d'un idéal. Et il faut qu'on y tienne. Cela nous permet d'imaginer mieux, de discuter de mieux. De confronter nos attentes profondes et de mettre des mots dessus. En plus de résister et de vivre avec le monde dans lequel nous sommes, il me semble nécessaire de définir le monde que nous attendons de demain.
 
-Par exemple, j'aimerais que le travail ne soit plus une obligation. Une partie de mon utopie est la disparition du travail au sens salarié actuel. Je me rends bien compte que ça va être compliqué.
+Par exemple, j'aimerais que le [[sens_travail|travail]] ne soit plus une obligation. Une partie de mon utopie est la disparition du travail au sens salarié actuel. Je me rends bien compte que ça va être compliqué.
 
 Mais on peut essayer d'imaginer à quoi ça pourrait ressembler.
 

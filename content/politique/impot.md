@@ -44,20 +44,20 @@ En France les montant des impôts sur le revenu et progressif.
 
 ## Par qui
 
-Dans les états démocratiques l'impôt et géré par le gouvernement et les assemblés régissant les lois. Une augmentation d'impôts ou une diminution est un choix politique. De même que la façon l'argent est réparti entre les différents poste de dépenses (santé, sécurité, éducation) en fonction des rapports des forces politiques et la capacité du gouvernement à faire passer un projet sans approbation de la majorité.
+Dans les État démocratiques l'impôt et géré par le gouvernement et les assemblées régissant les lois. Une augmentation d'impôts ou une diminution est un choix politique. De même que la façon l'argent est réparti entre les différents postes de dépenses (santé, sécurité, éducation) en fonction des rapports des forces politiques et la capacité du gouvernement à faire passer un projet sans approbation de la majorité.
 
 ## Le problème de l'impôt
 
-L'impôt n'est donc pas une chose nouvelle dans l'histoire politique, il a été prélevé et utilisé de multiple façon. Et là se trouve le problème.
+L'impôt n'est donc pas une nouvelle chose dans l'histoire politique, il a été prélevé et utilisé de multiple façon. Et là se trouve le problème.
 
-À peu près tous les courants politiques, même chez les grand capitaliste, défende une certaine notion d'impôt. La différence se trouve dans deux points évoqués plus haut.
+À peu près tous les courants politiques, même chez les grands capitaliste et libertarien, défende une certaine notion d'impôt. La différence se trouve dans deux points évoqués plus haut.
 
 - Comment ?
 - Pour quoi ?
 
-La question de la justice fiscale évoque la manière dont est répartie l'effort et la vision de l'utilité de l'impôt. On peut vouloir payer des impôts, mais pas pour l'armée. On peut vouloir payer, mais moins que son voisin qui gagne plus et paye autant que nous.
+La question de la justice fiscale évoque la manière dont est réparti l'effort et la vision de l'utilité de l'impôt. On peut vouloir payer des impôts, mais pas pour l'armée. On peut vouloir payer, mais moins que son voisin qui gagne plus et paye autant que nous.
 
-Il s'agit donc d'un débat de société qui doit être investi par tous et de façon démocratique. Nous devons comprendre son fonctionnement, la complexité des prélèvements et leurs utilisations pour mieux comprendre les propositions qui sont faites et pouvoir faire nos choix de façon éclairée.
+Il s'agit donc d'un débat de société qui doit être investi par tous et de manière démocratique. Nous devons comprendre son fonctionnement, la complexité des prélèvements et leurs utilisations pour mieux comprendre les propositions qui sont faites et pouvoir faire nos choix de façon éclairée.
 
 ## Mon avis tout personnel
 

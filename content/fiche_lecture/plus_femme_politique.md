@@ -51,8 +51,7 @@ Par ailleurs, leur légitimité est souvent remise en cause par la mise en place
 Pour finir, c'est une véritable violence qui est exercé contre les femmes au sein de ce milieu.
 Ce sont des insultes, des blagues misogynes au sein de l'assemblé National mais Cela va jusqu'à des violences sexuelles caractérisé.
 
-Tout un système de domination masculine qui n'est pas exclusif à la politique, mais qui permet de les en éloigner ou de
-réduire leur capacité d'actions lorsque elles arrivent dans ce milieu
+Tout un système de domination masculine qui n'est pas exclusif à la politique, mais qui permet de les en éloigner ou de réduire leur capacité d'actions lorsque elles arrivent dans ce milieu
 
 Cela est aussi représentatif dans les média ou en 2021 il y avait seulement 18.9% de femmes représentées.
 
