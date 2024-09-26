@@ -153,3 +153,18 @@ Les position sociale des musulman vont influencer les projections associés.
 Lexique de l'imposition de la religion revient beaucoups dans entretients; Permet l'intensification du racisme. Islamophobie combine un determinisme ou les musulman serait forcement étranegr et aussi un libre arbitre disant qu'il ne veulent pas s'integrer.
 
 Quand le fait d'être musulman est vu comme choisi on lui oppose la fait de pouvoir choisir de ne plus l'être. Et le fait de le rester, de façon visible, est vu comme une provocation supplémentaire.
+
+Les personne identifié comme arabe o turlque souvent percu par défaut comme musulman. Les marqueurs visible de religion serton vu comme des "fait aggracant".
+
+Le bon immigré sera un non musulman ou un pratiquant discret. "L'ami turc" et un "bon" parceque il ne convient pas à l'image de l'integriste. Le racisme n'est pas n'est pas une simple ignorance, il existe des volonté de savoir raciste.
+
+Forme de paranoia raciste, sentiment d'être envahi, qu'il existe une volonté de nuire de la part des musulman. Sentiment d'une bataille, d'une guerre. Forme de "racialisation conspiratoire"
+
+La présence de l'islam vient heurter la notion de norme et la vision d'une france dans laquelle l'islam restera une sorte de religion étrangère (deuxième religion en France).
+Le musulman est considéra comme un intru, comme une forme d'ennemi.
+
+La présence de l'islam est ainsi intérrogé et questionné dans les lieux ou elle se manifeste. Accentuant la différenciation et la distanciation des groupes.
+
+## Vote Blanc
+
+Dans discours publique le jugement sur les electeur RN ossciele entre codanation morale et misérabilisme

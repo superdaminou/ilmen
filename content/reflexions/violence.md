@@ -23,13 +23,18 @@ De quel type de violences parle-t-on ? On voit facilement quelques formes qui re
 
 Et on peut encore citer d'autres : symbolique, de classe, d'Etat, au travail…
 
-Il me semble que la violence est souvent perçue comme une négation. On nie la capacité d'une personne à être ce qu'elle veut. On l’empêche de s'exprimer et de se mouvoir. On détruit sa psyché en la dénigrant. En la faisant être autre que ce qu'elle veut être.
+Il me semble que la violence est souvent perçue comme une négation. On nie la capacité d'une personne à être ce qu'elle veut être. On l’empêche de s'exprimer et de se mouvoir. On détruit sa psyché en la dénigrant. En la faisant être autre que ce qu'elle veut être.
+
+Je dirais que d'un point de vue [[essentialisme|essentialiste]], ce sont les faits qui irait contre l'essence d'un être.
+D'un point de vue plus [[existentialisme|existentialiste]] cela serait les faits qui irait contre ce que la personne voudrait ou essaye d'être.
 
 Cependant, il apparaît assez vite que nous ne sommes pas tous d'accord sur ce qu'est vraiment une violence. Il suffit de suivre un peu le combat des féministes sur la notion de violence sexuelle. Tous ces débats pour savoir si une main au cul non consenti est ou non une agression sexuelle, qui ont permis de ramener et de faire émerger dans le débat public le concept de consentement.
 
 La qualification de violence parait donc être subjective. Si elle est subjective, il me semble crucial d'écouter attentivement dès qu'une personne nous dit subir de la violence. Il faut qu'on comprenne d'où vient le sentiment de violence. Qu'est-ce qui a été nié ? pourquoi ?
 
-Et on pourrait même en arriver à justifier la violence. On l'a même déjà fait, on le fait même tout le temps. Peu de personnes condamnent [[../philosophie/morale/morale|moralement]] les résistants français qui ont commis des actes de violences physiques sur l’occupant nazi. On accepte assez volontiers qu'une personne se défende violemment contre un agresseur. Après tout, on accepte toujours collectivement la notion [[socio_delinquance|d'emprisonnement]] et l'isolement, qui est une forme de violence que l'on inflige au prisonnier. On choisit, en tant que société, de laisser la [[ou_va_argent_pauvre|pauvreté]] exister.
+Détecter et comprendre le mécanisme de violence est crucial pour comprendre la façon dont elle structure notre organisation et la juger.
+
+On pourrait même facilement en arriver à justifier la violence. On l'a même déjà fait, on le fait même tout le temps. Peu de personnes condamnent [[../philosophie/morale/morale|moralement]] les résistants français qui ont commis des actes de violences physiques sur l’occupant nazi. On accepte assez volontiers qu'une personne se défende violemment contre un agresseur. Après tout, on accepte toujours collectivement la notion [[socio_delinquance|d'emprisonnement]] et l'isolement, qui est une forme de violence que l'on inflige au prisonnier. On choisit, en tant que société, de laisser la [[ou_va_argent_pauvre|pauvreté]] exister.
 
 On voit des violences qui étaient réprimées et disqualifiées à un moment de l'histoire être glorifié à un autre moment et inversement. Est-il possible que certains actes auto disqualifiés aujourd'hui car caractérisé de violent soit plus tard considéré comme justifié ? Il y a peu de raison que ça ne soit pas le cas. À l'inverse, est-ce que le fait de tuer **des centaines de millions** d'animaux chaque jour sera demain vu comme un acte d'une violence sans nom là où aujourd'hui, elle est vue socialement comme un simple fait ?
 
@@ -48,3 +53,5 @@ La violence est souvent le résultat d'une organisation hiérarchique :
 - [[/fiche_lecture/plus_femme_politique.md|Plus de femme en politique]]
 - [Critique de la violence W. Benjamin](https://major-prepa.com/culture-generale/violence-droit-critique-benjamin/)
 - [Sapiens](https://www.fnac.com/a8625757/Yuval-Noah-Harari-Sapiens-edition-2022)
+- [BIEN FAIT - La croyance en un monde juste - Conférence du Rec 2022](https://www.youtube.com/watch?v=aYP7WXhQQFY)
+-

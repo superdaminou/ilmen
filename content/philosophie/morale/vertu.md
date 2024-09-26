@@ -6,6 +6,9 @@ tags:
 draft: false
 ---
 
+> [!info] TL;DR
+> Une action est bonne si les intentions sont bonnes
+
 La morale de la vertu s'intéresse plus aux acteurs eux-mêmes et à leurs intentions.
 
 Par exemple si pour sauver une personne deux meurent, les [[consequentialisme|conséquentialiste]] y verrons plutôt une action amorale. Pour un verteux, on s'intéressera aux intentions. Savions-nous que deux personnes aller mourir ? Est-ce qu'on voulait sauver une personne sans connaitre les conséquences ? Si oui alors notre action pourra être jugée comme morale.

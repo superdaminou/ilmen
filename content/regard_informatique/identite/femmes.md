@@ -52,3 +52,4 @@ En tant que travailleurs, nous sommes en partie responsables de cet environnemen
 - [Mais où sont les informaticiennes ?](https://www.cairn.info/revue-travail-genre-et-societes-2016-2-page-167.htm)
 - [La SCIENCE est-elle SEXISTE ? I Vortex Off I ARTE}](https://www.youtube.com/watch?v=fzm36EMWkbE)
 - [Grace Hopper: Full lecture at the University of Tennessee, 1983](https://www.youtube.com/watch?v=wHdHCoeUbU4)
+- [Le Mythe de la virilité](https://www.babelio.com/livres/Gazale-Le-Mythe-de-la-virilite/992131)

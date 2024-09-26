@@ -21,13 +21,12 @@ En plus d'être amené à nous tromper, nous sommes sensible à la tromperie. Un
 
 Avoir un esprit critique est compliqué, car cela demande de se battre contre soi-même. Cela demande d'être en mesure de connaître, identifier et maîtriser ses biais et se protéger de ceux des autres. Cela demande de remettre en cause la confiance que nous avons en nous-même et en notre environnement.
 
-Si nous pouvons être aussi facilement manipulables pourquoi ne le serais je pas actuellement ? Pourquoi ce que je dis ne serait pas le résultat de mes biais ? À quel point je préfère ignorer certains biais plutôt que de remettre l'[[evidence|évidence]] ?
+Si nous pouvons être aussi facilement manipulables pourquoi ne le serais je pas actuellement ? Pourquoi ce que je dis ne serait pas le résultat de mes biais ? À quel point je préfère ignorer certains biais plutôt que de remettre en cause l'[[evidence|évidence]] ?
 
-Alors nous ne sommes pas condamnés et ne devons pas tomber dans la paranoïa, mais plutôt nous entraîner. Apprendre et comprendre nos biais et notre fonctionnement interne pour plus facilement identifier quand l'on risque de se tromper. Comprendre la rhétorique et le fonctionnement des médias pour nous prémunir des discours.
+Alors nous ne sommes pas condamnés et ne devons pas tomber dans la paranoïa, mais plutôt nous entraîner. Apprendre et comprendre nos biais et notre fonctionnement interne pour plus aisément identifier quand l'on risque de se tromper. Comprendre la rhétorique et le fonctionnement des médias pour nous prémunir des discours.
 
 ## Ressources diverses
 
 - [Hygiène mentale](https://www.youtube.com/c/Hygi%C3%A8neMentale)
 - [# Tous racistes ? Les biais implicites — Crétin de Cerveau #7](https://www.youtube.com/watch?v=850Zr6dzxYU&t=333s)
-- Le doute socrastique
-- Descartes
+- [BIEN FAIT - La croyance en un monde juste - Conférence du Rec 2022](https://www.youtube.com/watch?v=aYP7WXhQQFY)

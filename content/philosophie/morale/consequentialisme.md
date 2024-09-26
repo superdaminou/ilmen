@@ -7,6 +7,9 @@ tags:
 draft: false
 ---
 
+> [!info] TL;DR
+> Une action est bonne si c'est conséquence sont bonnes
+
 Le [[deontologie|déontologisme]] est rapidement mis à l'épreuve lorsqu'on essaie de trouver des cas plus complexes et de se confronter à des exercices de pensée.
 
 Prenons le plus connu : celui du dilemme du tramway, ou trolley problem. Un tramway roule vers un embranchement. S'il continue tout droit, il écrasera cinq personnes attachées à la voie. S'il dévie, une seule personne mourra. Nous avons le levier à portée de main et pouvons faire dévier le tram, ce qui tuera une personne au lieu de cinq. Quelle est la "bonne chose à faire" ?

@@ -6,6 +6,9 @@ tags:
   - vulgarisation
 ---
 
+> [!info] TL;DR
+> Une action est bonne si elle corresponds aux règles morales
+
 C'est assez simplement le fait d'avoir un certain nombre de "règle morale" sur lesquelles il est impossible de transiger.
 
 Un exemple très simple est le mensonge. Il parait [[evidence|évident]] de dire qu'il est mal de mentir. Cette forme de la morale que l'on associe régulièrement au philosophe Kant et une morale qui est sûrement la plus facile à aborder car elle pourrait facilement être transposée au système légal courant.
