@@ -1,10 +1,12 @@
 ---
-title: des electeurs ordinaires
+title: Des électeurs ordinaires
 draft: false
 tags:
   - fiche_lecture
   - sociologie
 ---
+
+[Des électeurs ordinaires, Enquête sur la normalisation de l'extrême droite - Félicien Faury ](https://www.babelio.com/livres/Faury-Des-electeurs-ordinaires--Enquete-sur-la-normalis/1660658)
 
 Montée de l'extrême droite à travers le lepénisme depuis sa première percée en 1984. Désormais une force politique majeure, il est nécessaire de s'intéresser à ceux qui votent pour ce mouvement.
 
