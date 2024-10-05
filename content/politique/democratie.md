@@ -53,8 +53,6 @@ C'est pour cela qu'il faut que l'on discute et mette en place des outils adapté
 
 ## L'organisation institutionnelle de la démocratie
 
-Voici le texte corrigé :
-
 La démocratie dont on parle le plus est souvent inscrite dans un cadre institutionnel. C'est-à-dire dans une entité globale que peut être l'État lui-même, composé d'un ensemble d'entités juridiques et institutionnelles. En France, ces institutions sont le Sénat, l'Assemblée nationale ou encore le Gouvernement.
 
 Ces institutions sont découpées de telle façon qu'elles délimitent et encadrent la démocratie. C'est un ensemble de contre-pouvoirs permettant d'assurer le fonctionnement démocratique et de limiter les risques de dérives.

@@ -38,7 +38,7 @@ Les fluidités existent mais les renversements sont rares. Les Orcs sont mauvais
 
 Les cas qui sortent de ces schémas sont des anomalies, des parias. Sujet du dépassement de sa condition mais souvent révélé comme étant au final leur essence depuis le début.
 
-Cet essentialisme transparait dans la culture populaire et des approches comme "la découverte de soi". Le fait de se révéler, de montrer "notre vraie nature". L'héro est un héro par nature, par essence et les épreuves sur la route et les doutes ne sont là que pour mieux révéler sa réelle nature.
+Cet essentialisme transparait dans la culture populaire et des approches comme "la découverte de soi". Le fait de se révéler, de montrer "notre vraie nature". Le héro est un héro par nature, par essence et les épreuves sur la route et les doutes ne sont là que pour mieux révéler sa réelle nature.
 
 Procédé qui permet aussi de mettre en scène des flashbacks et des anecdotes dans l'histoire du héro où l'on voit les traces et les indices qui font dire "mais oui depuis le début".
 
@@ -47,9 +47,9 @@ Nous sommes et serons toujours ce que nous étions.
 En repensant à Star Wars, il me semble Dark Vador représente bien ça.
 
 Est-ce que Anakin a toujours été bon au fond ? Son moment Dark Vador serait "juste" une version énervée de la crise d'adolescence ?
-Et le dernier sacrifice et sauvetage de Luc ne serait que la réémergence de son essence ? Cette théorie peut être appuyée par son apparition finale à travers la force aux côtés des autres maitres jedis et sous un physique autre que quand il était DarkVador.
+Et le dernier sacrifice et sauvetage de Luc ne serait que la réémergence de son essence ? Cette théorie peut être appuyée par son apparition finale à travers la force aux côtés des autres maitres jedis et sous un physique autre que quand il était DarkVador (Anakin jeune dans les version plus récentes).
 
-Je ne sais pas à quel point ce procédé peut être conscient, je pense que notre culture occidentale et historiquement imprégné d'essentialisme et qu'en conséquence, il est impossible que cela n'apparaissent pas dans les œuvres.
+Je ne sais pas à quel point ce procédé peut être conscient, je pense que notre culture occidentale et historiquement imprégné d'essentialisme et qu'en conséquence, il est impossible que cela n'apparaissent pas dans les œuvres et nos impensés.
 
 ## Ressources diverses
 

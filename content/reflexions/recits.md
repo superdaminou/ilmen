@@ -37,3 +37,4 @@ Choisissons bien nos récits.
 - [La révolution culturelle nazie](https://www.gallimard.fr/Catalogue/GALLIMARD/Tel/La-revolution-culturelle-nazie)
 - [Libres d’obéir](https://www.gallimard.fr/Catalogue/GALLIMARD/NRF-Essais/Libres-d-obeir#)
 - [La Fin de l'homme rouge - ou le temps du désenchantement](https://www.babelio.com/livres/Alexievitch-La-Fin-de-lhomme-rouge-ou-le-temps-du-desenchan/838664)
+- [Le Mythe de la virilité](https://www.babelio.com/livres/Gazale-Le-Mythe-de-la-virilite/992131)
