@@ -18,10 +18,9 @@ En ce reposant majoritairement sur des arguments pseudo-scientifique et du cherr
 
 Dans la science comme elle se pratique aujourd'hui, par exemple en physique, un comportement observé qui ne correspond pas aux règles définis amènera sur une remise en question de la loi et non pas une exclusion du comportement en dehors du naturel.
 
-## Justification essentialiste
+## Justification [[essentialisme|essentialiste]]
 
-A l'inverse, elle permet aussi de justifier des comportements qui seraient eux remis en cause.
-On peut le retrouver notamment dans les comportements qui sont socialement remis en cause.
+À l'inverse, elle permet aussi de justifier des comportements qui seraient remis en cause, notamment socialement.
 
 On peut penser aux hommes qui seraient "naturellement" attirés par le sexe et ne saurait y résister, car ça fait partie de leurs "besoins naturels".
 
@@ -29,14 +28,16 @@ De la même façon que cela permet de justifier une assignation des femmes à un
 
 Cet argument du naturel permet encore d'assigner des places, des positions et des rapports de dominations sous couverts de positions qui seraient naturelles et en conséquent immuables.
 
+Attribuer à une autre "race" une nature violente, indomptable et insoumise permet de justifier une réponse violente et une soumission forte, voir une destruction.
+
 ## Réalisations humaines
 
 Nos constructions physiques ne sont jamais(?) catégorisées comme naturelles. Elles sont humaines oui, mais pas naturelle. Comme si on devait bien le différencier du reste, de ce qui se fait sans nous, sans notre intervention et dans lequel nous n'avons aucun rôle.
 
-Pourtant encore une fois, nous faisons partie du règne animal et de ce monde, les comportements et construction que nous produisons n'ont pas de raison d'être sorti du naturel.
+Pourtant, encore une fois, nous faisons partie du règne animal et de ce monde, les comportements et construction que nous produisons n'ont pas de raison d'être sorti du naturel.
 
 Est-ce qu'un barrage de castors est naturel ? Un seul castor peut construire à lui tout seul un barrage. Les ruches sont construites par un ensemble d'individus. Qu'est-ce qui justifie que nos réalisations soient hors du naturel ?
-Un argument pourrait être la notion d'industrialisation sous-jacente de nos réalisations, ou le nombre de transformation. De façon plus simple "la complexité" de la réalisation. Jusqu'ici, je n'ai pas réussi à trouver de seuil de complexité précis.
+Un argument pourrait être la notion d'industrialisation sous-jacente de nos réalisations ou le nombre de transformations. De façon plus simple "la complexité" de la réalisation. Jusqu'ici, je n'ai pas réussi à trouver de seuil de complexité précis.
 
 ## Ressources diverses
 
@@ -46,3 +47,5 @@ Un argument pourrait être la notion d'industrialisation sous-jacente de nos ré
 - [Le guide du féminisme pour les hommes et par les hommes ](https://www.librairie-des-femmes.fr/livre/9782290202739-le-guide-du-feminisme-pour-les-hommes-et-par-les-hommes-michael-kaufman-michael-kimmel-pacco/)
 - [La révolution culturelle nazie](https://www.gallimard.fr/Catalogue/GALLIMARD/Tel/La-revolution-culturelle-nazie)
 - [Le pouvoir de la rhétorique](https://www.seuil.com/ouvrage/le-pouvoir-rhetorique-clement-viktorovitch/9782021465877https://www.seuil.com/ouvrage/le-pouvoir-rhetorique-clement-viktorovitch/9782021465877)
+- [Le Mythe de la virilité](https://www.babelio.com/livres/Gazale-Le-Mythe-de-la-virilite/992131)
+- [Exterminez toutes ces brutes](https://www.youtube.com/watch?v=QfoI4jNozFg)

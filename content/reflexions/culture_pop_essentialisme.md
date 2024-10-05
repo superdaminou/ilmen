@@ -18,7 +18,7 @@ La connaissance de ce nom permet de connaitre et de manipuler ce qui y est assoc
 
 De manières plus transverses la quête du nom est souvent utilisé comme moyen de rechercher une identité profonde. Dans la série "Les anneaux de pouvoir" un des personnages est amnésique et ne se souvient plus de son nom. A la recherche de son identité et lorsqu'on lui propose d'autre nom temporaire, il répond qu'un nom ne s'attribue pas comme ça, qu'il existe et ne peut être changé par un autre chose.
 
-Le nom est l'objet de la [[recits|quête]] et de l'identité. Parfois en étant déchu de son nom, en l'ayant perdu, ou en découvrant que l'on a un "vrai nom". Le nom est vecteur de l'identité et de l'essence de l'individu.
+Le nom est l'objet de la [[recits|quête]] et de l'identité. Parfois en étant déchu de son nom, en l'ayant perdu, ou en découvrant que l'on a un "vrai nom". Le nom est fondement et vecteur de l'identité et de l'essence de l'individu.
 
 ## L'identité de race
 
@@ -44,7 +44,7 @@ Procédé qui permet aussi de mettre en scène des flashbacks et des anecdotes d
 
 Nous sommes et serons toujours ce que nous étions.
 
-En repensant à Star Wars, il me semble Dark Vador représente bien ça .
+En repensant à Star Wars, il me semble Dark Vador représente bien ça.
 
 Est-ce que Anakin a toujours été bon au fond ? Son moment Dark Vador serait "juste" une version énervée de la crise d'adolescence ?
 Et le dernier sacrifice et sauvetage de Luc ne serait que la réémergence de son essence ? Cette théorie peut être appuyée par son apparition finale à travers la force aux côtés des autres maitres jedis et sous un physique autre que quand il était DarkVador.

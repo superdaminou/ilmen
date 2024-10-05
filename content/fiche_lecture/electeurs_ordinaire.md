@@ -1,6 +1,6 @@
 ---
 title: des electeurs ordinaires
-draft: true
+draft: false
 tags:
   - fiche_lecture
   - sociologie
@@ -8,7 +8,7 @@ tags:
 
 Montée de l'extrême droite à travers le lepénisme depuis sa première percée en 1984. Désormais une force politique majeure, il est nécessaire de s'intéresser à ceux qui votent pour ce mouvement.
 
-Étude dans le sud-est, un lieu historique de l'extrême droite. L'électorat est tendanciellement moins ouvrier et moins frappé par la pauvreté. Il s'agit principalement de classes populaires et moyennes stabilisées.
+L'étude à lieu dans le sud-est, un lieu historique de l'extrême droite. L'électorat est tendanciellement moins ouvrier et moins frappé par la pauvreté. Il s'agit principalement de classes populaires et moyennes stabilisées.
 
 Le vote est l'expression de préférences structurées collectivement et par affinité.
 
@@ -118,53 +118,157 @@ La stratégie et l'anticipation résidentielles sont structurées par des schém
 
 ## Islamophobie du quotidien
 
-Islamophobie designe l'ensemble des préjugé et pratiques discriminatoire a l'encontre de musulman ou personne supposés comme telles. Droite et extreme doroite ou la rejet explicite et affirmé des musumlman est le plus haut.
+L'islamophobie désigne l'ensemble des préjugés et pratiques discriminatoires à l'encontre des musulmans ou des personnes supposées comme telles. À droite et à l'extrême droite, le rejet explicite et affirmé des musulmans est particulièrement prononcé.
 
-Conscensus scientifique sur le terme mais pas politique. Disqualification active du terme dans l'ecosysteme francais. Tentative d'éloignement du racisme en faisant appel au droit de critiquer les religions.
+Il existe un consensus scientifique sur le terme, mais pas un consensus politique. En France, le terme est activement discrédité. Certains cherchent à éloigner le débat de la question du racisme en invoquant le droit de critiquer les religions.
 
-Le racisme ne se repose pas que sur l'idée de race biologique mais sur tout en ensmble referent (culture/religion,...) permettant d'essentialiser. les religion pouvant être racialisé.
+Le racisme ne repose pas uniquement sur l'idée de race biologique, mais sur un ensemble de référents (culture, religion, etc.) permettant l'essentialisation. Les religions peuvent ainsi être racialisées.
 
-musulman souvent utilisé comme terme équivalent a arabe/turc/immigré
+Le terme "musulman" est souvent utilisé comme équivalent d'"Arabe", de "Turc" ou d'"immigré".
 
-Electeur RN majorité des catho faiblemant pratiquant et sensible au instiution. Plus un ensemble de tradition (noel, paques). Cela reste une reference dans les discours et dans l'identification d'une culture. Mise en avant du fait religieux comme différenciants. Pratique catholique qui serait partagé par tous les blanc européen et qui s'oppose à l'immigration magrébine.
+Les électeurs du Rassemblement National sont majoritairement des catholiques peu pratiquants, attachés aux institutions et aux traditions (Noël, Pâques). Ces traditions restent une référence dans les discours et dans l'identification à une culture. Le fait religieux est mis en avant comme un élément de différenciation. La pratique catholique est perçue comme partagée par tous les Blancs européens, en opposition à l'immigration maghrébine.
 
-La référence au catholicisme permet d'affirmer son appartenance a un groupe.
+La référence au catholicisme permet d'affirmer son appartenance à un groupe.
 
-Islamophonbie aussi pratiqué par des athé. Islam percu plus négativement que catholocisme. Islma reste associé l'exterieur a l'autre et identifié comme trop visible.
+L'islamophobie est aussi pratiquée par des athées. L'islam est perçu plus négativement que le catholicisme. L'islam reste associé à l'extérieur, à "l'autre", et est vu comme trop visible.
 
-Reunion du catholicime patrimonalisé et laiciété identitaire contre l'islam.
+Il y a une convergence entre le catholicisme patrimonialisé et la laïcité identitaire contre l'islam.
 
-Utiliastion rhétorique de l'aspect patriarcale de la religion musulman et inégalité homme-femme. Ne prends pas en compte la diversité des pratiques et exclu le grouep majoriraiter de la participation a l'ordre patriarcal.
+On fait souvent usage de la rhétorique concernant l'aspect patriarcal de la religion musulmane et l'inégalité homme-femme, sans prendre en compte la diversité des pratiques, ce qui exclut le groupe majoritaire des musulmans de la participation à l'ordre patriarcal.
 
-Exemple du Bar du village maitenant détenu par des musulman ou il est pointé qu'il y a majoritaire que des hommes. Argument appuyant la différence de comportement sans prendre en compte qu'avec l'ancien proprio il y avait aussi peu de femme.
+Un exemple cité est celui d'un bar du village désormais tenu par des musulmans, où il est pointé qu'il y a principalement des hommes. Cet argument met en avant une différence de comportement, sans tenir compte qu'avec l'ancien propriétaire, il y avait également peu de femmes.
 
-Voile vu comme systématiquement imposé et comme marque de non assimilation. Le problème etant le type d'assignation de la femme et non l'assignation elle même. Condamtion des signes étranger du sexisme.
+Le voile est systématiquement vu comme imposé et comme un signe de non-assimilation. Le problème soulevé est le type d'assignation de la femme, et non l'assignation en elle-même. On condamne les signes étrangers de sexisme.
 
-Normalisation et invisiblisation du sexisme "a la francaise". Erotisation et sexualisation du corp des femmes voilé avec regret de ne pouvoir "en profiter". Probable lien avec le fantasme du dévoilement.
+Le sexisme "à la française" est normalisé et invisibilisé. Il y a une érotisation et une sexualisation du corps des femmes voilées, accompagnées du regret de ne pouvoir "en profiter". Cela peut être lié au fantasme du dévoilement.
 
-Injonction paradoxale quand une femme musulmane n'est pas voilé mais ne boit pas d'alcool. Vu comme une forme de incohérence avec une assignation totale a une identité.
+Il existe une injonction paradoxale lorsqu'une femme musulmane n'est pas voilée mais ne boit pas d'alcool. Elle est perçue comme incohérente par rapport à l'assignation totale à une identité.
 
-Port du voile aussi vu comme une provocation et est surpolitisé en y associant une volonté d'imposé la religion.
+Le port du voile est aussi perçu comme une provocation, et est surpolitisé, associé à une volonté d'imposer la religion.
 
-Discours islamphobe sur le voile dis un coup que les femmes sont soumise et un autre moment qu'elles sont dangereuse et font du proselitisme.
+Les discours islamophobes sur le voile disent à la fois que les femmes sont soumises et, à d'autres moments, qu'elles sont dangereuses et font du prosélytisme.
 
-Les position sociale des musulman vont influencer les projections associés.
+La position sociale des musulmans influence les projections qui leur sont associées.
 
-Lexique de l'imposition de la religion revient beaucoups dans entretients; Permet l'intensification du racisme. Islamophobie combine un determinisme ou les musulman serait forcement étranegr et aussi un libre arbitre disant qu'il ne veulent pas s'integrer.
+Le lexique de l'imposition de la religion revient fréquemment dans les entretiens, ce qui permet l'intensification du racisme. L'islamophobie combine un déterminisme, où les musulmans seraient forcément étrangers, et une notion de libre arbitre, affirmant qu'ils ne veulent pas s'intégrer.
 
-Quand le fait d'être musulman est vu comme choisi on lui oppose la fait de pouvoir choisir de ne plus l'être. Et le fait de le rester, de façon visible, est vu comme une provocation supplémentaire.
+Lorsque le fait d'être musulman est perçu comme un choix, on leur oppose la possibilité de ne plus l'être. Le fait de le rester, de manière visible, est vu comme une provocation supplémentaire.
 
-Les personne identifié comme arabe o turlque souvent percu par défaut comme musulman. Les marqueurs visible de religion serton vu comme des "fait aggracant".
+Les personnes identifiées comme Arabes ou Turques sont souvent perçues par défaut comme musulmanes. Les marqueurs visibles de religion sont considérés comme des "faits aggravants".
 
-Le bon immigré sera un non musulman ou un pratiquant discret. "L'ami turc" et un "bon" parceque il ne convient pas à l'image de l'integriste. Le racisme n'est pas n'est pas une simple ignorance, il existe des volonté de savoir raciste.
+Le "bon" immigré sera un non-musulman ou un pratiquant discret. L'"ami turc" est perçu comme un "bon" immigré parce qu'il ne correspond pas à l'image de l'intégriste. Le racisme ne relève pas d'une simple ignorance, il existe des volontés conscientes de savoir raciste.
 
-Forme de paranoia raciste, sentiment d'être envahi, qu'il existe une volonté de nuire de la part des musulman. Sentiment d'une bataille, d'une guerre. Forme de "racialisation conspiratoire"
+Il y a une forme de paranoïa raciste, un sentiment d'être envahi, avec l'idée qu'il existe une volonté de nuire de la part des musulmans. Cela s'accompagne du sentiment d'une bataille, d'une guerre. C'est une forme de "racialisation conspiratoire".
 
-La présence de l'islam vient heurter la notion de norme et la vision d'une france dans laquelle l'islam restera une sorte de religion étrangère (deuxième religion en France).
-Le musulman est considéra comme un intru, comme une forme d'ennemi.
+La présence de l'islam heurte la notion de norme et la vision d'une France où l'islam reste une religion étrangère (bien qu'il s'agisse de la deuxième religion en France). Le musulman est perçu comme un intrus, voire comme un ennemi.
 
-La présence de l'islam est ainsi intérrogé et questionné dans les lieux ou elle se manifeste. Accentuant la différenciation et la distanciation des groupes.
+La présence de l'islam est ainsi interrogée et remise en question dans les lieux où elle se manifeste, accentuant la différenciation et la distanciation entre les groupes.
 
 ## Vote Blanc
 
-Dans discours publique le jugement sur les electeur RN ossciele entre codanation morale et misérabilisme
+Dans le discours public, le jugement sur les électeurs du Rassemblement National (RN) oscille entre condamnation morale et misérabilisme. La condamnation morale permet de se différencier, tandis que le misérabilisme conduit à éprouver de l'empathie pour la violence sociale, en se concentrant uniquement sur les questions socio-économiques. Cette vision permet de relativiser le racisme de l'électorat et de le voir comme un facteur marginal.
+
+Pourtant, le racisme est crucial dans la préférence politique d'extrême droite. Le racisme n'existe pas seulement au niveau individuel, mais s'inscrit dans une structure dans laquelle les électeurs se positionnent. Le vote a une signification symbolique et politique : lorsqu'on vote, on s'inscrit aussi dans un groupe.
+
+Le vote RN peut être compris comme une forme d'inscription dans une politique de la race.
+
+Les électeurs du RN ne sont pas opposés à toute immigration. 77 % étaient favorables à l'accueil des immigrés ukrainiens, tout en faisant une distinction entre ces derniers et les immigrés non européens.
+
+Il y a une utilisation d'une distinction entre migrants "européens" et "autres". Beaucoup d'électeurs sont eux-mêmes issus de l'immigration italienne, polonaise, etc.
+
+Ces groupes d'immigrés européens sont souvent utilisés et idéalisés comme des exemples de bonne intégration et de volonté de travailler. On observe également cette idéalisation avec la minorité asiatique, souvent présentée comme une "minorité modèle". Cela permet à certains de se défaire de l'accusation de racisme en montrant leur affection pour d'autres minorités.
+
+Le racisme n'est pas uniquement une haine sans raison. Il y a une attribution de spécificités aux groupes, ce qui permet de justifier la haine.
+
+La blanchité désigne la position dominante dans un système racialisé, qui permet de définir la norme et de structurer les hiérarchies.
+
+Par exemple, on peut citer l'immigration irlandaise aux États-Unis, où les Irlandais ont soutenu les politiques de ségrégation des Afro-Américains pour s'assimiler à la société "blanche".
+
+Se démarquer et rejeter un groupe permet de se positionner dans la hiérarchie.
+
+Il existe aussi des personnes racisées qui votent RN et qui sont associées aux minorités. Ces personnes tentent de se distinguer des autres groupes tout en étant conscientes de pouvoir y être assimilées. Elles fournissent des efforts pour s'intégrer au groupe dominant, en mobilisant des marqueurs tels que le travail et les impôts, et en accentuant leur différence avec les groupes minorisés pour s'en distinguer.
+
+Altériser un groupe racialisé de manière plus forte peut permettre d'éloigner le danger pesant sur son propre groupe.
+
+Les enquêtes montrent que très peu de membres des minorités ethnoraciales votent pour le RN.
+
+Les électeurs sont aussi en partie marqués par des expériences de rejet et d'altérisation, comme les ouvriers forcés à la mobilité suite à des fermetures d'usines. Certaines formes de discrimination régionale subie n'empêchent pas ces électeurs de promouvoir une discrimination nationale.
+
+Il y a un sentiment de risque d'être assimilé aux "vrais étrangers", ce qui conduit à une stratégie d'affirmation de l'appartenance nationale.
+
+Partir pour échapper aux étrangers comporte le risque de se retrouver soi-même dans cette position, et d'être assimilé aux stigmates qu'ils imposent.
+
+Voter RN et le dire publiquement peut servir de gage social et racial. C'est être un "bon Français". Le vote RN ressemble davantage à un vote de conformité et d'intégration au groupe national majoritaire.
+
+Les processus de racialisation sont dynamiques, et les électeurs du RN participent à leur niveau à la mise en place de cette racialisation. Leur position reste fragile, et ces électeurs en sont conscients. Ils craignent de devenir eux-mêmes minorisés, et sont donc attentifs aux discours consolidant les frontières raciales.
+
+## Logique d'une normalisation
+
+Le vote RN a longtemps été considéré comme honteux et provoquait une sous-déclaration. Cette sous-déclaration est de moins en moins effective. Maintenant, de nombreux sondages surestiment le score du RN, car les gens n'hésitent plus à dire qu'ils votent pour ce parti.
+
+Entre proches et connaissances, il est plus facile de dire qu'on vote RN. Cela peut devenir normal, car ce vote s'inscrit dans un contexte social où il peut être valorisé. Les individus votent en groupe et non de manière isolée ou imperméable à leur entourage. La morale, notre entourage personnel et professionnel, ainsi que les normes sociales et politiques, nous influencent.
+
+Si le RN devient une option acceptable, voire ordinaire, c'est grâce à un ensemble de processus qui rendent "normal", voire valorisé, le fait de voter RN dans certains groupes sociaux.
+
+Les gens qui votent RN vivent souvent avec des gens qui votent RN. Comme pour toutes les orientations politiques, on retrouve une homogénéité politique dans les entourages proches, les connaissances et même les milieux professionnels.
+
+La connaissance qu'un vote est partagé permet de justifier et de normaliser son propre vote. Si tout le monde vote RN dans le village et que cela se sait, alors voter RN n'est plus un choix déviant.
+
+Le racisme, étant intériorisé comme quelque chose de honteux et associé à l'ignorance, pousse les électeurs à se défendre en soulignant que le vote RN n'est pas un vote aveugle, mais bien une colère orientée contre des minorités spécifiques.
+
+Désormais, un caractère collectif, qui se légitime de lui-même, est revendiqué dans le rejet de certaines minorités. Cette légitimité est rationalisée par le succès du RN dans certains territoires.
+
+Le rejet d'une minorité permet de créer un liant et une thématique facilitant les échanges entre personnes.
+
+Le vote RN est également le produit d'une sociabilité et la marque d'appartenance à un groupe social.
+
+Le vote exprime une certaine image de nous-mêmes. Face aux accusations d'ignorance, les électeurs RN mettent en avant leur vécu et leur connaissance des situations conflictuelles. Ils rejettent l'ignorance sur les antiracistes, perçus comme angéliques, arrogants et manquant de connaissance ou de relations avec les minorités.
+
+La gauche est associée à la figure du moralisateur et à certains archétypes : professeurs, artistes, journalistes. Il existe une hostilité très forte envers les "élites du diplôme". Le niveau de diplôme est le marqueur le plus prédictif du vote RN.
+
+Les électeurs RN valorisent leur place dans la société par le travail, avec une orientation plus forte vers la réussite économique que culturelle. L'anti-intellectualisme peut être vu comme un refus de la violence symbolique et un sentiment de mépris de classe face aux leçons données par les petites élites culturelles.
+
+Ils valorisent les élites économiques lorsqu'elles sont identifiées comme ayant réussi grâce à leur travail. En revanche, ils critiquent la richesse lorsqu'elle est perçue comme illégitime, souvent à travers la figure du banquier, du rentier ou du grand patron.
+
+La gauche est systématiquement perçue comme trop favorable aux immigrés, d'un point de vue économique et réglementaire. Il y a une présomption de vote pour la gauche de la part des minorités. Malgré une très forte abstention électorale, ces populations sont vues comme très participatives.
+
+On observe une augmentation du rejet de la "droite traditionnelle", perçue comme ayant trahi ses électeurs et n'ayant pas tenu ses promesses. Cela conduit à une radicalisation à droite des électeurs, déçus et se sentant trahis par Sarkozy, accusé de s'être enrichi. Il y a un ressentiment envers une droite qui profite de l'argent et qui est souvent accusée de détournement ou d'étalage de richesse.
+
+L'impossibilité d'aller à gauche et la déception envers la droite ne laissent que l'extrême droite comme option de repli.
+
+Il y a une indifférenciation croissante entre les champs politiques et un rejet global du personnel politique, perçu comme presque étranger socialement. Ce fait est en partie vérifié par une certaine homogénéité sociale de la classe politique, assimilée à l'élite économique et culturelle.
+
+Emmanuel Macron est perçu comme représentant cette combinaison. Associé à Rothschild et qualifié d'intelligent, il cumule, aux yeux des électeurs, les tares des deux élites. Son positionnement flou entre la droite et la gauche accentue le sentiment d'une classe politique indifférenciée.
+
+Le RN n'est pas immunisé contre ces critiques. Il reste perçu comme un parti parmi d'autres. Cependant, il est vu comme le seul capable de jouer un rôle sur la question de l'immigration. Là où la gauche est perçue comme défendant par défaut les minorités, le RN est vu comme défendant par défaut la majorité.
+
+Les discours du RN et de Marine Le Pen permettent également de créer de l'identification. Le discours résonne et active les dispositions xénophobes de certains électeurs RN. Son discours public légitime les prises de position. Marine Le Pen sert de repère électoral, et une grande partie de la confiance est placée en sa personne.
+
+Contrairement à Éric Zemmour, qui était relativement peu connu de l'électorat RN lors des élections de 2022. Son émergence rapide dans le milieu politique a même provoqué une certaine méfiance. Son profil n'a pas suscité beaucoup d'intérêt global.
+
+D'après les enquêtes, la candidature de Zemmour a surtout attiré les plus politisés. Par ailleurs, pour attirer des personnes peu investies en politique, la nouveauté n'est pas forcément un avantage. Marine Le Pen fait partie du paysage ; sa famille est connue, et elle a construit son image. Zemmour, quant à lui, est arrivé rapidement, avec des caractéristiques souvent associées à l'élite culturelle et économique.
+
+La longue présence de Marine Le Pen et du RN sur la scène politique a permis d'estomper leur radicalité. Son arrivée au pouvoir n'est plus perçue comme une rupture. On croit qu'elle ne pourra pas tout appliquer et qu'elle sera bloquée, ce qui permet de relativiser sa potentielle accession au pouvoir.
+
+L'extrême droite est vue comme moins dangereuse qu'avant et moins extrême. Le stigmate social qui pesait sur elle est jugé dépassé. On distingue Marine Le Pen de son père. Si le FN était perçu comme un danger pour la démocratie par une large majorité jusqu'à la fin des années 2000, aujourd'hui, moins de la moitié des électeurs partagent ce sentiment.
+
+Cette dédiabolisation n'est pas nouvelle. La création du FN s'inscrivait déjà dans une volonté de normaliser les idées d'extrême droite. Cette normalisation n'est pas complète, et le RN conserve des marques de radicalité pour garder une image protestataire et antisystème.
+
+Protestataire et radical, le RN combine plusieurs images et joue sur plusieurs marqueurs pour attirer une population large.
+
+## Conclusion
+
+Pour comprendre la normalisation de l'extrême droite, il faut examiner la "normalité" de ses électeurs et les prendre au sérieux. Le vote RN permet de symboliser un ensemble d'expériences et d'interprétations de ces expériences. Les électeurs rencontrés sont marqués par une certaine fragilité et incertitude économiques, ce qui crée un rapport spécifique aux questions de redistribution et des biens publics. Les personnes racialisées sont perçues comme des concurrents dans ces sphères.
+
+L'existence des minorités et leur présence visible dans les espaces communs remettent en cause leur propre forme d'existence. Elles sont ressenties comme une forme d'attaque contre un mode de vie. La mise en compétition des ressources matérielles et symboliques renforce l'opposition racialisée. La racialisation devient un point central dans l'évaluation des différentes problématiques (logement, économie, social, etc.).
+
+Le racisme est une composante fondamentale du vote RN. Ce vote est aussi la reconnaissance d'une certaine forme de pouvoir racial et la volonté de préserver une forme de domination.
+
+La position sociale fragile vient activer la dimension raciale, surtout dans des contextes de concurrence, comme pour les lieux de résidence. La présence et l'augmentation des minorités racialisées fragilisent la position majoritaire des électeurs et remettent en cause leur statut "normalisé".
+
+La gauche a tendance à diluer la question raciale dans les enjeux économiques et sociaux, ou à la relativiser. Le racisme n'est pas un simple exutoire, mais une structure qui influence la représentation du monde. Ne pas le considérer comme un élément majeur dans l'analyse du lepénisme, c'est passer à côté d'une partie essentielle de l'analyse.
+
+Le vote Le Pen n'est pas un vote aveugle de colère. Il est orienté et correspond à une vision racialisée du monde et à une hostilité racialement marquée.
+
+Le racisme est une construction sociale et politique qui englobe des intérêts sociaux et matériels. Le lepénisme promet une reconnaissance sociale et économique aux classes populaires blanches.
+Considérer la montée du RN comme un fait anormal c'est occulter que ce vote s'inscrit dans un contexte sociale et politique qui permet cette montée. L'experssion d'un vote raciste est possible si les position et les idées sous jacentes sont accompagné.

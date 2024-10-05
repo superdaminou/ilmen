@@ -24,11 +24,11 @@ Sociologiquement, ce domaine a fortement changé. En prenant qu'à partir du dé
 
 Si l'on peut analyser l'histoire d'un point de vue sociologique, on peut aussi l'analyser d'un point de vue [[ideologie|idéologiques]]. Le développement de ce domaine est très étroitement lié à l'histoire et à la politique, comme tous les domaines.
 
-Le développement du traitement automatisé de l'information dans une société post révolution industrielle et un essor de l'électronique s'opère en parallèle d'une forte tension mondiale économique et sociale.
+Le développement du traitement automatisé de l'information, dans une société post révolution industrielle et un essor sur l'électronique, s'opère en parallèle d'une forte tension mondiale économique et sociale.
 
-La rapidité de développement est un enjeu de survie pour deux modèles, capitalisme et communisme, durant la guerre froide et précédemment un point majeur dans la victoire des Alliés sur L'Axe avec la machine Enigma.
+La rapidité de développement est un enjeu de survie pour deux modèles, capitalisme et communisme, durant la guerre froide et précédemment un point majeur dans la victoire des Alliés sur L'Axe avec la machine Enigma. L'informatique devient de plus en plus centrale dans l'organisation économique mondiale.
 
-L'inscription de l'informatique dans une histoire politique et sociale voit aussi la naissance de conflits internes à ce domaine. La démocratisation de l'ordinateur dans une période d'industrialisation du WEB a créé des philosophies et idéologies différentes sur cet outil son usage et cette science de l'informatique.
+L'inscription de l'informatique dans une histoire politique et sociale voit aussi la naissance de conflits internes à ce domaine. La démocratisation de l'ordinateur dans une période d'industrialisation du WEB a créé des philosophies et accompagné des idéologies.
 
 Ce domaine vu comme rigoureux, associé aux sciences mathématiques et analytiques dont la logique semblent être une composante fondamentale, est modelé par les affects et les rapports de forces.
 
@@ -46,3 +46,4 @@ Tout cela m'amène donc à dire que oui, je peux combiner sciences sociales et r
 - [Michel Bauwens : « Un rêve technocratique totalitaire »](https://www.lemonde.fr/economie/article/2016/04/18/michel-bauwens-un-reve-technocratique-totalitaire_4904154_3234.html)
 - [Jetbrain developer ecosystem](https://www.jetbrains.com/lp/devecosystem-2023/demographics/)
 - [# The Philosophy of Architecture - Barry O'Reilly - NDC Oslo 2024](https://www.youtube.com/watch?v=H8ZOp8ayluU)
+- [Survivre aux superintellygences](https://www.youtube.com/watch?v=v_sz0elq0eo)

@@ -6,7 +6,7 @@ tags:
 ---
 
 > [!info] TL;DR
-> la violence comme argument morale limite la compréhension d'un sujet. Il faut définir correctement, catégoriser et analyser les violences comme objets.
+> la violence comme argument morale limite la compréhension d'un sujet. Il faut définir correctement, catégoriser et analyser les violences comme objets et pas juste comme un chose unique.
 
 On parle souvent de violence dans le débat public et elle est souvent invoquée pour mobiliser contre un adversaire identifié comme violent ou pour décrédibiliser une personne, car elle aurait commis ou soutenu des violences. Bref c'est généralement un [[../philosophie/morale/morale|argument moral]] un peu facile à poser et qui empêche d'approfondir le fond du sujet.
 
@@ -54,4 +54,3 @@ La violence est souvent le résultat d'une organisation hiérarchique :
 - [Critique de la violence W. Benjamin](https://major-prepa.com/culture-generale/violence-droit-critique-benjamin/)
 - [Sapiens](https://www.fnac.com/a8625757/Yuval-Noah-Harari-Sapiens-edition-2022)
 - [BIEN FAIT - La croyance en un monde juste - Conférence du Rec 2022](https://www.youtube.com/watch?v=aYP7WXhQQFY)
--
