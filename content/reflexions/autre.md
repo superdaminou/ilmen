@@ -3,7 +3,7 @@ title: L'autre
 draft: true
 ---
 
-Je crois qu'une des plus vieilles "expérience philosophiques" que j'ai pu faire a été d'essayer de savoir "comment pense une fourmie". J'ai ce très vieux souvenir de moi enfant qui se demande comment une fourmie voit le monde ? J'essayais d'imaginer ce que pourrait être une pensée de fourmie.
+Je crois qu'une des plus vieilles "expérience philosophiques" que j'ai pu faire a été d'essayer de savoir "comment pense une fourmi". J'ai ce très vieux souvenir de moi enfant qui se demande comment une fourmie voit le monde ? J'essayais d'imaginer ce que pourrait être une pensée de fourmie.
 
 Cette question de la perception m'accompagne depuis longtemps. Comment pense l'autre ? Comment perçoit-il le monde ? Quand je suis dans un bus, un tram ou encore un train, ces dizaines, centaines de personnes ont une toutes et tous une vie intérieur. Qui a commencé avant que je les voie, qui dure tout le temps ou je les cotois et continuera après.
 

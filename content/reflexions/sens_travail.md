@@ -46,3 +46,4 @@ Dans un monde où l'automatisation est une question qui revient régulièrement,
 
 - [# Le Salaire à Vie (Bernard Friot)](https://www.youtube.com/watch?v=uhg0SUYOXjw)
 - [# Et si on était payé à ne rien faire ? | Les idées larges | ARTE](https://www.youtube.com/watch?v=50vPCv7EPWE)
+- [Bullshit Jobs](https://www.babelio.com/livres/Graeber-Bullshit-Jobs/1074915)

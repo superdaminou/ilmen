@@ -32,7 +32,3 @@ Tellement de critères, tellement d'exemple de gens qui ont l'air d'être meille
 Sûrement que je valorise mal les choses, ça ne serait pas la première fois. Et probablement ce que ces critères nous poussent tous à rentrer dans des cases et des costumes qui ne nous conviennent pas tout le temps pour correspondre aux images et aux récits associés.
 
 Al, je ne sais toujours pas si je suis un imposteur ou non. Mais j'essaye d'être juste. Je fais ce que je peux pour répondre aux attentes et j'essaye d'évaluer rationnellement ces attentes. J'essaye de mettre des mots sur ces sentiments et de leurs donner un sens.
-
-## Ressources diverses
-
-- [# How The Rhetoric of Imposter Syndrome Is Used to Gaslight Women in Tech](https://modelviewculture.com/pieces/how-the-rhetoric-of-imposter-syndrome-is-used-to-gaslight-women-in-tech)
